@@ -1,0 +1,1 @@
+{"query-monitor":"Query Monitor","safe-svg":"Safe SVG","use-bunnyfont-host-google-fonts":"Replace or Remove Google Fonts","woocommerce-paypal-payments":"WooCommerce PayPal Payments","woodmart-core":"Woodmart Core"}

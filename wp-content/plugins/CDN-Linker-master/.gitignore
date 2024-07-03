@@ -1,0 +1,4 @@
+*.komodoproject
+.komodotools
+mageekguy.atoum.phar
+README.pdf

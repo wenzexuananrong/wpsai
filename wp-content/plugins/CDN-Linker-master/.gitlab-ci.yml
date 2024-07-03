@@ -1,0 +1,32 @@
+get_dependencies:
+  stage: build
+  image: composer
+  script:
+  - composer install -n
+  cache:
+    key: "$CI_BUILD_STAGE"
+    paths:
+    - bin
+    - vendor
+
+.unit_test: &howto_unit_test
+  stage: test
+  script:
+  - bin/atoum -f test.php
+
+test:php_5:
+  <<: *howto_unit_test
+  image: 'php:5'
+
+test:php_7:
+  <<: *howto_unit_test
+  image: 'php:7'
+
+test:php_latest:
+  <<: *howto_unit_test
+  image: 'php'
+
+test:php_RC:
+  <<: *howto_unit_test
+  image: 'php:rc'
+  allow_failure: true

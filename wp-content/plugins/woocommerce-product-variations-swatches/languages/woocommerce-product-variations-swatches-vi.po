@@ -1,0 +1,1508 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Variation Swatches Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-18 04:43+0000\n"
+"PO-Revision-Date: 2022-08-31 02:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1"
+
+#: includes/admin/settings.php:401 includes/admin/settings.php:417
+msgid "%"
+msgstr "%"
+
+#: includes/admin/settings.php:174
+msgid "*Important: "
+msgstr "*Quan trọng:"
+
+#: includes/admin/global-attributes.php:324 
+#: includes/admin/global-attributes.php:484 includes/admin/settings.php:1487 
+#: includes/admin/setting-global-attrs.php:437 
+#: includes/admin/setting-global-attrs.php:788 
+#: includes/templates/html-global-attribute-item.php:97 
+#: includes/templates/html-product-attribute.php:470 
+#: includes/templates/html-product-attribute.php:606
+msgid "Action"
+msgstr "Thao tác"
+
+#: includes/templates/html-product-attribute.php:216
+msgid "Add"
+msgstr "Thêm"
+
+#: includes/templates/html-product-attribute.php:218
+msgid "Add new"
+msgstr "Thêm mới"
+
+#: includes/admin/settings.php:1140
+msgid "Add To Cart"
+msgstr "Thêm Vào Giỏ Hàng"
+
+#: includes/admin/settings.php:1307
+msgid "After cart"
+msgstr "Sau giỏ hàng"
+
+#: includes/admin/settings.php:1298
+msgid "After price"
+msgstr "Sau giá"
+
+#: includes/admin/settings.php:1301
+msgid "After price(alternative)"
+msgstr "Sau giá(thay thế)"
+
+#: includes/admin/settings.php:1289
+msgid "After title"
+msgstr "Sau tiêu đề"
+
+#: includes/admin/settings.php:947 includes/admin/settings.php:1081
+msgid "Ajax variation threshold"
+msgstr "Ngưỡng sắp hết hàng ajax"
+
+#: includes/admin/settings.php:207
+msgid "and"
+msgstr "và"
+
+#: includes/admin/settings.php:1462
+msgid "Apply these settings for attributes that match conditions"
+msgstr "Áp dụng cài đặt này cho những thuộc tính đáp ứng điều kiện"
+
+#: includes/admin/settings.php:1241
+msgid "Assign page"
+msgstr "Chọn trang"
+
+#: includes/admin/settings.php:373
+msgid "Attribute image size"
+msgstr "Kích thước ảnh thuộc tính"
+
+#: includes/admin/settings.php:1466
+msgid "Attribute name"
+msgstr "Tên thuộc tính"
+
+#: includes/admin/settings.php:837
+msgid "Attribute value for Color/Image type"
+msgstr "Giá trị thuộc tính cho kiểu Màu/Ảnh"
+
+#: includes/admin/global-attributes.php:112 
+#: includes/admin/global-attributes.php:201 includes/admin/settings.php:1590 
+#: includes/admin/setting-global-attrs.php:399 
+#: includes/admin/setting-global-attrs.php:514 
+#: includes/admin/setting-global-attrs.php:589 
+#: includes/templates/html-product-attribute.php:145 
+#: includes/templates/html-product-attribute.php:371
+msgid "Auto detect variation image"
+msgstr "Tự động tìm kiếm ảnh biến thể"
+
+#: includes/admin/settings.php:1619
+msgid "Auto Update Key"
+msgstr "Mã tự động cập nhật"
+
+#: includes/class-wc-widget-layered-nav.php:196 
+#: includes/class-wc-widget-layered-nav.php:230 
+#: includes/class-wc-widget-layered-nav.php:264 
+#: includes/class-wc-widget-layered-nav.php:327 
+#: includes/class-wc-widget-layered-nav.php:403 
+#: includes/class-wc-widget-layered-nav.php:446 
+#: includes/admin/woo-widget.php:171 includes/admin/woo-widget.php:207 
+#: includes/admin/woo-widget.php:236 includes/admin/woo-widget.php:280 
+#: includes/admin/woo-widget.php:335 includes/admin/woo-widget.php:373 
+#: includes/admin/settings.php:630 includes/admin/settings.php:733 
+#: includes/admin/settings.php:925
+msgid "Background"
+msgstr "Nền"
+
+#: includes/admin/settings.php:437 includes/admin/settings.php:539
+msgid "Background color"
+msgstr "Màu nền"
+
+#: includes/admin/global-attributes.php:387 
+#: includes/admin/global-attributes.php:518 
+#: includes/admin/setting-global-attrs.php:760 
+#: includes/templates/html-global-attribute-item.php:75 
+#: includes/templates/html-product-attribute.php:447 
+#: includes/templates/html-product-attribute.php:583
+msgid "Basic diagonal left"
+msgstr "Chéo trái cơ bản"
+
+#: includes/admin/global-attributes.php:390 
+#: includes/admin/global-attributes.php:521 
+#: includes/admin/setting-global-attrs.php:763 
+#: includes/templates/html-global-attribute-item.php:78 
+#: includes/templates/html-product-attribute.php:450 
+#: includes/templates/html-product-attribute.php:586
+msgid "Basic diagonal right"
+msgstr "Chéo phải cơ bản"
+
+#: includes/admin/global-attributes.php:381 
+#: includes/admin/global-attributes.php:512 
+#: includes/admin/setting-global-attrs.php:754 
+#: includes/templates/html-global-attribute-item.php:69 
+#: includes/templates/html-product-attribute.php:441 
+#: includes/templates/html-product-attribute.php:577
+msgid "Basic horizontal"
+msgstr "Ngang cơ bản "
+
+#: includes/admin/global-attributes.php:384 
+#: includes/admin/global-attributes.php:515 
+#: includes/admin/setting-global-attrs.php:757 
+#: includes/templates/html-global-attribute-item.php:72 
+#: includes/templates/html-product-attribute.php:444 
+#: includes/templates/html-product-attribute.php:580
+msgid "Basic vertical"
+msgstr "Dọc cơ bản "
+
+#: includes/admin/settings.php:1304
+msgid "Before cart"
+msgstr "Trước giỏ hàng"
+
+#: includes/admin/settings.php:1292
+msgid "Before price"
+msgstr "Trước giá"
+
+#: includes/admin/settings.php:1295
+msgid "Before price(alternative)"
+msgstr "Trước giá(thay thế)"
+
+#: includes/admin/settings.php:1286
+msgid "Before title"
+msgstr "Trước tiêu đề"
+
+#: includes/admin/settings.php:511
+msgid "Blur"
+msgstr "Làm mờ"
+
+#: includes/admin/settings.php:152
+msgid "Blur out backorders"
+msgstr "Làm mờ với sản phẩm cho phép đặt hàng trước"
+
+#: includes/admin/settings.php:514
+msgid "Blur with icon"
+msgstr "Làm mờ với biểu tượng"
+
+#: includes/class-wc-widget-layered-nav.php:330 
+#: includes/class-wc-widget-layered-nav.php:406 
+#: includes/class-wc-widget-layered-nav.php:449 
+#: includes/admin/woo-widget.php:287 includes/admin/woo-widget.php:342 
+#: includes/admin/woo-widget.php:380 includes/admin/settings.php:446 
+#: includes/admin/settings.php:548 includes/admin/settings.php:639 
+#: includes/admin/settings.php:742
+msgid "Border color"
+msgstr "Màu viền"
+
+#: includes/admin/woo-widget.php:311 includes/admin/woo-widget.php:349 
+#: includes/admin/woo-widget.php:387 includes/admin/settings.php:459 
+#: includes/admin/settings.php:561 includes/admin/settings.php:652 
+#: includes/admin/settings.php:786
+msgid "Border radius"
+msgstr "Độ cong viền"
+
+#: includes/class-wc-widget-layered-nav.php:370 
+#: includes/class-wc-widget-layered-nav.php:409 
+#: includes/class-wc-widget-layered-nav.php:452
+msgid "Border radius(px)"
+msgstr "Độ cong viền(px)"
+
+#: includes/class-wc-widget-layered-nav.php:367 
+#: includes/admin/woo-widget.php:304 includes/admin/settings.php:474 
+#: includes/admin/settings.php:576 includes/admin/settings.php:667
+msgid "Border width"
+msgstr "Độ rộng viền"
+
+#: includes/admin/settings.php:771 includes/admin/settings.php:864
+msgid "Bottom"
+msgstr "Dưới"
+
+#: includes/class-wc-widget-layered-nav.php:199 
+#: includes/class-wc-widget-layered-nav.php:233 
+#: includes/class-wc-widget-layered-nav.php:267 
+#: includes/admin/woo-widget.php:178 includes/admin/woo-widget.php:214 
+#: includes/admin/woo-widget.php:243 includes/admin/settings.php:491 
+#: includes/admin/settings.php:593 includes/admin/settings.php:684
+msgid "Box shadow color"
+msgstr "Màu bóng đổ"
+
+#: includes/class-wc-widget-layered-nav.php:108 
+#: includes/admin/global-attributes.php:84 includes/admin/settings.php:138
+msgid "Button"
+msgstr "Nút"
+
+#: includes/admin/settings.php:1904
+msgid "Can not remove all Countdown timer settings."
+msgstr "Không thể xóa hết cài đặt Trình đếm ngược"
+
+#: includes/templates/html-product-attribute.php:245
+msgid "Cancel"
+msgstr "Hủy"
+
+#: includes/admin/settings.php:1044 includes/admin/settings.php:1264
+msgid "Center"
+msgstr "Giữa"
+
+#: includes/admin/woo-widget.php:98
+msgid ""
+"Change  'Display type' on Widget settings to  'List' to use the below "
+"settings"
+msgstr ""
+"Thay đổi \"Loại hiển thị\" trong cài đặt Widget thành \"Danh sách\" để sử "
+"dụng những cài đặt bên dưới"
+
+#: includes/admin/global-attributes.php:106 
+#: includes/admin/global-attributes.php:193 includes/admin/settings.php:1484 
+#: includes/admin/setting-global-attrs.php:394 
+#: includes/admin/setting-global-attrs.php:431
+msgid "Change product image"
+msgstr "Thay đổi ảnh sản phẩm"
+
+#: includes/admin/settings.php:602 includes/admin/settings.php:693
+msgid "Change the size of attribute items"
+msgstr "Thay đổi kích cỡ của giá trị thuộc tính"
+
+#: includes/admin/settings.php:386
+msgid "Change the size of attribute items on"
+msgstr "Thay đổi kích cỡ của giá trị thuộc tính trên"
+
+#: includes/admin/global-attributes.php:111 
+#: includes/admin/global-attributes.php:200 includes/admin/settings.php:1589 
+#: includes/admin/setting-global-attrs.php:398 
+#: includes/admin/setting-global-attrs.php:513 
+#: includes/admin/setting-global-attrs.php:588 
+#: includes/templates/html-product-attribute.php:144 
+#: includes/templates/html-product-attribute.php:370
+msgid "Change to image set for attribute"
+msgstr "Đổi thành ảnh thuộc tính"
+
+#: includes/admin/global-attributes.php:439 
+#: includes/admin/global-attributes.php:560 
+#: includes/admin/setting-global-attrs.php:730 
+#: includes/templates/html-global-attribute-item.php:55 
+#: includes/templates/html-product-attribute.php:428 
+#: includes/templates/html-product-attribute.php:563
+msgid "Choose an image"
+msgstr "Chọn ảnh"
+
+#: includes/frontend/frontend.php:158 includes/frontend/frontend.php:167 
+#: includes/frontend/frontend.php:274 includes/frontend/frontend.php:369 
+#: includes/frontend/frontend.php:912 includes/frontend/frontend.php:1324
+msgid "Choose an option"
+msgstr "Chọn"
+
+#: includes/templates/html-product-attribute.php:98 
+#: includes/templates/html-product-attribute.php:324
+msgid "Choose display style"
+msgstr "Chọn kiểu hiển thị"
+
+#: includes/templates/html-product-attribute.php:112 
+#: includes/templates/html-product-attribute.php:338
+msgid "Choose display type"
+msgstr "Chọn loại hiển thị"
+
+#: includes/templates/html-product-attribute.php:127 
+#: includes/templates/html-product-attribute.php:353
+msgid "Choose swatches profile"
+msgstr "Chọn mẫu thiết kế"
+
+#: includes/admin/settings.php:1425
+msgid ""
+"Choose type of the attribute to convert to slider. Leave blank to apply for "
+"Image,Variation Image, Color type"
+msgstr ""
+"Chọn kiểu thuộc tính để chuyển thành thanh trượt. Nếu để trống, sẽ áp dụng "
+"với các kiểu Ảnh, Ảnh Biến Thể, và Màu"
+
+#: includes/admin/settings.php:979 includes/admin/settings.php:1205
+msgid "Clear on Reselect"
+msgstr "Xóa khi Chọn lại"
+
+#: includes/admin/settings.php:196 includes/admin/settings.php:199 
+#: includes/admin/settings.php:202 includes/admin/settings.php:205 
+#: includes/admin/settings.php:208 includes/admin/settings.php:2026
+msgid "Click to copy"
+msgstr "Nhấn để sao chép"
+
+#: includes/templates/html-product-attribute.php:18
+msgid "Click to toggle"
+msgstr "Nhấn để thu gọn"
+
+#: includes/admin/global-attributes.php:339 
+#: includes/admin/global-attributes.php:358 
+#: includes/admin/global-attributes.php:494 includes/admin/settings.php:292 
+#: includes/admin/settings.php:1600 
+#: includes/admin/setting-global-attrs.php:530 
+#: includes/admin/setting-global-attrs.php:605 
+#: includes/admin/setting-global-attrs.php:803 
+#: includes/admin/setting-global-attrs.php:824 
+#: includes/templates/html-global-attribute-item.php:112 
+#: includes/templates/html-global-attribute-item.php:134 
+#: includes/templates/html-product-attribute.php:395 
+#: includes/templates/html-product-attribute.php:485 
+#: includes/templates/html-product-attribute.php:506 
+#: includes/templates/html-product-attribute.php:532 
+#: includes/templates/html-product-attribute.php:617
+msgid "Clone"
+msgstr "Nhân bản"
+
+#: includes/admin/custom-attribute.php:342
+msgid "Close"
+msgstr "Đóng"
+
+#: includes/class-wc-widget-layered-nav.php:111 
+#: includes/class-wc-widget-layered-nav.php:193 
+#: includes/class-wc-widget-layered-nav.php:227 
+#: includes/class-wc-widget-layered-nav.php:261 
+#: includes/class-wc-widget-layered-nav.php:324 
+#: includes/class-wc-widget-layered-nav.php:400 
+#: includes/class-wc-widget-layered-nav.php:443 
+#: includes/admin/woo-widget.php:164 includes/admin/woo-widget.php:200 
+#: includes/admin/woo-widget.php:229 includes/admin/woo-widget.php:273 
+#: includes/admin/woo-widget.php:328 includes/admin/woo-widget.php:366 
+#: includes/admin/global-attributes.php:85 
+#: includes/admin/global-attributes.php:318 
+#: includes/admin/global-attributes.php:323 
+#: includes/admin/global-attributes.php:478 
+#: includes/admin/global-attributes.php:483 includes/admin/settings.php:1414 
+#: includes/admin/setting-global-attrs.php:737 
+#: includes/admin/setting-global-attrs.php:782 
+#: includes/admin/setting-global-attrs.php:787 
+#: includes/templates/html-global-attribute-item.php:61 
+#: includes/templates/html-global-attribute-item.php:96 
+#: includes/templates/html-product-attribute.php:434 
+#: includes/templates/html-product-attribute.php:469 
+#: includes/templates/html-product-attribute.php:569 
+#: includes/templates/html-product-attribute.php:605
+msgid "Color"
+msgstr "Màu"
+
+#: includes/admin/global-attributes.php:374 
+#: includes/admin/global-attributes.php:506 
+#: includes/admin/setting-global-attrs.php:747 
+#: includes/templates/html-global-attribute-item.php:64 
+#: includes/templates/html-product-attribute.php:437 
+#: includes/templates/html-product-attribute.php:573
+msgid "Color separator"
+msgstr "Phân cách màu"
+
+#: includes/admin/settings.php:1461
+msgid "Conditions(AND)"
+msgstr "Điều kiện(VÀ)"
+
+#: includes/admin/settings.php:2027
+msgid "Copied to clipboard!"
+msgstr "Đã sao chép!"
+
+#: includes/admin/setting-global-attrs.php:185
+msgid "Current Page"
+msgstr "Trang Hiện Tại"
+
+#: includes/class-wc-widget-layered-nav.php:147 
+#: includes/class-wc-widget-layered-nav.php:303
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: includes/admin/settings.php:1514
+msgid "Custom attribute name"
+msgstr "Tên thuộc tính tùy chỉnh"
+
+#: includes/admin/settings.php:118
+msgid "Custom Attributes"
+msgstr "Thuộc Tính Tùy Chỉnh"
+
+#: includes/admin/settings.php:180
+msgid "Custom css"
+msgstr "CSS tùy chỉnh"
+
+#: includes/admin/settings.php:1319
+msgid "Custom position"
+msgstr "Vị trí tùy chỉnh"
+
+#: includes/admin/settings.php:1310
+msgid "Custom position only"
+msgstr "Chỉ dùng vị trí tùy chỉnh"
+
+#: includes/admin/settings.php:885
+msgid "Cut off long text"
+msgstr "Cắt chữ nếu bị tràn"
+
+#: includes/class-wc-widget-layered-nav.php:145 
+#: includes/class-wc-widget-layered-nav.php:301
+msgid "Default"
+msgstr "Mặc định"
+
+#: includes/admin/setting-global-attrs.php:321
+msgid "Default design"
+msgstr "Thiết kế mặc định"
+
+#: includes/admin/settings.php:128
+msgid "Default display type"
+msgstr "Loại hiển thị mặc định"
+
+#: includes/admin/settings.php:281
+msgid "Default profile"
+msgstr "Mẫu thiết kế mặc định"
+
+#: includes/class-wc-widget-layered-nav.php:160 
+#: includes/class-wc-widget-layered-nav.php:317 
+#: includes/admin/woo-widget.php:149 includes/admin/woo-widget.php:260 
+#: includes/admin/settings.php:298
+msgid "Default styling"
+msgstr "Tùy chỉnh trạng thái mặc định"
+
+#: includes/admin/woo-widget.php:144
+msgid "Design attribute"
+msgstr "Thiết kế thuộc tính"
+
+#: includes/class-wc-widget-layered-nav.php:139 
+#: includes/class-wc-widget-layered-nav.php:159
+msgid "Design attribute details"
+msgstr "Thiết kế chi tiết thuộc tính"
+
+#: includes/class-wc-widget-layered-nav.php:295 
+#: includes/class-wc-widget-layered-nav.php:316
+msgid "Design product count"
+msgstr "Tùy biến số lượng sản phẩm"
+
+#: includes/admin/global-attributes.php:145 
+#: includes/admin/global-attributes.php:248
+msgid "Design profile"
+msgstr "Tùy chỉnh mẫu"
+
+#: includes/admin/setting-global-attrs.php:411
+msgid "Design with Product category"
+msgstr "Thiết kế với Danh mục sản phẩm"
+
+#: includes/admin/settings.php:960 includes/admin/settings.php:1094
+msgid "Disable 'out of stock' variation items"
+msgstr "Tắt biến thể hết hàng"
+
+#: includes/templates/html-product-attribute.php:75 
+#: includes/templates/html-product-attribute.php:301
+msgid ""
+"Disable option 'Enable add to cart' in Swatches on Product List tab  to do "
+"display setting for the attribute on Product List pages"
+msgstr ""
+"Tắt tùy chọn \"Thêm vào giỏ hàng\" trong \"Trong Danh Sách Sản Phẩm\" để bật "
+"cài đặt hiển thị cho thuộc tính trong các trang Danh Sách Sản Phẩm"
+
+#: includes/class-wc-widget-layered-nav.php:178 
+#: includes/admin/woo-widget.php:153
+msgid "Display attribute label for color and image type"
+msgstr "Hiển thị nhãn thuộc tính với kiểu màu và kiểu ảnh"
+
+#: includes/class-wc-widget-layered-nav.php:86 
+#: includes/admin/woo-widget.php:126 includes/admin/global-attributes.php:132 
+#: includes/admin/global-attributes.php:231 includes/admin/settings.php:1478 
+#: includes/admin/setting-global-attrs.php:349 
+#: includes/admin/setting-global-attrs.php:434
+msgid "Display style"
+msgstr "Cách hiển thị"
+
+#: includes/admin/settings.php:1029
+msgid "Display the selected item beside attribute title on single product page"
+msgstr "Hiển thị mục được chọn bên cạnh tên thuộc tính trên trang sản phẩm"
+
+#: includes/class-wc-widget-layered-nav.php:102 
+#: includes/admin/settings.php:1472 
+#: includes/admin/setting-global-attrs.php:363 
+#: includes/admin/setting-global-attrs.php:422
+msgid "Display type"
+msgstr "Kiểu hiển thị"
+
+#: includes/admin/settings.php:505
+msgid "Do not change"
+msgstr "Không thay đổi"
+
+#: includes/templates/html-product-attribute.php:20
+msgid "Drag and drop to set admin attribute order"
+msgstr "Kéo thả thuộc tính để điều chỉnh thứ tự"
+
+#: includes/admin/settings.php:1245
+msgid "eg: !is_page(array(34,98,73))"
+msgstr "eg: !is_page(array(34,98,73))"
+
+#: includes/admin/settings.php:327
+msgid "eg: 3px 5px"
+msgstr "eg: 3px 5px"
+
+#: includes/class-wc-widget-layered-nav.php:321 
+#: includes/admin/woo-widget.php:105 includes/admin/woo-widget.php:265 
+#: includes/admin/settings.php:712 includes/admin/settings.php:844 
+#: includes/admin/settings.php:1064 includes/admin/settings.php:1359 
+#: includes/admin/settings.php:1397
+msgid "Enable"
+msgstr "Bật"
+
+#: includes/admin/settings.php:1112
+msgid "Enable add to cart"
+msgstr "Thêm vào giỏ hàng"
+
+#: includes/admin/settings.php:998
+msgid "Enable attribute title"
+msgstr "Bật tên thuộc tính"
+
+#: includes/admin/settings.php:1172
+msgid "Enable product quantity"
+msgstr "Hiển thị số lượng sản phẩm"
+
+#: includes/admin/global-attributes.php:125 
+#: includes/admin/global-attributes.php:222
+msgid "Enable this if you want this attribute to show in product list."
+msgstr "Bật tùy chọn để hiển thị thuộc tính trong danh sách sản phẩm. "
+
+#: includes/admin/settings.php:1199
+msgid "Enable to show the attribute name on the product list"
+msgstr "Bật tùy chọn để hiển thị tên thuộc tính trong danh sách sản phẩm"
+
+#: includes/admin/settings.php:1224
+msgid "Enable tooltip"
+msgstr "Bật chú thích"
+
+#: includes/admin/custom-attribute.php:339
+msgid "Expand"
+msgstr "Mở rộng"
+
+#: includes/admin/settings.php:1656
+msgid "Export Settings"
+msgstr "Xuất Cài Đặt"
+
+#: includes/admin/settings.php:1766
+msgid "File is empty."
+msgstr "Tệp trống."
+
+#: includes/admin/settings.php:1748
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini or by post_max_size "
+"being defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+"Tệp trống. Vui lòng tải lên tệp khác quan trọng tải lên tệp khác. Lỗi này có "
+"thể do tệp tải lên bị vô hiệu trong php.ini hoặc do giá trị post_max_size "
+"được đặt nhỏ hơn upload_max_filesize trong php.ini."
+
+#: includes/admin/settings.php:1753
+msgid "File is error."
+msgstr "Tệp bị lỗi. "
+
+#: includes/admin/setting-global-attrs.php:157
+msgid "First Page"
+msgstr "Trang Đầu Tiên"
+
+#: includes/admin/settings.php:902
+msgid "Font scale"
+msgstr "Tỉ lệ phông chữ"
+
+#: includes/admin/settings.php:357 includes/admin/settings.php:801
+msgid "Font size"
+msgstr "Cỡ chữ"
+
+#: includes/admin/settings.php:211
+msgid ""
+"For Color/Image type, you are now be able to display the attribute value "
+"along with color or image"
+msgstr ""
+"Với kiểu Ảnh/Màu, có thể hiển thị giá trị thuộc tính cùng với màu hoặc ảnh"
+
+#: includes/admin/settings.php:1453
+msgid ""
+"For each rule, if a custom attribute has the same name(case-insensitive) as "
+"field \"Attribute name\" and products that contain this custom attribute "
+"belongs to one of selected \"Product category\", the swatches settings of "
+"current rule will be applied to that custom attribute"
+msgstr ""
+"Với mỗi quy tắc, nếu một thuộc tính tùy chỉnh có cùng tên (không phân biệt "
+"chữ hoa chữ thường) với tên trong trường \"Tên thuộc tính\" và sản phẩm chứa "
+"thuộc tính tùy chỉnh này thuộc một trong số \"Danh mục sản phẩm\" được chọn, "
+"cài đặt mẫu của quy tắc hiện tại sẽ được áp dụng với thuộc tính tùy chỉnh đó"
+
+#: includes/admin/settings.php:173
+msgid ""
+"For products that have more than 1 attribute, when selecting a value of the "
+"first attribute but the current combination is not available, select this "
+"value anyway and change selections of other attributes instead"
+msgstr ""
+"Với sản phẩm có nhiều hơn 1 thuộc tính, khi chọn giá trị của thuộc tính đầu "
+"tiên nhưng sự kết hợp hiện tại không có sẵn, vẫn chon giá trị này nhưng thay "
+"đổi lựa chọn của các thuộc tính khác "
+
+#: includes/admin/woo-widget.php:99
+msgid ""
+"For special taxonomy, please go to 'Global Attributes' to set display type"
+msgstr ""
+"Với phân loại (taxonomy) đặc biệt, vui lòng tới 'Thuộc Tính Chung' để chọn "
+"kiểu hiển thị"
+
+#: includes/admin/woo-widget.php:80 includes/admin/settings.php:110
+msgid "General Settings"
+msgstr "Cài Đặt Chung"
+
+#: includes/admin/settings.php:1631
+msgid "Get Key"
+msgstr "Lấy Mã"
+
+#: includes/admin/setting-global-attrs.php:97
+msgid "Global Attributes"
+msgstr "Thuộc Tính Chung"
+
+#: includes/templates/html-product-attribute.php:143 
+#: includes/templates/html-product-attribute.php:369
+msgid "Global Change product image"
+msgstr "Đổi ảnh sản phẩm Chung"
+
+#: includes/templates/html-product-attribute.php:86 
+#: includes/templates/html-product-attribute.php:312
+msgid "Global Product list visibility"
+msgstr "Danh Sách Sản Phẩm"
+
+#: includes/templates/html-product-attribute.php:129 
+#: includes/templates/html-product-attribute.php:355
+msgid "Global Profile"
+msgstr "Mẫu Thiết Kế Chung"
+
+#: includes/templates/html-product-attribute.php:100 
+#: includes/templates/html-product-attribute.php:326
+msgid "Global Style"
+msgstr "Cách Chung"
+
+#: includes/templates/html-product-attribute.php:114 
+#: includes/templates/html-product-attribute.php:340
+msgid "Global Type"
+msgstr "Kiểu Chung"
+
+#: includes/admin/global-attributes.php:399 
+#: includes/admin/global-attributes.php:530 
+#: includes/admin/setting-global-attrs.php:772 
+#: includes/templates/html-global-attribute-item.php:87 
+#: includes/templates/html-product-attribute.php:459 
+#: includes/templates/html-product-attribute.php:595
+msgid "Hard lines diagonal left"
+msgstr "Chéo trái cứng"
+
+#: includes/admin/global-attributes.php:402 
+#: includes/admin/global-attributes.php:533 
+#: includes/admin/setting-global-attrs.php:775 
+#: includes/templates/html-global-attribute-item.php:90 
+#: includes/templates/html-product-attribute.php:462 
+#: includes/templates/html-product-attribute.php:598
+msgid "Hard lines diagonal right"
+msgstr "Chéo phải cứng"
+
+#: includes/admin/global-attributes.php:393 
+#: includes/admin/global-attributes.php:524 
+#: includes/admin/setting-global-attrs.php:766 
+#: includes/templates/html-global-attribute-item.php:81 
+#: includes/templates/html-product-attribute.php:453 
+#: includes/templates/html-product-attribute.php:589
+msgid "Hard lines horizontal"
+msgstr "Ngang cứng"
+
+#: includes/admin/global-attributes.php:396 
+#: includes/admin/global-attributes.php:527 
+#: includes/admin/setting-global-attrs.php:769 
+#: includes/templates/html-global-attribute-item.php:84 
+#: includes/templates/html-product-attribute.php:456 
+#: includes/templates/html-product-attribute.php:592
+msgid "Hard lines vertical"
+msgstr "Dọc cứng"
+
+#: includes/admin/settings.php:331
+msgid "Height"
+msgstr "Chiều cao"
+
+#: includes/admin/settings.php:508
+msgid "Hide"
+msgstr "Ẩn"
+
+#: includes/templates/html-product-attribute.php:92 
+#: includes/templates/html-product-attribute.php:318
+msgid "Hide in product list"
+msgstr "Ẩn trong danh sách sản phẩm"
+
+#: includes/class-wc-widget-layered-nav.php:92 
+#: includes/admin/woo-widget.php:132 includes/admin/global-attributes.php:139 
+#: includes/admin/global-attributes.php:240 includes/admin/settings.php:1573 
+#: includes/admin/setting-global-attrs.php:357 
+#: includes/admin/setting-global-attrs.php:524 
+#: includes/admin/setting-global-attrs.php:599 
+#: includes/templates/html-product-attribute.php:106 
+#: includes/templates/html-product-attribute.php:332
+msgid "Horizontal"
+msgstr "Ngang"
+
+#: includes/class-wc-widget-layered-nav.php:223 
+#: includes/class-wc-widget-layered-nav.php:396 
+#: includes/admin/woo-widget.php:195 includes/admin/woo-widget.php:323 
+#: includes/admin/settings.php:523
+msgid "Hover styling"
+msgstr "Tùy chỉnh trạng thái khi di chuột"
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr "https://villatheme.com"
+
+#. URI of the plugin
+msgid ""
+"https://villatheme.com/extensions/woocommerce-product-variations-swatches/"
+msgstr ""
+"https://villatheme.com/extensions/woocommerce-product-variations-swatches/"
+
+#: includes/admin/settings.php:1455
+msgid ""
+"If \"Enable add to cart\" option(Swatches on Product List) is ON, \"Show in "
+"product list\" option cannot be changed"
+msgstr ""
+"Nếu bật tùy chọn \"Thêm vào giỏ hàng\" (Trong Danh Sách Sản Phẩm), không thể "
+"thay đổi tùy chọn \"Hiện trong danh sách sản phẩm\""
+
+#: includes/admin/settings.php:1326
+msgid ""
+"If none of the above positions work, you can enter a specific hook here. "
+"It's technical so you should ask a theme or plugin developer about the "
+"needed hook."
+msgstr ""
+"Nếu không thể dùng một trong các vị trí trên, có thể điền một điểm neo (hook)"
+" cụ thể vào đây. Điểm neo (hook) cần được thêm nên được xem xét bởi lập "
+"trình viên chủ đề/plugin có kinh nghiệm."
+
+#: includes/admin/settings.php:1454
+msgid ""
+"If Product category of a rule is empty, this rule will be applied to "
+"products from all categories"
+msgstr ""
+"Nếu trường \"Danh mục sản phẩm\" của một quy tắc trống, quy tắc này sẽ được "
+"áp dụng cho tất cả sản phẩm của tất cả các danh mục"
+
+#: includes/admin/woo-widget.php:121
+msgid "If set to 0, all terms will be shown by default."
+msgstr "Nếu đặt là 0, tất cả giá trị thuộc tính sẽ mặc định được hiển thị"
+
+#: includes/class-wc-widget-layered-nav.php:114 
+#: includes/admin/global-attributes.php:86 
+#: includes/admin/global-attributes.php:424 
+#: includes/admin/global-attributes.php:549 includes/admin/settings.php:1417 
+#: includes/admin/setting-global-attrs.php:711 
+#: includes/templates/html-global-attribute-item.php:38 
+#: includes/templates/html-product-attribute.php:410 
+#: includes/templates/html-product-attribute.php:546
+msgid "Image"
+msgstr "Ảnh"
+
+#: includes/templates/html-global-attribute-item.php:39 
+#: includes/templates/html-product-attribute.php:411 
+#: includes/templates/html-product-attribute.php:547
+msgid ""
+"Image can also be used for \"Change product image\" option if attribute type "
+"is not Image"
+msgstr ""
+"Ảnh cũng được sử dụng cho tùy chọn \"Thay đổi ảnh sản phẩm\" nếu kiểu thuộc "
+"tính không phải Ảnh"
+
+#: includes/admin/settings.php:1668
+msgid "Import"
+msgstr "Nhập"
+
+#: includes/admin/settings.php:1652
+msgid "Import Settings"
+msgstr "Nhập Cài Đặt"
+
+#: includes/admin/setting-global-attrs.php:222
+msgid "Last Page"
+msgstr "Trang Cuối"
+
+#: includes/admin/settings.php:774 includes/admin/settings.php:1047 
+#: includes/admin/settings.php:1267
+msgid "Left"
+msgstr "Trái"
+
+#: includes/admin/setting-global-attrs.php:661
+msgid "Loading"
+msgstr "Đang tải"
+
+#: includes/admin/woo-widget.php:116
+msgid "Max items"
+msgstr "Hiển thị tối đa"
+
+#: includes/admin/settings.php:1333
+msgid "Maximum attribute items"
+msgstr "Giá trị thuộc tính hiển thị tối đa"
+
+#: includes/admin/woo-widget.php:120
+msgid ""
+"Maximum items shown by default. There will be a \"Show more\" button if the "
+"number of attributes is greater than this value."
+msgstr ""
+"Số lượng giá trị thuộc tính tối đa được mặc định hiển thị. Nếu số lượng giá "
+"trị thuộc tính lớn hơn số lượng này, hiện nút \"Xem thêm\"."
+
+#: includes/admin/settings.php:319
+msgid "Millisecond"
+msgstr "Mili giây"
+
+#: includes/admin/settings.php:1433
+msgid "Minimum attribute items"
+msgstr "Giá trị thuộc tính tối thiểu"
+
+#: includes/admin/settings.php:408
+msgid "Mobile"
+msgstr "Điện thoại"
+
+#: includes/admin/settings.php:302 
+#: includes/templates/html-product-attribute.php:40 
+#: includes/templates/html-product-attribute.php:272 
+#: includes/templates/html-product-attribute.php:401 
+#: includes/templates/html-product-attribute.php:537
+msgid "Name"
+msgstr "Tên"
+
+#: includes/admin/settings.php:1909
+msgid "Names are unique."
+msgstr "Tên không được trùng lặp"
+
+#: includes/admin/settings.php:1915
+msgid "Names can not be empty."
+msgstr "Tên không được để trống."
+
+#: includes/admin/setting-global-attrs.php:205
+msgid "Next Page"
+msgstr "Trang Tiếp Theo"
+
+#: includes/admin/setting-global-attrs.php:627
+msgid "No attributes currently exist."
+msgstr "Hiện không có thuộc tính nào tồn tại."
+
+#: includes/admin/settings.php:135
+msgid "No change"
+msgstr "Không thay đổi"
+
+#: includes/admin/setting-global-attrs.php:919
+msgid "No taxonomy found."
+msgstr "Không tìm được taxonomy nào."
+
+#: includes/admin/global-attributes.php:110 
+#: includes/admin/global-attributes.php:199 includes/admin/settings.php:1588 
+#: includes/admin/setting-global-attrs.php:397 
+#: includes/admin/setting-global-attrs.php:512 
+#: includes/admin/setting-global-attrs.php:587 
+#: includes/templates/html-product-attribute.php:146 
+#: includes/templates/html-product-attribute.php:372
+msgid "Not change"
+msgstr "Không thay đổi"
+
+#: includes/admin/setting-global-attrs.php:126
+msgid "Number of items per page"
+msgstr "Số lượng thuộc tính trên trang"
+
+#: includes/admin/setting-global-attrs.php:190
+msgid "of"
+msgstr "của"
+
+#: includes/class-wc-widget-layered-nav.php:486 
+#: includes/templates/html-product-attribute.php:244
+msgid "OK"
+msgstr "Đồng ý"
+
+#: includes/admin/settings.php:1217
+msgid "On Product list, clicking on a selected attribute will deselect it"
+msgstr ""
+"Trên Danh sách sản phẩm, nhấn vào thuộc tính được chọn sẽ bỏ chọn thuộc tính "
+"đó"
+
+#: includes/admin/settings.php:991
+msgid ""
+"On single product page, clicking on a selected attribute will deselect it"
+msgstr ""
+"Trên trang sản phẩm, nhấn vào thuộc tính được chọn sẽ bỏ chọn thuộc tính đó"
+
+#: includes/admin/settings.php:500
+msgid "Out of stock"
+msgstr "Hết hàng"
+
+#: includes/class-wc-widget-layered-nav.php:167 
+#: includes/class-wc-widget-layered-nav.php:364 
+#: includes/admin/woo-widget.php:185 includes/admin/woo-widget.php:297 
+#: includes/admin/settings.php:324
+msgid "Padding"
+msgstr "Lề trong (padding)"
+
+#: includes/frontend/woo-widget.php:168
+msgid "Please change 'Display type' to 'List' to use swatches style"
+msgstr ""
+"Vui lòng chọn 'Kiểu hiển thị' là 'Danh sách' để áp dụng tùy biến của mẫu "
+"biến thể"
+
+#: includes/admin/settings.php:1635
+msgid ""
+"Please fill your key what you get from <a target=\"_blank\" href=\"https:"
+"//villatheme.com/my-download\">https://villatheme.com/my-download</a>. You "
+"can auto update WooCommerce Product Variations Swatches plugin. See <a "
+"target=\"_blank\" href=\"https://villatheme.com/knowledge-base/how-to-use-"
+"auto-update-feature/\">guide</a>"
+msgstr ""
+"Vui lòng điền mã được lấy từ <a target=\"_blank\" href=\"https://villatheme."
+"com/my-download\">https://villatheme.com/my-download</a>. Plugin WooCommerce "
+"Product Variations Swatches sẽ được tự động cập nhật. Xem <a "
+"target=\"_blank\" href=\"https://villatheme.com/knowledge-base/how-to-use-"
+"auto-update-feature/\">hướng dẫn</a>"
+
+#: woocommerce-product-variations-swatches.php:49
+msgid ""
+"Please install and activate WooCommerce to use WooCommerce Product "
+"Variations Swatches."
+msgstr ""
+"Vui lòng cài đặt và kích hoạt WooCommerce để sử dụng WooCommerce Product "
+"Variations Swatches."
+
+#: includes/admin/settings.php:1760
+msgid "Please select the csv file"
+msgstr "Vui lòng chọn tệp CSV"
+
+#: includes/admin/settings.php:766 includes/admin/settings.php:1278
+msgid "Position"
+msgstr "Vi trí"
+
+#: includes/admin/setting-global-attrs.php:176
+msgid "Previous Page"
+msgstr "Trang Trước"
+
+#: includes/admin/settings.php:165
+msgid "Prioritize first attribute"
+msgstr "Ưu tiên thuộc tính đầu tiên"
+
+#: includes/admin/settings.php:1469 includes/admin/setting-global-attrs.php:419
+msgid "Product category"
+msgstr "Danh mục sản phẩm"
+
+#: includes/admin/woo-widget.php:255
+msgid "Product count"
+msgstr "Số lượng sản phẩm"
+
+#: includes/admin/settings.php:392
+msgid "Product list"
+msgstr "Danh sách sản phẩm"
+
+#: includes/admin/settings.php:339 includes/admin/settings.php:352 
+#: includes/admin/settings.php:365 includes/admin/settings.php:468 
+#: includes/admin/settings.php:483 includes/admin/settings.php:570 
+#: includes/admin/settings.php:585 includes/admin/settings.php:661 
+#: includes/admin/settings.php:676 includes/admin/settings.php:795 
+#: includes/admin/settings.php:810 includes/admin/settings.php:825 
+#: includes/admin/settings.php:879
+msgid "Px"
+msgstr "Px"
+
+#: includes/admin/global-attributes.php:88 includes/admin/settings.php:141
+msgid "Radio"
+msgstr "Radio"
+
+#: includes/admin/global-attributes.php:342 
+#: includes/admin/global-attributes.php:361 
+#: includes/admin/global-attributes.php:497 includes/admin/settings.php:293 
+#: includes/admin/settings.php:1604 
+#: includes/admin/setting-global-attrs.php:533 
+#: includes/admin/setting-global-attrs.php:608 
+#: includes/admin/setting-global-attrs.php:806 
+#: includes/admin/setting-global-attrs.php:827 
+#: includes/templates/html-global-attribute-item.php:25 
+#: includes/templates/html-global-attribute-item.php:115 
+#: includes/templates/html-global-attribute-item.php:137 
+#: includes/templates/html-product-attribute.php:16 
+#: includes/templates/html-product-attribute.php:396 
+#: includes/templates/html-product-attribute.php:488 
+#: includes/templates/html-product-attribute.php:509 
+#: includes/templates/html-product-attribute.php:533 
+#: includes/templates/html-product-attribute.php:620
+msgid "Remove"
+msgstr "Xóa"
+
+#: includes/admin/custom-attribute.php:366
+msgid "Remove this attribute?"
+msgstr "Loại bỏ thuộc tính này?"
+
+#: includes/admin/settings.php:1659
+msgid "Reset Settings"
+msgstr "Quay về Cài Đặt mặc định"
+
+#: includes/admin/settings.php:777 includes/admin/settings.php:1050 
+#: includes/admin/settings.php:1270
+msgid "Right"
+msgstr "Phải"
+
+#: includes/admin/settings.php:1452
+msgid ""
+"Rules are checked from top to bottom and will stop if the attribute matches "
+"a rule"
+msgstr ""
+"Quy tắc được kiểm tra từ trên xuống dưới và sẽ dừng quét nếu phát hiện thuộc "
+"tính đáp ứng"
+
+#: includes/admin/settings.php:1450
+msgid "Rules for Custom Attributes"
+msgstr "Quy tắc với Thuộc Tính Tùy Chỉnh"
+
+#: includes/admin/woo-widget.php:401 includes/admin/settings.php:1645 
+#: includes/admin/setting-global-attrs.php:314
+msgid "Save"
+msgstr "Lưu"
+
+#: includes/admin/settings.php:1649
+msgid "Save & Check Key"
+msgstr "Lưu & Kiểm Tra"
+
+#: includes/admin/setting-global-attrs.php:142
+msgid "Save All"
+msgstr "Lưu Tất Cả"
+
+#: includes/admin/setting-global-attrs.php:141
+msgid "Save all"
+msgstr "Lưu tất cả"
+
+#: includes/admin/setting-global-attrs.php:918
+msgid "Save all settings of the attribute taxonomies on this page?"
+msgstr "Lưu tất cả cài đạt thuộc tính taxonomy trên trang này?"
+
+#: includes/admin/custom-attribute.php:346
+msgid "Save attributes"
+msgstr "Lưu thuộc tính"
+
+#: includes/admin/setting-global-attrs.php:237
+msgid "Search attribute"
+msgstr "Tìm thuộc tính"
+
+#: includes/frontend/frontend.php:599 includes/frontend/frontend.php:601 
+#: includes/frontend/frontend.php:676 includes/frontend/frontend.php:678 
+#: includes/frontend/frontend.php:766 includes/frontend/frontend.php:768 
+#: includes/frontend/frontend.php:825 includes/frontend/frontend.php:827 
+#: includes/frontend/frontend.php:902 includes/frontend/frontend.php:904 
+#: includes/frontend/frontend.php:978 includes/frontend/frontend.php:1047 
+#: includes/frontend/frontend.php:1049 includes/frontend/frontend.php:1117 
+#: includes/frontend/frontend.php:1119 includes/frontend/frontend.php:1184 
+#: includes/frontend/frontend.php:1186 includes/frontend/frontend.php:1240 
+#: includes/frontend/frontend.php:1242 includes/frontend/frontend.php:1314 
+#: includes/frontend/frontend.php:1316 includes/frontend/frontend.php:1386
+msgid "See More"
+msgstr "Xem Thêm"
+
+#: includes/templates/html-product-attribute.php:211
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+#: includes/templates/html-product-attribute.php:214
+msgid "Select none"
+msgstr "Không cho"
+
+#: includes/templates/html-product-attribute.php:226
+msgid "Select term"
+msgstr "Chọn giá trị"
+
+#: includes/class-wc-widget-layered-nav.php:257 
+#: includes/class-wc-widget-layered-nav.php:439 
+#: includes/admin/woo-widget.php:224 includes/admin/woo-widget.php:361 
+#: includes/admin/settings.php:614
+msgid "Selected styling"
+msgstr "Tùy chỉnh trạng thái khi được chọn"
+
+#: includes/admin/admin.php:21 includes/admin/admin.php:22
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: includes/admin/woo-widget.php:96
+msgid "Settings the Swatches for 'Filter Products by Attribute' WooCommerce: "
+msgstr ""
+"Cài đặt Mẫu biến thể cho bộ lọc WooCommerce 'Lọc sản phẩm bởi Thuộc tính': "
+
+#: includes/admin/settings.php:1400
+msgid ""
+"Show all items of the attribute in a slider. The tooltip will hide on slider."
+msgstr ""
+"Hiển thị tất cả giá trị thuộc tính trên thanh trượt. Chú thích sẽ được ẩn đi "
+"trên thanh trượt."
+
+#: includes/class-wc-widget-layered-nav.php:164 
+#: includes/admin/woo-widget.php:154
+msgid "Show attribute label"
+msgstr "Hiện nhãn thuộc tính"
+
+#: includes/admin/settings.php:1188
+msgid "Show attribute name"
+msgstr "Hiện tên thuộc tính"
+
+#: includes/admin/settings.php:1010
+msgid "Show attribute title on single product page"
+msgstr "Hiện tên thuộc tính trên trang sản phẩm"
+
+#: includes/admin/global-attributes.php:123 
+#: includes/admin/global-attributes.php:212 includes/admin/settings.php:1481 
+#: includes/admin/setting-global-attrs.php:329 
+#: includes/admin/setting-global-attrs.php:428 
+#: includes/templates/html-product-attribute.php:77 
+#: includes/templates/html-product-attribute.php:83 
+#: includes/templates/html-product-attribute.php:89 
+#: includes/templates/html-product-attribute.php:303 
+#: includes/templates/html-product-attribute.php:310 
+#: includes/templates/html-product-attribute.php:315
+msgid "Show in product list"
+msgstr "Hiện trong danh sách sản phẩm"
+
+#: includes/class-wc-widget-layered-nav.php:633
+msgid "Show more"
+msgstr "Hiện thêm"
+
+#: includes/admin/settings.php:1347
+msgid "Show more link"
+msgstr "Nút \"Xem thêm\""
+
+#: includes/admin/settings.php:1017
+msgid "Show selected attribute item"
+msgstr "Hiện thuộc tính được chọn"
+
+#: includes/admin/settings.php:1124
+msgid ""
+"Show the Add to cart button after selecting variation swatches on the "
+"product list. All attributes of a product are displayed on Product List page "
+"when enabling this option"
+msgstr ""
+"Hiện nút \"Thêm vào giỏ hàng\" sau khi chọn biến thể trên trang danh sách "
+"sản phẩm. Tất cả thuộc tính của sản phẩm sẽ được hiển thị trên rang Danh "
+"Sách Sản Phẩm khi bật tùy chọn này"
+
+#: includes/admin/settings.php:1235
+msgid ""
+"Show tooltip on the product list if this tooltip is enabled on swatches "
+"profile"
+msgstr ""
+"Hiện chú thích thuộc tính trên danh sách sản phẩm nếu chú thích được bật "
+"trong mẫu thiết kế"
+
+#: includes/admin/settings.php:1075
+msgid "Show variation swatches on the product list"
+msgstr "Hiện mẫu biến thể trên danh sách sản phẩm"
+
+#: includes/admin/settings.php:1036 includes/admin/settings.php:1256
+msgid "Swatches align"
+msgstr "Căn chỉnh mẫu"
+
+#: includes/admin/settings.php:116
+msgid "Swatches on Product List"
+msgstr "Trên Danh Sách Sản Phẩm"
+
+#: includes/admin/settings.php:114
+msgid "Swatches on Single page"
+msgstr "Trên trang Sản Phẩm"
+
+#: includes/admin/settings.php:112
+msgid "Swatches Profile"
+msgstr "Mẫu Thiết Kế"
+
+#: includes/class-wc-widget-layered-nav.php:124 
+#: includes/admin/settings.php:1475 
+#: includes/admin/setting-global-attrs.php:378 
+#: includes/admin/setting-global-attrs.php:425
+msgid "Swatches profile"
+msgstr "Mẫu thiết kế"
+
+#: includes/class-wc-widget-layered-nav.php:64 
+#: includes/class-wc-widget-layered-nav.php:70
+msgid "Swatches Settings"
+msgstr "Cài Đặt Mẫu"
+
+#: includes/admin/global-attributes.php:102 
+#: includes/admin/global-attributes.php:186 
+#: includes/admin/global-attributes.php:312 
+#: includes/admin/global-attributes.php:417 
+#: includes/admin/global-attributes.php:474 
+#: includes/admin/global-attributes.php:545 
+#: includes/admin/global-attributes.php:585 
+#: includes/admin/global-attributes.php:586 
+#: includes/admin/global-attributes.php:605 
+#: includes/templates/html-product-attribute.php:64 
+#: includes/templates/html-product-attribute.php:290
+msgid "Swatches settings"
+msgstr "Cài đặt mẫu"
+
+#: includes/admin/setting-global-attrs.php:96 
+#: includes/admin/setting-global-attrs.php:257
+msgid "Swatches Settings for Global Attributes"
+msgstr "Cài Đặt Mẫu cho các Thuộc Tính Chung"
+
+#: includes/admin/custom-attribute.php:370
+msgid "Swatches settings for global attributes"
+msgstr "Cài đặt mẫu cho các thuộc tính chung"
+
+#: includes/admin/woo-widget.php:19 includes/admin/woo-widget.php:73
+msgid "Swatches Settings for WooCommerce Filter Widget"
+msgstr "Cài Đặt Mẫu cho Bộ Lọc Widget của WooCommerce"
+
+#: includes/admin/settings.php:1388
+msgid "Swatches slider"
+msgstr "Thanh trượt mẫu biến thể"
+
+#: includes/admin/settings.php:1407
+msgid "Swatches slider for attribute type"
+msgstr "Dùng thanh trượt cho kiểu thuộc tính"
+
+#: includes/admin/setting-global-attrs.php:669
+msgid "Term"
+msgstr "Giá trị "
+
+#: includes/admin/setting-global-attrs.php:670
+msgid "Term Settings"
+msgstr "Cài Đặt"
+
+#: includes/admin/settings.php:428 includes/admin/settings.php:530 
+#: includes/admin/settings.php:621 includes/admin/settings.php:724 
+#: includes/admin/settings.php:916
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: includes/admin/settings.php:1131
+msgid "Text of 'add to cart' button"
+msgstr "Tiêu đề nút \"thêm vào giỏ hàng\""
+
+#: includes/admin/settings.php:1370
+msgid "Text of more link"
+msgstr "Tiêu đề đường dẫn xem thêm"
+
+#: includes/admin/settings.php:1380
+msgid "The icon of more link"
+msgstr "Biểu tượng đường dẫn xem thêm"
+
+#: includes/admin/settings.php:1340
+msgid ""
+"The maximum number of items of an attribute can be displayed. Set to 0 to "
+"not limit this."
+msgstr ""
+"Số lượng tối đa các giá trị thuộc tính được hiển thị. Đặt 0 để không giới "
+"hạn số lượng."
+
+#: includes/admin/settings.php:1441
+msgid "The maximum number of items of an attribute to convert to slider"
+msgstr ""
+"Sản phẩm cần có số lượng giá trị thuộc tính ít nhất lớn hơn giá trị này. "
+
+#: includes/admin/settings.php:1313
+msgid ""
+"The position of variation on shop page, category page and other product list "
+"pages"
+msgstr ""
+"Vị trí của biến thể trên trang cửa hàng, trang danh mục và các trang danh "
+"sách sản phẩm khác"
+
+#: includes/admin/global-attributes.php:89
+msgid "Theme Default"
+msgstr "Chủ Đề Mặc Định"
+
+#: includes/class-wc-widget-layered-nav.php:117
+msgid "Theme default"
+msgstr "Chủ đề mặc định"
+
+#: includes/admin/settings.php:1771
+msgid "There isn't Swatches Settings. Please select the another"
+msgstr "Không có Cài Đặt Mẫu. Vui lòng chọn một cài đặt khác"
+
+#: includes/admin/settings.php:972 includes/admin/settings.php:1106
+msgid ""
+"This function does not work for products whose number of variations is "
+"greater than the \"Ajax variation threshold\""
+msgstr ""
+"Tính năng này không hoạt động với sản phẩm có số lượng biến thể lớn hơn giá "
+"trị đặt trong tùy chọn \"Ngưỡng sắp hết hàng ajax\""
+
+#: includes/admin/settings.php:145
+msgid "This is used if an attribute is not config yet or no rules are applied"
+msgstr ""
+"Được sử dụng nếu một thuộc tính chưa được cấu hình hoặc không có quy tắc nào "
+"được áp dụng"
+
+#: includes/admin/setting-global-attrs.php:342
+msgid ""
+"This option cannot be disabled because 'Enable add to cart' option in "
+"Swatches on Product List tab is currently enabled"
+msgstr ""
+"Không thể tắt tùy chọn này vì tùy chọn \"Thêm vào giỏ hàng\" trong cài đặt "
+"\"Trên Danh Sách Sản Phẩm\" đang bị tắt"
+
+#: includes/admin/settings.php:1363
+msgid ""
+"This option is used when total items of an attribute is greater than the "
+"Maximum attribute items above"
+msgstr ""
+"Tùy chọn này được sử dụng khi tổng số giá trị thuộc tính lớn hơn tùy chọn "
+"\"Giá trị thuộc tính hiển thị tối đa\" bên trên"
+
+#: includes/admin/setting-global-attrs.php:259
+msgid ""
+"This page allows you to customize all WooCommerce global attributes rapidly"
+msgstr ""
+"Trang này cho phép tùy biến nhanh tất cả thuộc tính chung của WooCommerce"
+
+#: includes/admin/settings.php:174
+msgid ""
+"To make out-of-stock items clickable, you have to turn off \"Disable 'out of "
+"stock' variation items\" option"
+msgstr ""
+"Để cho phép chọn sản phẩm hết hàng, cần tắt tùy chọn \"Tắt biến thể hết "
+"hàng\""
+
+#: includes/admin/settings.php:754
+msgid "Tooltip content"
+msgstr "Nội dung chú thích"
+
+#: includes/admin/settings.php:195
+msgid ""
+"Tooltip content can now be editable. Useful shortcodes can be used in "
+"tooltip content are: "
+msgstr ""
+"Có thể chỉnh sửa nội dung chú thích. Các mã ngắn (shortcodes) được phép sử "
+"dụng bao gồm:"
+
+#: includes/admin/settings.php:816
+msgid "Tooltip image width"
+msgstr "Kích thước ảnh chú thích"
+
+#: includes/admin/settings.php:705
+msgid "Tooltip styling"
+msgstr "Tùy chỉnh Chú thích"
+
+#: includes/admin/settings.php:780 includes/admin/settings.php:861
+msgid "Top"
+msgstr "Trên"
+
+#: includes/admin/settings.php:310
+msgid "Transition Duration"
+msgstr "Thời gian chuyển đổi"
+
+#: includes/admin/settings.php:120
+msgid "Update"
+msgstr "Cập nhật"
+
+#: includes/admin/global-attributes.php:436 
+#: includes/admin/global-attributes.php:558 
+#: includes/admin/setting-global-attrs.php:727 
+#: includes/templates/html-global-attribute-item.php:52 
+#: includes/templates/html-product-attribute.php:425 
+#: includes/templates/html-product-attribute.php:560
+msgid "Upload/Add an image"
+msgstr "Tải/Thêm ảnh"
+
+#: includes/templates/html-product-attribute.php:60 
+#: includes/templates/html-product-attribute.php:286
+msgid "Used for variations"
+msgstr "Dùng cho biến thể"
+
+#: includes/frontend/loop-product-swatches.php:786
+msgid "Value must be greater than or equal to"
+msgstr "Giá trị cần lớn hơn hoặc bằng"
+
+#: includes/frontend/loop-product-swatches.php:785
+msgid "Value must be less than or equal to"
+msgstr "Giá trị cần nhỏ hơn hoặc bằng"
+
+#: includes/admin/global-attributes.php:87 includes/admin/settings.php:1420
+msgid "Variation Image"
+msgstr "Ảnh Biến Thể"
+
+#: includes/admin/settings.php:45 includes/admin/settings.php:46 
+#: includes/admin/settings.php:54 includes/admin/settings.php:55
+msgid "Variation Swatches"
+msgstr "Mẫu Biến Thể"
+
+#: includes/class-wc-widget-layered-nav.php:95 
+#: includes/admin/woo-widget.php:135 includes/admin/global-attributes.php:136 
+#: includes/admin/global-attributes.php:237 includes/admin/settings.php:1570 
+#: includes/admin/setting-global-attrs.php:354 
+#: includes/admin/setting-global-attrs.php:521 
+#: includes/admin/setting-global-attrs.php:596 
+#: includes/templates/html-product-attribute.php:103 
+#: includes/templates/html-product-attribute.php:329
+msgid "Vertical"
+msgstr "Dọc"
+
+#: includes/admin/settings.php:870
+msgid "Vertical offset"
+msgstr "Căn chỉnh dọc"
+
+#: includes/admin/settings.php:856
+msgid "Vertical position"
+msgstr "Vị trí dọc"
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#: includes/templates/html-product-attribute.php:53 
+#: includes/templates/html-product-attribute.php:280
+msgid "Visible on the product page"
+msgstr "Hiển thị trên trang sản phẩm"
+
+#: includes/admin/global-attributes.php:114 
+#: includes/admin/global-attributes.php:203
+msgid ""
+"When selecting an attribute value, change product image according to "
+"attribute/variation image"
+msgstr ""
+"Khi chọn một giá trị thuộc tính, ảnh sản phẩm sẽ được thay đổi thành ảnh "
+"thuộc tính hoặc ảnh biến thể"
+
+#: includes/templates/html-product-attribute.php:149 
+#: includes/templates/html-product-attribute.php:375
+msgid ""
+"When selecting an attribute value, change product image according to "
+"attribute/variation image(Only use for Image/Variation image type)"
+msgstr ""
+"Khi chọn một giá trị thuộc tính, ảnh sản phẩm sẽ được thay đổi thành ảnh "
+"thuộc tính hoặc ảnh biến thể (Chỉ dùng với kiểu hiển thị Ảnh/Ảnh biến thể)"
+
+#: includes/admin/settings.php:344
+msgid "Width"
+msgstr "Chiều rộng"
+
+#: includes/admin/woo-widget.php:20
+msgid "Woo Filter Widget"
+msgstr "Woo Filter Widget"
+
+#: includes/admin/settings.php:102
+msgid "WooCommerce Product Variations Swatches"
+msgstr "WooCommerce Product Variations Swatches"
+
+#. Description of the plugin
+msgid ""
+"WooCommerce Product Variations Swatches is a professional plugin that allows "
+"you to show and select attributes for variation products. The plugin "
+"displays variation select options of the products under colors, buttons, "
+"images, variation images, radio so it helps the customers observe the "
+"products they need more visually, save time to find the wanted products than "
+"dropdown type for variations of a variable product."
+msgstr ""
+"WooCommerce Product Variations Swatches hiển thị biến thể của sản phẩm "
+"WooCommerce một cách đa dạng, đẹp mắt và trực quan. Người dùng tùy biến các "
+"biến thể sản phẩm linh hoạt với các kiểu hiển thị: Nút, danh sách thả xuống, "
+"ảnh, mẫu màu, hoặc giữ nguyên thiết kế mặc định.... mang đến trải nghiệm đẹp "
+"và thu hút hơn với khách hàng. "
+
+#. Name of the plugin
+msgid "WooCommerce Product Variations Swatches Premium"
+msgstr "WooCommerce Product Variations Swatches Premium"
+
+#: includes/admin/custom-attribute.php:367 
+#: includes/admin/global-attributes.php:587 
+#: includes/admin/setting-global-attrs.php:916
+msgid "Would you want to remove this?"
+msgstr "Chắc chắn muốn xóa?"
+
+#: includes/admin/custom-attribute.php:368 
+#: includes/admin/global-attributes.php:588 
+#: includes/admin/setting-global-attrs.php:917
+msgid "You can not remove the last item."
+msgstr "Không thể xóa quy tắc cuối cùng."
+
+#: includes/admin/settings.php:1250
+msgid ""
+"You can use WP's <a href=\"https://villatheme.com/knowledge-base/conditional-"
+"tags/\" target=\"_blank\">Conditional tags</a> to enable/disable swatches of "
+"product list on specific pages."
+msgstr ""
+"Chỉ định ẩn/hiện mẫu biến thể của danh sách sản phẩm trên những trang cụ thể "
+"bằng cách sử dụng <a href=\"https://villatheme.com/knowledge-"
+"base/conditional-tags/\" target=\"_blank\">Thẻ điều kiện của WordPress</a>. "

@@ -1,0 +1,3905 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Orders Tracking Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-14 10:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.4-alpha-47046"
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:326
+msgid " or "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/trackingmore.php:42
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/trackingmore.php:44
+msgid "\">Hide</a></p>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:688
+#, php-format
+msgid "#%s: Error sending email"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:685
+#, php-format
+msgid "#%s: Tracking email sent"
+msgstr ""
+
+#. 1: last access date 2: last access time 3: last access timezone abbreviation
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:245
+#, php-format
+msgid "%1$s at %2$s %3$s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1575
+#, php-format
+msgid "%s is required to map"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:860
+msgid "( Billing ) Address 1"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:865
+msgid "( Billing ) Address 2"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:840
+msgid "( Billing ) Address Index"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:870
+msgid "( Billing ) City"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:855
+msgid "( Billing ) Company"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:835
+msgid "( Billing ) Country Code"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1042
+msgid "( Billing ) Country Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:880
+msgid "( Billing ) Email"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:845
+msgid "( Billing ) First Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:850
+msgid "( Billing ) last Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:885
+msgid "( Billing ) Phone"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:875
+msgid "( Billing ) Postcode"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:830
+msgid "( Billing ) State Code"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1047
+msgid "( Billing ) State Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1000
+msgid "( Order ) Completed Date"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1022
+msgid "( Order ) Create date"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1245
+msgid "( Order ) Customer Note"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:950
+msgid "( Order ) Customer User ID"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:965
+msgid "( Order ) Discount"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:970
+msgid "( Order ) Discount Tax"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1017
+msgid "( Order ) Modification date"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:960
+msgid "( Order ) Order Currency"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1205
+msgid "( Order ) Order ID"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:945
+msgid "( Order ) Order Key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1240
+msgid "( Order ) Order Note"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1210
+msgid "( Order ) Order Number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1215
+msgid "( Order ) Order Status"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1012
+msgid "( Order ) Order Subtotal"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:995
+msgid "( Order ) Paid Date"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:955
+msgid "( Order ) Payment Method"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:975
+msgid "( Order ) Shipping"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:980
+msgid "( Order ) Shipping Tax"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:985
+msgid "( Order ) Total"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:990
+msgid "( Order ) Total Tax"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1005
+msgid "( Order ) Transaction Id"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1135
+msgid "( Order Item ) Item Cost"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1130
+msgid "( Order Item ) Item ID"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1140
+msgid "( Order Item ) Item Quantity"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1190
+msgid "( Order Item ) Product Categories"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1185
+msgid "( Order Item ) Product Category"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1165
+msgid "( Order Item ) Product Current Price"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1175
+msgid "( Order Item ) Product Description"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1160
+msgid "( Order Item ) Product Image Link"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1155
+msgid "( Order Item ) Product Link"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1145
+msgid "( Order Item ) Product Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1170
+msgid "( Order Item ) Product Short Description"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1150
+msgid "( Order Item ) Product Sku"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1180
+msgid "( Order Item ) Product Tags"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1235
+msgid "( Order/Order Item ) Carrier Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:88
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1225
+msgid "( Order/Order Item ) Carrier Slug"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:95
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1220
+msgid "( Order/Order Item ) Tracking Number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1230
+msgid "( Order/Order Item ) Tracking URL"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:920
+msgid "( Shipping ) Address 1"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:925
+msgid "( Shipping ) Address 2"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:900
+msgid "( Shipping ) Address Index"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:930
+msgid "( Shipping ) City"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:915
+msgid "( Shipping ) Company"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:895
+msgid "( Shipping ) Country Code"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1037
+msgid "( Shipping ) Country Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:905
+msgid "( Shipping ) First Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:910
+msgid "( Shipping ) Last Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:940
+msgid "( Shipping ) Phone"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:935
+msgid "( Shipping ) Postcode"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1032
+msgid "( Shipping ) Shipping Amount"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1027
+msgid "( Shipping ) Shipping Method Title"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:890
+msgid "( Shipping ) State Code"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-order-manage.php:1052
+msgid "( Shipping ) State Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:615
+msgid "*Important"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:579
+msgctxt "17track_tracking_status"
+msgid "Alert"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:578
+msgctxt "17track_tracking_status"
+msgid "Delivered"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:574
+msgctxt "17track_tracking_status"
+msgid "Expired"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:573
+msgctxt "17track_tracking_status"
+msgid "In Transit"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:572
+msgctxt "17track_tracking_status"
+msgid "Info Received"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:571
+msgctxt "17track_tracking_status"
+msgid "Not found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:576
+msgctxt "17track_tracking_status"
+msgid "Out For Delivery"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:575
+msgctxt "17track_tracking_status"
+msgid "PickedUp"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:577
+msgctxt "17track_tracking_status"
+msgid "Undelivered"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2069
+msgid ""
+"<strong>*Caution:</strong> sandbox API CANNOT be used for orders created in "
+"live environment and vice versa."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:304
+msgid ""
+"<strong>*Note: </strong>Statuses you select here must be selected in your "
+"Webhook settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1830
+msgid ""
+"<strong>*Note: </strong>You have to add <strong>WC Hook</strong> and select "
+"hook \"woocommerce_email_after_order_table\" in the WooCommerce email that "
+"you want to include tracking info."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1826
+msgid ""
+"<strong>*Note: </strong>You have to add <strong>WC Hook</strong> and select "
+"hook \"woocommerce_email_before_order_table\" in the WooCommerce email that "
+"you want to include tracking info."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1789
+msgid ""
+"<strong>*Note:</strong> If you use an email customizer plugin to send email, "
+"this option will be skipped. Tracking info will be included in all emails "
+"that <strong>contain order table</strong>."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1998
+msgid ""
+"<strong>Carrier slug</strong>: slug of an carrier defined in plugin settings,"
+" get <strong>Carrier slug list</strong> by "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2321
+msgid ""
+"<strong>Notice</strong>: for some tracking services, API access is NOT "
+"available for a free plan."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:620
+msgid "[Rest of the World]"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2864
+msgid "Accept terms of service and click Register button"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:2020
+msgid "Accepted order status values for mapping"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:3091
+msgid "Access Logs page"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-bitly.php:17
+msgid "Access Token is required"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1579
+msgid "ACCOUNT SID"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2080
+msgid "Action"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:189
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3737
+msgid "Active"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2755
+msgid "Add"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:881
+msgid "Add Carriers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:230
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:346
+msgid "Add condition"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3559
+msgid "Add custom shipping carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3569
+msgid "Add my own carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3657
+msgid "Add New"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:911
+msgid "Add new"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/multi-track-per-order-item.php:236
+msgid "Add new tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/multi-track-per-order-item.php:327
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:362
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:1107
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:611
+msgid "Add this tracking number to PayPal"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1760
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:188
+msgid "Add to PayPal"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2384
+msgid "Add tracking if not exist"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:736
+msgid "Add tracking number to PayPal"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:274
+msgid "Add tracking number to PayPal. "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1954
+msgid "Add tracking numbers to PayPal"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1960
+msgid "Add tracking numbers to PayPal(for orders paid with PayPal Checkout)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:129
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:138
+msgid "Add Tracking to PayPal successfully"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1789
+msgid "Add tracking to PayPal transaction"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:167
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:208
+msgid "Add webhook URL using below Webhook URL"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3565
+msgid "Add your own carrier or choose from"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:554
+msgid "Advanced Settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1804
+msgid "After each order item"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1805
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2847
+msgid "After order table"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:361
+msgid "AfterShip Status"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:1062
+msgctxt "aftership_tracking_status"
+msgid "Available For Pickup"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:1067
+msgctxt "aftership_tracking_status"
+msgid "Delivered"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:1065
+msgctxt "aftership_tracking_status"
+msgid "Exception"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:1066
+msgctxt "aftership_tracking_status"
+msgid "Expired"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:1064
+msgctxt "aftership_tracking_status"
+msgid "Failed Attempt"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:1059
+msgctxt "aftership_tracking_status"
+msgid "Info Received"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:1061
+msgctxt "aftership_tracking_status"
+msgid "Intransit"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:1063
+msgctxt "aftership_tracking_status"
+msgid "Out For Delivery"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:1060
+msgctxt "aftership_tracking_status"
+msgid "Pending"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:561
+msgid "ALD dropshipping"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1378
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:71
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:153
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:236
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:326
+msgid "Alert"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:853
+msgid "All Carriers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:861
+msgid "All Countries "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:220
+msgid "All log files"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1607
+msgid "API Key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2329
+msgid "API key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1620
+msgid "API Secret"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3732
+msgid "Are you sure you want to delete this carrier?"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2320
+msgid "As Cainiao does not support API, it's unstable to use."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:543
+msgid "Ascending"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1653
+msgid "Auth ID"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-nexmo.php:21
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-nexmo.php:60
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-plivo.php:20
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-plivo.php:59
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-twilio.php:20
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-twilio.php:58
+msgid "Auth ID and Auth Token are required"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1592
+msgid "AUTH TOKEN"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1666
+msgid "Auth Token"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:793
+msgid "Auto Update Key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:167
+msgid "Basic"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1803
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2845
+msgid "Before order table"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:608
+msgid ""
+"Before, you had to set tracking number for every item of an order even if "
+"the order uses only one tracking number for all of its items."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1303
+msgid "Below placeholders can be used in both 3 columns of {tracking_table}"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:162
+msgid "Billing address"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1173
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1483
+msgid "Billing first name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1174
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1484
+msgid "Billing last name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1696
+msgid "Bitly access token"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:599
+msgid "Both order and order items"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2266
+#, php-format
+msgid ""
+"Branded tracking form shortcode %s. This only works if you use a tracking "
+"service. By default, tracking form is appended to the tracking page. If you "
+"want to change the tracking form's position, especially when the tracking "
+"page is built with an UX builder, this shortcode is very helpful."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:334
+msgid "Bulk refresh tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:602
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:365
+msgid ""
+"By default, datetime is in English. If checked, it will be translated to "
+"your site's locale"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2475
+msgid "Cache request"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:20
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:29
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:21
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:88
+msgid "Can not create tracker"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1645
+msgid "Can not open file"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:999
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:159
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3550
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3659
+msgid "Cancel"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1765
+msgid "Cancelled"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:82
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:125
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:351
+msgid "Cannot add tracking to PayPal"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:537
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:591
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:720
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:782
+msgid "Cannot verify webhook"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:218
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3491
+msgid "Carrier Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/email.php:109
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:935
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1308
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1487
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1930
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2027
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3348
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:226
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:361
+msgid "Carrier name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1227
+msgid "Carrier name column"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1177
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1883
+msgid "Carrier name of first found Tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3497
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3604
+msgid "Carrier name that shows to customers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3596
+msgid "Carrier Name(required)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:1329
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:662
+msgid "Carrier not found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:125
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:219
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:254
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1573
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1847
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3607
+msgid "Carrier Slug"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:966
+msgid "Carrier Tracking url"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1488
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3526
+msgid "Carrier URL"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1309
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1931
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2028
+msgid "Carrier url"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1178
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1884
+msgid "Carrier url of first found Tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3638
+msgid "Carrier URL(required)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:932
+#, php-format
+msgid "Carrier: %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:153
+msgid "Carriers settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:420
+msgid "Center"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2495
+msgid "Change Order Status"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1805
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/dianxiaomi.php:79
+msgid "Change order status"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:216
+msgid "Change order status to: "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/dianxiaomi.php:97
+msgid "Change order status when tracking number is added from Dianxiaomi"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:3087
+msgid "Change schedule settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:3085
+msgid "Change the plugin's main settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:3086
+msgid "Change webhooks settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3520
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3632
+msgid ""
+"Check if this is a Digital Delivery carrier. Tracking number is not required "
+"for this kind of carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:510
+msgid "Choose fields to export. Leave blank to export all available fields."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3571
+msgid "Choose from 17Track carriers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3570
+msgid "Choose from TrackingMore carriers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3572
+msgid "Choose from Tracktry carriers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:170
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:289
+msgid "City"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2064
+msgid "Click on Create App button"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3735
+msgid "Click to copy"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2458
+msgid "Click to customize your tracking page"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/order-details.php:192
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/order-details.php:241
+msgid "Click to track"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2078
+msgid "Client ID"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2079
+msgid "Client Secret"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2551
+msgid "Cloud Translation API key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1833
+msgid "Column name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:697
+msgid ""
+"Compatibility with our ALD - Aliexpress Dropshipping and Fulfillment for "
+"WooCommerce plugin"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1766
+msgid "Completed"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:105
+msgid "Completed Date"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2786
+msgid "Content"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:374
+msgid "Converted Status"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3736
+msgid "Copied to clipboard!"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3769
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:319
+msgid "Copy"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2865
+msgid "Copy and paste the site key and secret key into respective fields"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:194
+msgid ""
+"Copy below webhook URL and paste to WebHook field in <a href=\"https://api."
+"17track.net/en/admin/settings\">17track settings</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:168
+msgid ""
+"Copy the AfterShip Webhook secret and paste it to respective Webhook secret "
+"field below"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:364
+msgid "Copy tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:138
+msgid ""
+"Copy Webhook url below and paste it to Webhook URL field of your Webhook "
+"Notification Settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2066
+msgid ""
+"Copy your Client ID and Secret and paste them to Client Id and Client Secret "
+"fields"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:169
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:288
+msgid "Country"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1032
+msgid "Create a new email template"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:103
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:534
+msgid "Created date"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:29
+msgid "Cron Update"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:854
+msgid "Custom Carriers "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:752
+msgid "Custom CSS"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:130
+msgid "Custom Css"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1767
+msgid "Customer Invoice"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1768
+msgid "Customer Note"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2447
+msgid "Customize Tracking page"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:3090
+msgid "Customize tracking page"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2944
+msgid "Dark"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:95
+msgid "Date"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:870
+msgid "Date Form mustn't be greater than Today"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:324
+msgid "Date format"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:117
+msgid "Date From"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:127
+msgid "Date To"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:869
+msgid "Date To must be greater than Date From"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:78
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1363
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2693
+msgid "Day"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:94
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:148
+msgid "Day(s)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2190
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/dianxiaomi.php:102
+msgid "Debug"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2612
+msgid "Default carrier name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2043
+msgid "Default Live API"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2047
+msgid "Default Sandbox API"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2580
+msgid "Default track info"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2767
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2825
+msgid "Default tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1346
+msgid "Delay between each time"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:324
+msgid "Delete"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:209
+msgid "Delete log"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1377
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1472
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1495
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1502
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1512
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:43
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:125
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:208
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:298
+msgid "Delivered"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:596
+msgid "Delivered icon"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:617
+msgid "Delivered icon color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1494
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1501
+msgid "Delivery failed"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1505
+msgid "Departed warehouse"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:544
+msgid "Descending"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2632
+msgid "Description"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:975
+msgid "Description for event (status: Delivered)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:981
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:987
+msgid "Description for event (status: In transit)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:999
+msgid "Description for event (status: Pending)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:993
+msgid "Description for event (status: Pickup)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:123
+msgid "Design Template One"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1471
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1507
+msgid "Destination arrived"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:228
+msgid "Dianxiaomi debug"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/dianxiaomi.php:45
+msgid "Dianxiaomi integration"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3495
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3601
+msgid "Display Name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3734
+msgid "Display name: your customers see this instead of real carrier name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1871
+msgid "Do not map"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3744
+msgid "Do you want to remove this row?"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:262
+msgid "Download"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:328
+msgid "Download log file"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:261
+msgid "Download selected log file to your device"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/api-v1.php:140
+msgid "Duplicated tracking data"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:2008
+msgid ""
+"Each tracking number, carrier name,carrier slug, tracking url is set for a "
+"product line item of an order. "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easily import/manage your tracking numbers, add tracking numbers to PayPal, "
+"send email/sms notifications to customers. Support AfterShip, EasyPost, "
+"TrackingMore and 17Track API."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:365
+msgid "EasyPost Status"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:395
+msgctxt "easypost_tracking_status"
+msgid "Available For Pickup"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:398
+msgctxt "easypost_tracking_status"
+msgid "Cancelled"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:400
+msgctxt "easypost_tracking_status"
+msgid "Delivered"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:399
+msgctxt "easypost_tracking_status"
+msgid "Error"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:397
+msgctxt "easypost_tracking_status"
+msgid "Failure"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:393
+msgctxt "easypost_tracking_status"
+msgid "In Transit"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:394
+msgctxt "easypost_tracking_status"
+msgid "Out For Delivery"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:392
+msgctxt "easypost_tracking_status"
+msgid "Pre Transit"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:396
+msgctxt "easypost_tracking_status"
+msgid "Return To Sender"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:391
+msgctxt "easypost_tracking_status"
+msgid "Unknown"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3485
+msgid "Edit shipping carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/multi-track-per-order-item.php:313
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:877
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:1093
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:1179
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:139
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:388
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:526
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:635
+msgid "Edit tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3535
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3648
+msgid ""
+"eg: https://www.dhl.com/en/express/tracking.html?AWB={tracking_number}"
+"&brand=DHL"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:536
+msgid "Email"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1133
+msgid "Email content"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:150
+msgid "Email field"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1089
+msgid "Email heading"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:155
+msgid "Email is required to verify webhook from TrackingMore"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:919
+#, php-format
+msgid "Email sent for order %s"
+msgid_plural "Email sent for orders %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1048
+msgid "Email subject"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:975
+msgid "Email template"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:122
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:223
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:273
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:702
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:64
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:144
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:208
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:268
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:60
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:71
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:113
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:172
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:108
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:157
+msgid "Empty API"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:311
+msgid "Empty API key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:163
+msgid "Empty message"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2279
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/dianxiaomi.php:51
+msgid "Enable"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:71
+msgid "Enable cron"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:260
+msgid "Enable Debug"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/dianxiaomi.php:58
+msgid "Enable Dianxiaomi integration"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2873
+msgid "Enable reCAPTCHA"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/dianxiaomi.php:60
+msgid ""
+"Enable this to sync tracking numbers with Dianxiaomi plugin whenever you "
+"sync Dianxiaomi with your store"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1635
+msgid "Enable unicode"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:246
+msgid "Enable webhook"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2535
+msgid "English"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2065
+msgid "Enter the name of your application and click Create App button"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:177
+msgid "Equal"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:312
+#, php-format
+msgid "Error adding tracking number %s to %s for order #%s: %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:315
+#, php-format
+msgid "Error adding tracking number %s to %s: %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:85
+#, php-format
+msgid "Error adding tracking number {tracking_number} to %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:83
+msgid "Error adding {tracking_number} to PayPal: #{order_id}"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:84
+msgid "Error saving tracking number {tracking_number}: #{order_id}"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:82
+msgid "Error sending email: #{order_id}"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:81
+msgid "Error sending SMS: #{order_id}"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:851
+msgid "Estimated Delivery Date: "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:910
+msgid "Existing Carriers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3757
+msgid "Explanation"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:69
+msgid "Export filename"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:32
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:33
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:462
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:567
+msgid "Export Orders"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:53
+msgid "Export orders tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:3088
+msgid "Export tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:313
+msgid "Export tracking number "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:961
+msgid "Extra BCC address"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:949
+msgid "Extra CC address"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1769
+msgid "Failed"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:124
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:128
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:139
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:151
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/sms.php:87
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/sms.php:91
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/sms.php:103
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/sms.php:116
+msgid "Failed sending SMS message"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:472
+msgid "Fields"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:167
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini or by post_max_size "
+"being defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:171
+msgid "File is error."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1652
+msgid "File not exists"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2863
+msgid "Fill in authorized domains"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:87
+msgid "Filter Orders"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:275
+msgid "Filter orders by Billing country/city"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:391
+msgid "Filter orders by Shipping country/city"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:870
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1002
+msgid "Finish importing tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1175
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1881
+msgid "First found Tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1518
+msgid "From number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:109
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:530
+msgid "General"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3609
+msgid "Generated from name if empty"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:807
+msgid "Get Key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2415
+msgid "Get timeline information via AJAX"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:950
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:862
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3504
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3616
+msgid "Global"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2060
+#, php-format
+msgid "Go to %s and login with your PayPal account"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:165
+msgid ""
+"Go to <a href=\"https://admin.aftership.com/settings/notifications\">"
+"Notification settings</a> and scroll down to the bottom of the page"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:136
+msgid ""
+"Go to <a href=\"https://my.trackingmore.com/webhook_setting.php\">https://my."
+"trackingmore.com/webhook_setting.php</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:206
+msgid ""
+"Go to <a href=\"https://www.easypost.com/account/webhooks-and-events\">"
+"Webhooks & Events</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2062
+msgid ""
+"Go to My Apps & Credentials and select the <strong>Live</strong> tab(for "
+"live API) or <strong>Sandbox</strong> tab(for sandbox API)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2857
+msgid "Google reCAPTCHA for tracking form"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:192
+msgid "Google reCAPTCHA verification failed"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:107
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:79
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1364
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2701
+msgid "Hour"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2487
+msgid "Hour(s)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2565
+msgid "How to get Google Cloud Translation API key?"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:129
+msgid "How to setup your webhook?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-orders-tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1171
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1481
+msgid "ID of current order"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:296
+msgid "Identical"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2777
+msgid ""
+"If an order does not have a tracking number, default tracking number will be "
+"displayed on Order received page, My account/orders and in emails that you "
+"configure in <a href=\"#email_woo\">WooCommerce Email tab</a>."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2290
+msgid ""
+"If disabled, tracking url will be a shipping carrier's own tracking page."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:772
+#, php-format
+msgid ""
+"If enabled, carrier's display name will be saved to %s post meta so that you "
+"can use this meta to integrate with other plugins"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2199
+msgid ""
+"If enabled, raw request to PayPal API will be logged whenever there's an "
+"error"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/dianxiaomi.php:112
+msgid "If enabled, The errors will be logged."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:643
+msgid ""
+"If enabled, there will a tracking number field for each purchased quantity "
+"of an order item. \"Manage tracking by\" must NOT be set to \"Order only\""
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2291
+msgid ""
+"If enabled, tracking url will be your \"Tracking page\" if set and will be "
+"the selected tracking service's tracking page otherwise."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:270
+msgid "If enabled, webhook data will be logged for debugging purpose"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:646
+msgid ""
+"If enabled, You can add multiple tracking number fields for each purchased "
+"order item. \"Manage tracking by\" must NOT be set to \"Order only\". Please "
+"go to the order detail page to add multiple tracking for each item."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1858
+msgid ""
+"If Order Item ID is mapped but EMPTY, the respective tracking number will be "
+"set for the order if \"Manage tracking\" is NOT \"Order items only\" and "
+"will be skipped otherwise."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1856
+msgid ""
+"If Order Item ID is NOT mapped, the first found tracking number of an order "
+"will be set for every product line item of that order if \"Manage tracking\" "
+"is \"Order items only\" and will be set for the order otherwise."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1861
+msgid ""
+"If Order Status is mapped, it will override the \"Change order status\" "
+"option above"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:2004
+#, php-format
+msgid ""
+"If you can not find your carrier, please go to <a target=\"_blank\" "
+"href=\"%s\">Plugin settings</a> to Add Carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:616
+msgid ""
+"If you do AliExpress dropshipping, please DO NOT choose \"Order only\" as "
+"each item of an AliExpress order can have its own tracking number. If our "
+"dropshipping plugin(ALD) is active, it will override this feature to make "
+"tracking number field available for every item of an order."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1380
+msgid ""
+"If you import tracking numbers for 100 orders and all 100 orders have "
+"tracking numbers updated, not all 100 emails will be sent at a time."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1382
+msgid ""
+"If you set <strong>\"Number of emails sent per time\"</strong> to 10 and "
+"<strong>\"Delay between each time\"</strong> to 10 minutes, by the time the "
+"import completes, it will send 10 first email and wait 10 minutes to send "
+"next 10 emails and continue this until all emails are sent."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2067
+msgid ""
+"If you use the same API for all PayPal payments, you only need to enter API "
+"for the default Live/Sandbox API field"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1626
+msgid "Import"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:914
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:935
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1046
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1067
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1219
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1317
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1367
+msgid "Import completed"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1974
+#, php-format
+msgid ""
+"Import completed, please go to <a target=\"_blank\" href=\"%s\">Logs</a> to "
+"view import log"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1577
+msgid "Import completed. Please go to Orders Tracking/Logs to view import log."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:63
+msgid "Import Tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:3089
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:224
+msgid "Import tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:911
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:932
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1043
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1064
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1216
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1314
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1364
+msgid "Import tracking from CSV completed"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1588
+msgid "Import Tracking From CSV file"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:311
+msgid "Import tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1948
+msgid "Import tracking numbers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1492
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1499
+msgid "In delivery"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1375
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2717
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:57
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:139
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:222
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:312
+msgid "In Transit"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1469
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1498
+msgid "In transit"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:692
+msgid "In-transit status icon"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:731
+msgid "In-transit status icon background"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:713
+msgid "In-transit status icon color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1740
+msgid "Include tracking in WooCommerce email"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:567
+msgid "Integration"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2788
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:142
+msgid "Invalid carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:732
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:895
+msgid "Invalid data"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1377
+msgid "Invalid data."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:534
+msgid "Invalid data: "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:588
+msgid "Invalid event: "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:94
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:98
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:102
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:770
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:778
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1079
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1087
+msgid "Invalid file."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2607
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2647
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2770
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/api-v1.php:64
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/api-v1.php:79
+msgid "Invalid order"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2652
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2829
+msgid "Invalid order item"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/api-v1.php:89
+msgid "Invalid tracking data"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:716
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:778
+msgid "Invalid tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:531
+msgid "Invalid tracking number: "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2077
+msgid "Is sandbox"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:177
+msgid "Item detail"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:176
+msgid "Item ID"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2823
+msgid ""
+"item_id is not allowed because \"Manage tracking by\" is currently set to "
+"\"Order only\""
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2836
+msgid ""
+"item_id is not allowed because \"Multi track per item\" is currently set to "
+"\"None\""
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2932
+msgid ""
+"item_id is required because \"Manage tracking by\" is currently set to "
+"\"Order items only\""
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:396
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:914
+#, php-format
+msgid "Last update: %s. Click to refresh."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:857
+msgid "Last Updated: "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:421
+msgid "Left"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1490
+msgid "Left warehouse"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2945
+msgid "Light"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1880
+msgid "List of tracking info of an order"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:297
+msgid "Log file not found."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:153
+msgid "Log file(s) from versions before 1.1.0"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:168
+#, php-format
+msgid ""
+"Log files older than %s days will be automatically deleted by WooCommerce"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:167
+#, php-format
+msgid "Log folder: %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:121
+msgid "Logs"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:121
+msgid "Logs - WooCommerce Orders Tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:1178
+msgid "Manage all tracking numbers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2220
+msgid ""
+"Manage required user capability to be able to change settings or use plugin"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:584
+msgid "Manage tracking by"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2223
+msgid "manage_options = only Administrators can access"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2224
+msgid "manage_woocommerce = both Administrators and Shop managers can access"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1834
+msgid "Map to field"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:32
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:142
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:647
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:31
+msgid "Maximum 40 tracking numbers per request"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2841
+#, php-format
+msgid "Maximum quantity_index is %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2820
+msgid ""
+"Message including default tracking number which will be displayed on Order "
+"received page or WooCommerce email."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1404
+msgid "Message text when new tracking is added"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1445
+msgid "Message text when tracking changes"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:117
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:80
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1365
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2709
+msgid "Minute"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:673
+msgid "missing nonce"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:145
+msgid "Missing tracking data"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:524
+msgid ""
+"Missing tracking number on your database. Please add tracking to the order "
+"before receiving data from webhook."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:148
+msgid "Missing transaction ID or payment method"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:540
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:594
+msgid "Missing verification params"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:104
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:535
+msgid "Modification date"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:77
+msgid "Month"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:294
+msgid "Most recent to oldest"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:623
+msgid "Multi track per item"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:510
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:871
+#, php-format
+msgid "New status received for tracking number %s: %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:895
+#, php-format
+msgid ""
+"New status received for tracking number %s: %s, order %s status changed to %s"
+msgid_plural ""
+"New status received for tracking number %s: %s, orders %s status changed to "
+"%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:59
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:911
+#, php-format
+msgid "Next schedule: <strong>%s</strong>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:758
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:762
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:713
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:775
+msgid "No data"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:239
+msgid "No files found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:293
+msgid "No log file selected."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:667
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:789
+msgid "No order found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:1895
+msgid "No tracking number found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2628
+msgid "No."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:633
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:985
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1006
+msgid "None"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:1333
+msgid "Not available"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1812
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:220
+msgid "Not Change"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2504
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/dianxiaomi.php:88
+msgid "Not change"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:237
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3017
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3098
+msgid "Not enough information"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1480
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1485
+msgid "Not found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:178
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:297
+msgid "Not identical to"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2532
+msgid "Not translate"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:610
+msgid ""
+"Now, if your tracking system works that way, you can choose to manage "
+"tracking by \"Order only\"."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1332
+msgid "Number of emails sent per time"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:295
+msgid "Oldest to most recent"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1770
+msgid "On Hold"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2222
+msgid "Only Administrators can access Advanced Settings and Update tab"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1646
+msgid ""
+"Only enable this option if your message contains Unicode characters because "
+"Unicode messages can only contain 70 characters, rather than the usual 160. "
+"There's more information about this <a href=\"https://help.nexmo.com/hc/en-"
+"us/articles/204076866-How-long-is-a-single-SMS-body-\" target=\"_blank\">on "
+"the help page</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1714
+msgid "Only import tracking from this row on."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:139
+msgid "Only query tracking created in the last x day(s):"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:371
+msgid "Open tracking link"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1030
+msgid "or"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:953
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:123
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:251
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1571
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1845
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:524
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:549
+msgid "Order ID"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:533
+msgid "Order id"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:176
+msgid "Order ID field"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:954
+msgid "Order ID(*Required)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:524
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:549
+msgid "Order ID(*required)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:126
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:252
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1848
+msgid "Order Item ID"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:598
+msgid "Order items only - Each order item has its own tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:61
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:68
+msgid "Order not found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1172
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1482
+msgid "Order number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:597
+msgid "Order only - Each order can only have 1 tracking number at a time"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1489
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1504
+msgid "Order received by warehouse"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:127
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:255
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1849
+msgid "Order Status"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1758
+msgid "Order status email"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:135
+msgid "Order statuses"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:914
+#, php-format
+msgid "Order(s) to send next: %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1690
+msgid "Orders per step"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/woocommerce-orders-tracking.php:87
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:185
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/widget.php:12
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:204
+msgid "Orders Tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:612
+msgid ""
+"Orders whose items already have tracking number(s) will not be affected by "
+"this feature."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1470
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1506
+msgid "Origin leaving"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1476
+msgid "Packed for picking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:106
+msgid "Paid Date"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1518
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1519
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1520
+msgid "Parcel is destroyed"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1482
+msgid "Parcel returned"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:185
+msgid ""
+"Paste your AfterShip Webhook secret here. You can find it in your AfterShip "
+"<a href=\"https://admin.aftership.com/settings/notifications\">Notification "
+"settings</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2076
+msgid "Payment Method"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:399
+msgid "Payment methods"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:545
+msgid "PayPal"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:227
+msgid "PayPal debug"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1495
+msgid "PayPal method not found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:3034
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/api-v1.php:340
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1117
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:844
+msgid "PayPal payment method not supported or missing API credentials"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1374
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2716
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:64
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:146
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:229
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:319
+msgid "Pending"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1468
+msgid "Picked"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1376
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2718
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:50
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:132
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:215
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/templates/customize.php:305
+msgid "Pickup"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:635
+msgid "Pickup icon"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:674
+msgid "Pickup icon background"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:656
+msgid "Pickup icon color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3756
+msgid "Placeholder"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:188
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:197
+msgid "Please click button Track to track your order."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3231
+msgid "Please enter all required fields"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:598
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:1014
+msgid "Please enter all required information to track your order."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:811
+msgid ""
+"Please enter the key that you get from <a target=\"_blank\" href=\"https:"
+"//villatheme.com/my-download\">https://villatheme.com/my-download</a> to "
+"enable auto update for WooCommerce Orders Tracking plugin. Please read <a "
+"target=\"_blank\" href=\"https://villatheme.com/knowledge-base/how-to-use-"
+"auto-update-feature/\">guide</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2368
+msgid ""
+"Please enter your 17track api key. If you don't have an account, <a "
+"href=\"https://api.17track.net/en\" target=\"_blank\"><strong>click "
+"here</strong></a> to create one then go to <a target=\"_blank\" href=\"https:"
+"//api.17track.net/en/admin/settings\">Settings</a> to copy/change API key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2352
+msgid ""
+"Please enter your AfterShip api key. If you don't have an account, <a "
+"href=\"https://help.aftership.com/hc/en-us/articles/115008353227-How-to-"
+"generate-AfterShip-API-Key-\" target=\"_blank\"><strong>click here</strong>"
+"</a> to create one and generate api key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2360
+msgid ""
+"Please enter your EasyPost api key. If you don't have an account, <a "
+"href=\"https://www.easypost.com/signup\" target=\"_blank\"><strong>click "
+"here</strong></a> to create one and generate api key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:473
+msgid "Please enter your order info to track"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3742
+msgid "Please enter your phone number to send a test SMS message to."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3740
+msgid "Please enter your SMS provider API."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:601
+msgid "Please enter your tracking number and verify the reCaptcha to track."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:1025
+msgid "Please enter your tracking number to track your order."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:603
+msgid "Please enter your tracking number to track."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2343
+msgid ""
+"Please enter your TrackingMore api key. If you don't have an account, <a "
+"href=\"https://my.trackingmore.com/get_apikey.php\" target=\"_blank\">"
+"<strong>click here</strong></a> to create one and generate api key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2376
+msgid ""
+"Please enter your Tracktry api key. If you don't have an account, <a "
+"href=\"https://www.tracktry.com/signup-en.html\" target=\"_blank\"><strong>"
+"click here</strong></a> to create one then go to <a target=\"_blank\" "
+"href=\"https://my.tracktry.com/setting\">Settings</a> to copy API key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3731
+msgid "Please fill full information for carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:53
+msgid "Please fill full information for tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3741
+msgid "Please fill in the message text"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2058
+msgid "Please follow these steps to get PayPal API Credentials"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:203
+msgid "Please note that Webhook URL will change if you change Webhook Secret."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:1430
+msgid "Please select a carrier:"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:112
+msgid "Please select a log file."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:1430
+msgid "Please select a tracking number:"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2463
+msgid "Please select a Tracking page and save settings to use this feature"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1639
+msgid "Please set mapping for all required fields"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2835
+msgid "Position"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2850
+msgid "Position of the default tracking number message on order received page"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1681
+msgid "Powerpack UUID"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:558
+msgid "Preview"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3254
+msgid "Preview emails"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1771
+msgid "Processing"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/email.php:100
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3339
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:222
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:350
+msgid "Product title"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2899
+msgid "reCAPTCHA V2"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2900
+msgid "reCAPTCHA V3"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2892
+msgid "reCAPTCHA version"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1772
+msgid "Refunded"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2740
+msgid "Remove"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3733
+msgid "Remove this item?"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:163
+msgid "Require Email"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:189
+msgid "Require Order ID"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:202
+msgid "Require Tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:570
+msgid "Reset Filter Settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1514
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1515
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1516
+msgid "Return"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:422
+msgid "Right"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2585
+msgid "Row with empty description will not show on the tracking page"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:100
+msgid "Run update at"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:85
+msgid "Run update every"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:157
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:996
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:157
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:825
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3546
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:141
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:171
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:335
+msgid "Save"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:830
+msgid "Save & Check Key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:761
+msgid "Save carrier (display)name in post meta"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:561
+msgid "Save Filter Settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:770
+msgid "Save Filters Successfully"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1967
+msgid "Schedule to send emails"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:79
+msgid "Schedule to update latest data for all tracking numbers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:36
+msgid "Schedule Update"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:46
+msgid "Schedule Update for tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:63
+msgid "Schedule Update is currently DISABLED"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:164
+msgid ""
+"Schedule update is not available with your currently selected tracking "
+"service"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3738
+msgid "Search carrier name"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:1346
+msgid "Search tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/cron-update-tracking.php:127
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:81
+msgid "Second"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2921
+msgid "Secret key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3576
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3582
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3588
+msgid "Select a carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1991
+msgid "Select csv file to import"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:170
+msgid "Select events to start receiving updates."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:537
+msgid "Select field to sort orders"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1614
+msgid "Select file"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2514
+msgid ""
+"Select order status to change to when Shipment status changes to Delivered. "
+"Leave it blank if you don't want to change order status"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1788
+msgid "Select orders status email to include the tracking information."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:140
+msgid "Select statuses that you want to be notified"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2862
+msgid "Select the reCAPTCHA version that you want to use"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:546
+msgid "Select type to sort orders"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1497
+msgid "Seller shipped"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1722
+msgid "Send"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3743
+#, php-format
+msgid "Send a test SMS message to %s?"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1721
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:704
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:281
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/dianxiaomi.php:65
+msgid "Send email"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:238
+msgid "Send email to customer if tracking info changes."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:302
+msgid ""
+"Send email to customers if Shipment status changes to one of these values. "
+"View <a href=\"admin.php?page=woocommerce-orders-tracking#email\" "
+"target=\"_blank\">Email settings</a>."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1734
+msgid "Send email to customers when their orders' tracking numbers are updated"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:720
+msgid "Send SMS"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:130
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:142
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:154
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/sms.php:93
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/sms.php:106
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/sms.php:119
+msgid "Send SMS message successfully"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:253
+msgid "Send SMS to customer if tracking info changes."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1711
+msgid "Send test SMS"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:534
+msgid "Send tracking email"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:932
+msgid "Send tracking of whole order"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2304
+msgid "Service"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3730
+msgid "Set Default"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/admin.php:93
+msgid "Settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1620
+msgid "Settings & Mapping"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1324
+msgid "Settings for sending emails when importing tracking numbers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:924
+msgid ""
+"Settings for sending individual email if you check the send email "
+"checkbox(when editing order tracking/importing tracking/Webhooks)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:573
+msgid "Shipment alert background color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:499
+msgid "Shipment delivered background color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1491
+msgid "Shipment dispatched"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:555
+msgid "Shipment pending background color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:518
+msgid "Shipment pickup background color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:480
+msgid "Shipment status text color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/order-details.php:195
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/order-details.php:244
+#, php-format
+msgid "Shipment status: %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:536
+msgid "Shipment transit background color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:281
+msgid "Shipping address"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:920
+msgid "Shipping carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:533
+msgid "Shipping Carriers"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3500
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3612
+msgid "Shipping Country"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:942
+msgid "Shipping country"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:429
+msgid "Shipping methods"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2264
+msgid "Shortcode"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2605
+msgid ""
+"Show below track info in tracking timeline if a real tracking number does "
+"not have any information from tracking service"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2595
+msgid "Show default track info"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2629
+msgid "Show if order status"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:165
+msgid ""
+"Since version 1.1.0, all log files are stored in the same log folder of "
+"WooCommerce."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2908
+msgid "Site key"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2533
+msgid "Site language"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:78
+msgid "SKU:"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3192
+msgid "Slug exists, please choose another slug or leave slug field blank"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:542
+msgid "SMS"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1497
+msgid "SMS provider"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:78
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:166
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:678
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:860
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:920
+msgid "Sorry, you are not allowed to edit this order."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:292
+msgid "Sort events"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:524
+msgid "Sort orders by"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:876
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:889
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1008
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1021
+msgid "Start adding tracking numbers to PayPal"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1704
+msgid "Start at row"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:743
+msgid "Start importing tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:902
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:923
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1034
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1055
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1207
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1305
+msgid "Start scheduling to send emails"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:2021
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2631
+msgid "Status"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3739
+#, php-format
+msgid "Successfully added new carrier: %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3461
+msgid "Successfully!"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1170
+msgid "Table of order items and their respective tracking info"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:383
+msgid "Template one"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:384
+msgid "Template two"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2171
+msgid "Test Connection"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:976
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:982
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:988
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:994
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:1000
+msgid "Thai Nguyen, VietNam"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2620
+msgid "The carrier which will show for the default track info"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:402
+msgid "The name of carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:974
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3533
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3646
+msgid "The placeholder for postal code of an order"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:972
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3530
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3643
+msgid "The placeholder for tracking number of an item"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:402
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1485
+msgid "The tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1486
+msgid "The tracking URL"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3537
+msgid ""
+"The tracking url will not include tracking number because carrier URL does "
+"not include {tracking_number}"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:976
+msgid ""
+"The tracking url will not include tracking number if carrier URL does not "
+"include "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3650
+msgid ""
+"The tracking url will not include tracking number if carrier URL does not "
+"include {tracking_number}"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2937
+msgid "Theme"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:274
+msgid "There are currently no logs to view."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1576
+#, php-format
+msgid "These fields are required to map: %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:111
+msgid "This cannot be undone, do you want to continue?"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1042
+msgid "This email is used when no Email template is selected"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2583
+msgid ""
+"This feature is to reduce after-purchase support for new orders when "
+"tracking number is not available, or available but without any info"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2559
+#, php-format
+msgid ""
+"This functionality uses Cloud Translation - Basic API, please click <a "
+"target=\"_blank\" href=\"%s\">here</a> to read more about pricing"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:222
+msgid ""
+"This helps prevent any third parties from masquerading as EasyPost and "
+"sending fraudulent data"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:775
+msgid ""
+"This is only used for orders that a tracking number is used for the whole "
+"order(manage tracking by order only)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2210
+msgid ""
+"This option will only be available if a PayPal payment method is activated"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/multi-track-per-order-item.php:65
+msgid ""
+"This plugin is deactivated as its feature was integrated to <strong>"
+"WooCommerce Orders Tracking</strong> plugin since version 1.1.0, you can "
+"safely delete this custom plugin."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/multi-track-per-order-item.php:330
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:134
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:139
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:365
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:1110
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:615
+msgid "This tracking number was added to PayPal"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:871
+msgid ""
+"This will reset all settings above to default but changes will not be saved "
+"until you click the \"Save filter settings\" button. Continue?"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:351
+msgid "Time format"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2586
+msgid "Time is relative to an order's created time"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2630
+msgid "Time(since order created)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2403
+msgid "Timeline AJAX"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:381
+msgid "Timeline template"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:399
+msgid "Title"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:457
+msgid "Title font size"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:418
+msgid "Title text alignment"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:440
+msgid "Title text color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/widget.php:40
+msgid "Title:"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:151
+msgid "To add a new carrier or turn on/off a carrier, please go to "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1689
+msgid ""
+"To create power pack, please read <a href=\"https://www.plivo."
+"com/docs/sms/powerpack\" target=\"_blank\">Getting started with Powerpack</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2561
+#, php-format
+msgid ""
+"To get API key, please read <a target=\"_blank\" href=\"%s\">https://cloud."
+"google.com/docs/authentication/api-keys#creating_an_api_key</a> or watch our "
+"guiding video below"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1628
+msgid ""
+"To get Nexmo API key and token, please read <a href=\"https://help.nexmo."
+"com/hc/en-us/articles/204014493-Where-can-I-find-my-API-key-and-API-secret-"
+"\" target=\"_blank\">Where can I find my API key and API secret?</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1674
+msgid ""
+"To get Plivo Access Token, please read <a href=\"https://support.plivo."
+"com/support/solutions/articles/17000089755-auth-id-and-auth-token\" "
+"target=\"_blank\">Auth ID and Auth Token</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1600
+msgid ""
+"To get Twilio Access Token, please read <a href=\"https://www.twilio."
+"com/docs/iam/access-tokens\" target=\"_blank\">Twilio API: Access Tokens</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:846
+msgid ""
+"To turn off a carrier that is currently the default carrier(the first one), "
+"you first have to set another carrier as the default by hovering over it "
+"then click the pointing hand icon."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:876
+msgid "Toggle active status of all carrier on/off"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:186
+msgid "Toggle all"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:950
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/tracking-more-form.php:39
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:245
+msgid "Track"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:267
+msgid "Track button background color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:251
+msgid "Track button text color"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:216
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:227
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:229
+msgid "Track button title"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:634
+msgid "Track per item quantity"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/order-details.php:123
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/order-details.php:126
+msgid "Tracking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1990
+msgid "Tracking Carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:904
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:179
+msgid "Tracking carrier"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/multi-track-per-order-item.php:298
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:56
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:1078
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:600
+#, php-format
+msgid "Tracking carrier %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2780
+msgid "Tracking carrier is required"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1846
+msgid "Tracking content"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:1143
+msgid "Tracking data"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:1884
+msgid "Tracking data is not available now. Please come back later. Thank you."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:116
+msgid "Tracking form"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1796
+msgid "Tracking info position"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1751
+msgid ""
+"Tracking information will be included in selected emails below no matter you "
+"check the send email checkbox(when editing order tracking/importing tracking)"
+" or not"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3353
+msgid "Tracking link"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1893
+msgid "Tracking list item"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-17track.php:342
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-aftership.php:94
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:76
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-easypost.php:124
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:194
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:240
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:240
+msgid "Tracking not found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:124
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:253
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1572
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1846
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:338
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1950
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/tracking-more-form.php:34
+msgid "Tracking Number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:955
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/email.php:104
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/multi-track-per-order-item.php:295
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:897
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:1075
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:178
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1306
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1928
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2025
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:3343
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:562
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:224
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:355
+msgid "Tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1187
+msgid "Tracking number column"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:79
+msgid "Tracking number is copied to clipboard"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:1899
+msgid "Tracking number is expired or not found in existing orders."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2798
+msgid "Tracking number is required"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:659
+msgid "Tracking number not found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:586
+#, php-format
+msgid "Tracking number stops updating: %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:80
+msgid "Tracking number updated: #{order_id}"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:956
+msgid "Tracking number(*Required)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:562
+msgid "Tracking number(*required)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:115
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:924
+#, php-format
+msgid "Tracking number: %s"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:76
+msgid ""
+"Tracking of the whole order: use this if this order only uses 1 tracking "
+"number for all items"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2425
+msgid "Tracking page"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:190
+msgid "Tracking saved"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-edit-tracking.php:809
+msgid "Tracking saved and Email sent"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:548
+msgid "Tracking Service"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2444
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:2592
+msgid "Tracking service is currently disabled"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2587
+msgid "Tracking service must be enabled and tracking page must be set"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/email.php:114
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1307
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1929
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2026
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2826
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:228
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:367
+msgid "Tracking url"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1266
+msgid "Tracking url column"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1176
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1882
+msgid "Tracking url of first found Tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:528
+msgid "TrackingMore carrier slug not found: "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:147
+msgid "TrackingMore Email"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:357
+msgid "TrackingMore Status"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2269
+#, php-format
+msgid ""
+"TrackingMore tracking form shortcode %s. You can still use this shortcode "
+"even if you do not use tracking service. More details about this at <a "
+"target=\"_blank\" href=\"https://www.trackingmore.com/embed_box_float-en."
+"html\">Track Button</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:448
+msgctxt "trackingmore_tracking_status"
+msgid "Delivered"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:449
+msgctxt "trackingmore_tracking_status"
+msgid "Exception"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:450
+msgctxt "trackingmore_tracking_status"
+msgid "Expired"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:445
+msgctxt "trackingmore_tracking_status"
+msgid "Not Found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:446
+msgctxt "trackingmore_tracking_status"
+msgid "Out for Delivery"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:444
+msgctxt "trackingmore_tracking_status"
+msgid "Pending"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:447
+msgctxt "trackingmore_tracking_status"
+msgid "Transit"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-trackingmore.php:451
+msgctxt "trackingmore_tracking_status"
+msgid "Undelivered"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:394
+msgctxt "tracktry_tracking_status"
+msgid "Alert"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:392
+msgctxt "tracktry_tracking_status"
+msgid "Delivered"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:395
+msgctxt "tracktry_tracking_status"
+msgid "Expired"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:390
+msgctxt "tracktry_tracking_status"
+msgid "In Transit"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:389
+msgctxt "tracktry_tracking_status"
+msgid "Not found"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:388
+msgctxt "tracktry_tracking_status"
+msgid "Pending"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:391
+msgctxt "tracktry_tracking_status"
+msgid "PickUp"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-tracktry.php:393
+msgctxt "tracktry_tracking_status"
+msgid "Undelivered"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2522
+msgid "Translate timeline"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:891
+#, php-format
+msgid ""
+"Unable to find your needed shipping carrier? Please <a class=\"%s\" "
+"href=\"#\">click here</a> to add your own carrier."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:196
+msgid ""
+"Under Notification settings, select statuses to receive notification when "
+"tracking information changes"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/class-vi-woo-orders-tracking-bitly.php:44
+msgid "Unknown Error"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:635
+msgid "Unlimited"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1483
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1508
+msgid "Unsuccessful air delivery"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1484
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1509
+msgid "Unsuccessful clearence"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1481
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1511
+msgid "Unsuccessful delivery attempt"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:573
+msgid "Update"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:394
+msgid "Update latest data"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:909
+msgid "Update tracking data successfully."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2883
+msgid "Use Google reCAPTCHA for tracking form"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2544
+#, php-format
+msgid ""
+"Using <a target=\"_blank\" href=\"%s\">Google Cloud Translation API</a> to "
+"translate timeline to a specific language"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1704
+msgid ""
+"Using Bitly to shorten your tracking url helps reduce message characters. "
+"Please read <a href=\"https://support.bitly.com/hc/en-us/articles/230647907-"
+"How-do-I-find-my-OAuth-access-token-\" target=\"_blank\">How to get Access "
+"Token</a>"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:259
+msgid "View"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1029
+msgid "View all Email templates"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:313
+msgid "View log"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1737
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1775
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1791
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:241
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:256
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:276
+msgid "View settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2860
+msgid ""
+"Visit <a target=\"_blank\" href=\"http://www.google.com/recaptcha/admin\">"
+"Google reCAPTCHA page</a> to sign up for an API key pair with your Gmail "
+"account"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1510
+msgid "Waiting for  picking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1477
+msgid "Waiting for picking"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:2133
+msgid "Waiting for the seller shipping"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1493
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/data.php:1500
+msgid "Waiting self-take"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:543
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:597
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:723
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:785
+msgid "Webhook is currently disabled"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:231
+msgid "Webhook is not available with your currently selected tracking service"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:177
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:214
+msgid "Webhook secret"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:310
+msgid "Webhook URL"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:225
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:108
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:108
+msgid "Webhooks"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:226
+msgid "Webhooks debug"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/webhooks.php:126
+msgid "Webhooks Settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2779
+msgid ""
+"When a customer uses a \"default tracking number\" to track, the default "
+"track info will be used."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2489
+msgid ""
+"When customers search for a tracking number on tracking page, the result "
+"will be saved to use for same searches for this tracking number within this "
+"cache time"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2396
+msgid ""
+"When customers search for a tracking number that exists in your current "
+"orders, add it to your tracking API if it does not exist in your API "
+"tracking list"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:746
+msgid ""
+"When syncing AliExpress orders(by ALD plugin), automatically add tracking "
+"number to PayPal. Make sure you configure PayPal API correctly"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:730
+msgid ""
+"When syncing AliExpress orders(by ALD plugin), send SMS to customers if "
+"tracking number updated or tracking status switches to delivered"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:714
+msgid ""
+"When syncing AliExpress orders(by ALD plugin), send tracking info email to "
+"customers if tracking number updated or tracking status switches to delivered"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/dianxiaomi.php:74
+msgid ""
+"When tracking numbers are synced with Dianxiaomi, send an email to customers "
+"if tracking info changes"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1820
+msgid "Where in the email to place tracking information?"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:539
+msgid "WooCommerce Email"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:103
+msgid "WooCommerce Orders Tracking "
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/woocommerce-email-template-customizer.php:137
+msgid "WooCommerce Orders Tracking email"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Orders Tracking Premium"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:184
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:521
+msgid "WooCommerce Orders Tracking settings"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2539
+msgid "WPML"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:229
+msgid "Yakkyofy"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:76
+msgid "Year"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:769
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1644
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1749
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2288
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2393
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:2412
+msgid "Yes"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1941
+msgid ""
+"You can customize tracking number and carrier html which are displayed "
+"<strong>after every order item</strong> in email(if selected) or on <strong>"
+"My account/Order details</strong> page"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1302
+msgid "You can leave column content blank to remove it from {tracking_table}."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1022
+msgid ""
+"You can use <a href=\"https://1.envato.market/BZZv1\" target=\"_blank\">"
+"WooCommerce Email Template Customizer</a> or <a href=\"http://bit.ly/woo-"
+"email-template-customizer\" target=\"_blank\">Email Template Customizer for "
+"WooCommerce</a> to create and customize your own email template. If no email "
+"template is selected, below email will be used."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/orders-track-info.php:87
+msgid "You cannot delete tracking number"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:34
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:650
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/export-orders-tracking.php:728
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:683
+msgid "You do not have permission."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:290
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1772
+msgid ""
+"You have to enable at least 1 PayPal payment gateway and enter PayPal API to "
+"use this option."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/paypal.php:526
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/paypal.php:541
+msgid "Your client ID or client secret is wrong"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/import_csv.php:1995
+msgid ""
+"Your csv file should have following columns:<strong>Order id</strong>, "
+"<strong>Order item id</strong>, <strong>Tracking number</strong>, <strong>"
+"Carrier slug</strong>."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:951
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:510
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:537
+msgid "Your email"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/design.php:952
+msgid "Your email(*Required)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:510
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/frontend/frontend.php:537
+msgid "Your email(*required)"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/log.php:130
+msgid "Your logs show here"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1718
+msgid "Your phone number with area code"
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/plugins/trackingmore.php:38
+msgid ""
+"Your site is using TrackingMore - WooCommerce Tracking Plugin, tracking "
+"information imported by this plugin are not displayed properly with "
+"WooCommerce Orders Tracking plugin."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:1300
+msgid ""
+"{tracking_table} contains 4 columns and you can customize 3 of them, the "
+"first column is Product title and it's mandatory."
+msgstr ""
+
+#: D:/git/woocommerce-orders-tracking/woocommerce-orders-tracking/includes/admin/settings.php:942
+msgid ""
+"{tracking_table} will include tracking of all items of an order instead of "
+"only changed one. Helpful when you add tracking number for single item of an "
+"order."
+msgstr ""

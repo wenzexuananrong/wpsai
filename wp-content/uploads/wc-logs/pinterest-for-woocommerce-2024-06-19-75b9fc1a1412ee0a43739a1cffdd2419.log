@@ -1,0 +1,46 @@
+2024-06-19T05:12:11+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-19T05:14:49+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-19T05:14:59+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-19T05:15:18+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/partners/billing_profiles
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-19T05:15:18+00:00 ERROR cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-19T08:31:19+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-19T08:31:29+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-19T08:31:32+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-19T08:47:20+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-19T09:04:01+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-19T09:20:08+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-19T09:32:18+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-19T09:32:28+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-19T09:36:16+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-19T09:52:24+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-19T10:08:35+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds

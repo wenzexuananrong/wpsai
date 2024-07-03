@@ -1,0 +1,1 @@
+System.register(["../../common/loyalty-point-notice-legacy.9e9498d2.js"],(function(e,t){"use strict";var c;return{setters:[e=>{c=e.L}],execute:function(){!function(){const{registerPlugin:e}=wp.plugins,{ExperimentalOrderMeta:t}=wc.blocksCheckout;e("lpfw-loyalty-point",{render:()=>React.createElement(t,null,React.createElement(c,null)),scope:"woocommerce-checkout"})}()}}}));

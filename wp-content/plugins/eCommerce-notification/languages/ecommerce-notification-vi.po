@@ -1,0 +1,872 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Coupon Box Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-05 04:48+0000\n"
+"POT-Revision-Date: Mon Jun 06 2016 16:44:15 GMT+0700 (SE Asia Standard Time)"
+"\n"
+"PO-Revision-Date: 2022-09-13 02:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:382
+msgid "a few seconds"
+msgstr "vài giây"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:373
+msgid "About"
+msgstr "Về"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:392
+msgid "Address"
+msgstr "Địa Chỉ"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:374
+msgid "ago"
+msgstr "trước đó"
+
+#. Author of the plugin
+msgid "Andy Ha (villatheme.com)"
+msgstr "Andy Ha (villatheme.com)"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:193
+msgid "Assign"
+msgstr "Chỉ định"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:397
+msgid "Auto Detect"
+msgstr "Tự Động Tìm Kiếm"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:387
+msgid ""
+"Auto get the time of when the customer purchased in this threshold randomly."
+msgstr ""
+"Tự động lấy ngẫu nhiên thời gian khách hàng mua sản phẩm trong ngưỡng này"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:724
+msgid "Background color"
+msgstr "Màu nền"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:802
+msgid "Bottom left"
+msgstr "Dưới phải"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:815
+msgid "Bottom right"
+msgstr "Dưới trái"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:873
+msgid "bounceIn"
+msgstr "bounceIn"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:875
+msgid "bounceInDown"
+msgstr "bounceInDown"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:877
+msgid "bounceInLeft"
+msgstr "bounceInLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:879
+msgid "bounceInRight"
+msgstr "bounceInRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:881
+msgid "bounceInUp"
+msgstr "bounceInUp"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:965
+msgid "bounceOut"
+msgstr "bounceOut"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:967
+msgid "bounceOutDown"
+msgstr "bounceOutDown"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:969
+msgid "bounceOutLeft"
+msgstr "bounceOutLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:971
+msgid "bounceOutRight"
+msgstr "bounceOutRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:973
+msgid "bounceOutUp"
+msgstr "bounceOutUp"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:74
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:82
+msgid "Click"
+msgstr "Số lần nhấp chuột"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:233
+msgid "Clicked"
+msgstr "Đã nhấp chuột"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:204
+msgid "Clicks by date"
+msgstr "Số lần nhấp chuột theo ngày"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:205
+msgid "Clicks by product"
+msgstr "Số lần nhấp chuột theo sản phẩm"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1313
+msgid "Conditional Tags"
+msgstr "Thẻ Điều Kiện"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1253
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1049
+msgid "Custom CSS"
+msgstr "CSS tùy chỉnh"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:674
+msgid "Customer's city"
+msgstr "Địa chỉ thành phố khách hàng"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:678
+msgid "Customer's country"
+msgstr "Quốc gia của khách hàng"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:670
+msgid "Customer's first name"
+msgstr "Tên khách hàng"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:375
+msgid "day"
+msgstr "ngày"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1356
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:376
+msgid "days"
+msgstr "ngày"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:187
+msgid "Design"
+msgstr "Thiết kế"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1188
+msgid "Display time"
+msgstr "Thời gian hiển thị"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1359
+msgid "during this time"
+msgstr " trong khoảng thời gian này"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/admin.php:212
+msgid "eCom Notification"
+msgstr "eCom Notification"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/admin.php:212
+msgid "eCommerce Notification"
+msgstr "eCommerce Notification"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:202
+msgid "eCommerce Notification Reporting"
+msgstr "Báo Cáo eCommerce Notification"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1316
+msgid "eg: !is_page(34,98,73)"
+msgstr "eg: !is_page(34,98,73)"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:204
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1212
+msgid "Enable"
+msgstr "Bật"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:885
+msgid "fadeIn"
+msgstr "fadeIn"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:887
+msgid "fadeInDown"
+msgstr "fadeInDown"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:889
+msgid "fadeInDownBig"
+msgstr "fadeInDownBig"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:891
+msgid "fadeInLeft"
+msgstr "fadeInLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:893
+msgid "fadeInLeftBig"
+msgstr "fadeInLeftBig"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:895
+msgid "fadeInRight"
+msgstr "fadeInRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:897
+msgid "fadeInRightBig"
+msgstr "fadeInRightBig"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:899
+msgid "fadeInUp"
+msgstr "fadeInUp"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:901
+msgid "fadeInUpBig"
+msgstr "fadeInUpBig"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:977
+msgid "fadeOut"
+msgstr "fadeOut"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:979
+msgid "fadeOutDown"
+msgstr "fadeOutDown"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:981
+msgid "fadeOutDownBig"
+msgstr "fadeOutDownBig"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:983
+msgid "fadeOutLeft"
+msgstr "fadeOutLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:985
+msgid "fadeOutLeftBig"
+msgstr "fadeOutLeftBig"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:987
+msgid "fadeOutRight"
+msgstr "fadeOutRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:989
+msgid "fadeOutRightBig"
+msgstr "fadeOutRightBig"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:991
+msgid "fadeOutUp"
+msgstr "fadeOutUp"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:993
+msgid "fadeOutUpBig"
+msgstr "fadeOutUpBig"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:905
+msgid "flipInX"
+msgstr "flipInX"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:907
+msgid "flipInY"
+msgstr "flipInY"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:997
+msgid "flipOutX"
+msgstr "flipOutX"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:999
+msgid "flipOutY"
+msgstr "flipOutY"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:212
+msgid "From"
+msgstr "Từ"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:186
+msgid "General"
+msgstr "Chung"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1386
+msgid "Get Key"
+msgstr "Lấy Mã"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1285
+msgid ""
+"Get the value randomly from Min number to Max number for the shortcode "
+"{number} content"
+msgstr ""
+"Giá trị shortcode {number} sẽ lấy ngẫu nhiên từ Giá trị Tối Thiểu tới Giá "
+"trị Tối Đa"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:701
+msgid "Highlight color"
+msgstr "Màu nổi bật"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1348
+msgid "History time"
+msgstr "Thời hạn lưu"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1298
+msgid "Home page"
+msgstr "Trang chủ"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:377
+msgid "hour"
+msgstr "giờ"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:384
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:378
+msgid "hours"
+msgstr "giờ"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr "https://villatheme.com"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:774
+msgid "Image Position"
+msgstr "Vị Trí Ảnh"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:537
+msgid "Image size will get form your WordPress site."
+msgstr "Kích thước ảnh được lấy từ trang WordPress của bạn."
+
+#. Description of the plugin
+msgid ""
+"Increase conversion rate by highlighting other customers that have bought "
+"products."
+msgstr ""
+"Khuyến khích mua hàng bằng cách làm nổi bật những khách hàng đã mua sản phẩm."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1171
+msgid "Initial delay"
+msgstr "Thời gian trì hoãn"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1140
+msgid "Initial time random"
+msgstr "Thời gian ngẫu nhiên"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:511
+msgid "Ipfind Auth Key"
+msgstr "Mã Xác Thực Ipfind"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:533
+msgid "large"
+msgstr "rộng"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:780
+msgid "Left"
+msgstr "Trái"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1321
+msgid "Let you adjust which pages will appear using WP's conditional tags."
+msgstr "Dùng thẻ điều kiện để chỉ định thông báo trên các trang cụ thể."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:911
+msgid "lightSpeedIn"
+msgstr "lightSpeedIn"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1003
+msgid "lightSpeedOut"
+msgstr "lightSpeedOut"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:552
+msgid ""
+"Load popup will not use ajax. Your site will be load faster. It creates "
+"cache."
+msgstr ""
+"Tải popup thông báo không dùng Ajax, trang web sẽ tải nhanh hơn. Tạo bộ nhớ "
+"đệm."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:24
+msgid "Log Directory Writable"
+msgstr "Danh Mục Nhật Ký Ghi Được"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1359
+msgid "Logs will be saved at "
+msgstr "Ghi chép được lưu tại "
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1098
+msgid "Loop"
+msgstr "Vòng lặp"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1150
+msgid "Make the initial time random."
+msgstr "Lấy ngẫu nhiên thời gian trì hoãn."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1277
+msgid "Max number"
+msgstr "Giá trị Tối Đa"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:530
+msgid "medium"
+msgstr "trung bình"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:84
+msgid "Memory Limit"
+msgstr "Giới Hạn Bộ Nhớ"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:865
+msgid "Message display effect"
+msgstr "Hiệu ứng hiển thị nội dung"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:957
+msgid "Message hidden effect"
+msgstr "Hiệu ứng ẩn nội dung"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:588
+msgid "Message purchased"
+msgstr "Nội dung thông báo đã mua"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1266
+msgid "Min Number"
+msgstr "Giá trị Tối Thiểu"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1155
+msgid "Minimum initial delay time"
+msgstr "Thời gian trì hoãn tối thiểu"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:379
+msgid "minute"
+msgstr "phút"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:380
+msgid "minutes"
+msgstr "phút"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:220
+msgid "Mobile"
+msgstr "Điện thoại"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1112
+msgid "Next time display"
+msgstr "Thời gian hiển thị tiếp theo"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:542
+msgid "Non Ajax"
+msgstr "Không Ajax"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:745
+msgid "None"
+msgstr "Không có"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1128
+msgid "Notification per page"
+msgstr "Thông báo trên mỗi trang"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:575
+msgid ""
+"Notification will only display current product in product detail page that "
+"they are viewing."
+msgstr ""
+"Thông báo chỉ hiển thị sản phẩm hiện tại trên trang chi tiết sản phẩm mà "
+"khách hàng đang xem."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:231
+msgid "Notification will show on mobile and responsive."
+msgstr "Thông báo sẽ hiện trên thiết bị di động."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1135
+msgid "Number of notifications on a page."
+msgstr "Số lượng thông báo trên một trang."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:264
+msgid "Page"
+msgstr "Trang"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:79
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:75
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1390
+msgid ""
+"Please fill your key what you get from <a target=\"_blank\" href=\"https:"
+"//villatheme.com/my-download\">Villatheme</a>. You can automatically update "
+"WordPress eCommerce Notification plugin. See guide <a target=\"_blank\" "
+"href=\"https://villatheme.com/knowledge-base/how-to-use-auto-update-"
+"feature/\">here</a>"
+msgstr ""
+"Vui lòng điền mã được lấy từ <a target=\"_blank\" href=\"https://villatheme."
+"com/my-download\">Villatheme</a>. Có thể tự động cập nhật plugin WordPress "
+"eCommerce Notification. Xem hướng dẫn <a target=\"_blank\" href=\"https:"
+"//villatheme.com/knowledge-base/how-to-use-auto-update-feature/\">tại đây</a>"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:274
+msgid "Please select post_type what you want get product."
+msgstr "Vui lòng chọn post_type để lấy sản phẩm."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:300
+msgid "Please select products"
+msgstr "Vui lòng chọn sản phẩm"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1240
+msgid "Please select sound. Notification rings when show."
+msgstr "Vui lòng chọn âm thanh. Thông báo sẽ đổ chuông khi hiển thị."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:788
+msgid "Position"
+msgstr "Vị trí"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:263
+msgid "Post"
+msgstr "Bài đăng"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:189
+msgid "Product Detail"
+msgstr "Chi tiết sản phẩm"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:521
+msgid "Product image size"
+msgstr "Kích cỡ ảnh sản phẩm"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:682
+msgid "Product title"
+msgstr "Tiêu đề sản phẩm"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:686
+msgid "Product title with link"
+msgstr "Tiêu đề sản phẩm có liên kết"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:232
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:188
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1373
+msgid "Purchased code"
+msgstr "Mã mua hàng"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:273
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:274
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:194
+msgid "Report"
+msgstr "Báo cáo"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:782
+msgid "Right"
+msgstr "Phải"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:949
+msgid "rollIn"
+msgstr "rollIn"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1041
+msgid "rollOut"
+msgstr "rollOut"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:915
+msgid "rotateIn"
+msgstr "rotateIn"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:917
+msgid "rotateInDownLeft"
+msgstr "rotateInDownLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:919
+msgid "rotateInDownRight"
+msgstr "rotateInDownRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:921
+msgid "rotateInUpLeft"
+msgstr "rotateInUpLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:923
+msgid "rotateInUpRight"
+msgstr "rotateInUpRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1007
+msgid "rotateOut"
+msgstr "rotateOut"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1009
+msgid "rotateOutDownLeft"
+msgstr "rotateOutDownLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1011
+msgid "rotateOutDownRight"
+msgstr "rotateOutDownRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1013
+msgid "rotateOutUpLeft"
+msgstr "rotateOutUpLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1015
+msgid "rotateOutUpRight"
+msgstr "rotateOutUpRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:565
+msgid "Run single product"
+msgstr "Sản phẩm đơn lẻ"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1398
+msgid "Save"
+msgstr "Lưu"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1401
+msgid "Save & Check Key"
+msgstr "Lưu & Kiểm Tra"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1334
+msgid "Save Logs"
+msgstr "Lưu Ghi Chép"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1120
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1163
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1179
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1196
+msgid "seconds"
+msgstr "giây"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:381
+msgid "secs"
+msgstr "giây"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:279
+msgid "Select Items"
+msgstr "Chọn Mục"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:245
+msgid "Select Post Type"
+msgstr "Chọn Kiểu Bài Đăng"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/admin.php:160
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:192
+msgid "Short code"
+msgstr "Short code"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:849
+msgid "Show Close Icon"
+msgstr "Hiển thị biểu tượng Đóng"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:929
+msgid "slideInDown"
+msgstr "slideInDown"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:931
+msgid "slideInLeft"
+msgstr "slideInLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:933
+msgid "slideInRight"
+msgstr "slideInRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:927
+msgid "slideInUp"
+msgstr "slideInUp"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1021
+msgid "slideOutDown"
+msgstr "slideOutDown"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1023
+msgid "slideOutLeft"
+msgstr "slideOutLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1025
+msgid "slideOutRight"
+msgstr "slideOutRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1019
+msgid "slideOutUp"
+msgstr "slideOutUp"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:191
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1226
+msgid "Sound"
+msgstr "Âm thanh"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:220
+msgid "SUBMIT"
+msgstr "GỬI ĐI"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:19
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:99
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:100
+msgid "System Status"
+msgstr "Trạng Thái Hệ Thống"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:735
+msgid "Templates"
+msgstr "Mẫu"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:712
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1261
+msgid "This is {custom} shortcode content."
+msgstr "Đây là nội dung của shortcode {custom}."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:527
+msgid "thumbnail"
+msgstr "ảnh đại diện"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:190
+msgid "Time"
+msgstr "Thời gian"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:690
+msgid "Time after purchase"
+msgstr "Thời gian sau khi mua"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1123
+msgid "Time to show next notification "
+msgstr "Thời gian hiện thông báo tiếp theo"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1166
+msgid "Time will be random from Minimum initial delay time to Initial delay."
+msgstr ""
+"Thời gian được lấy ngẫu nhiên từ Thời gian trì hoãn tối thiếu tới Thời gian "
+"trì hoãn."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1199
+msgid "Time your notification display."
+msgstr "Thời gian thông báo được hiển thị."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:216
+msgid "To"
+msgstr "Tới"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:30
+#, php-format
+msgid ""
+"To allow logging, make <code>%s</code> writable or define a custom <code>"
+"ECOMMERCE_NOTIFICATION_CACHE</code>."
+msgstr ""
+"Để cho phép truy cập, cho phép <code>%s</code> ghi được hoặc xác định một "
+"<code>ECOMMERCE_NOTIFICATION_CACHE</code> tùy chỉnh."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:229
+msgid "Top Click"
+msgstr "Nhấp Chuột Hàng Đầu"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:827
+msgid "Top left"
+msgstr "Trên trái"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:839
+msgid "Top right"
+msgstr "Trên phải"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1308
+msgid "Turn on is hidden notification on Home page"
+msgstr "Bật để ẩn thông báo trên trang Giỏ hàng"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:195
+msgid "Update"
+msgstr "Cập nhật"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:694
+msgid "Use custom shortcode"
+msgstr "Dùng shortcode tùy chỉnh"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:399
+msgid "Virtual"
+msgstr "Ảo"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:407
+msgid "Virtual City"
+msgstr "Thành Phố Ảo"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:453
+msgid ""
+"Virtual city name what will show on notification. Each city name on a line."
+msgstr ""
+"Tên thành phố ảo được hiển thị trên thông báo. Mỗi tên thành phố là một dòng."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:458
+msgid "Virtual Country"
+msgstr "Quốc Gia Ảo"
+
+# q
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:463
+msgid "Virtual country name what will show on notification."
+msgstr "Tên quốc gia ảo được hiển thị trên thông báo."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:325
+msgid "Virtual First Name"
+msgstr "Tên Ảo"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:372
+msgid ""
+"Virtual first name what will show on notification. Each first name on a line."
+msgstr "Tên khách hàng ảo được hiển thị trên thông báo. Mỗi tên là một dòng."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:377
+msgid "Virtual Time"
+msgstr "Thời gian Ảo"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:516
+msgid ""
+"When you use detect IP, please enter your auth key. You can get at https:"
+"//ipfind.co"
+msgstr ""
+"Khi sử dụng tính năng tìm kiếm IP, vui lòng điền mã xác thực được lấy tại "
+"https://ipfind.co"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1182
+msgid "When your site loads, notifications will show after this amount of time"
+msgstr "Khi tải trang, thông báo sẽ hiện sau khoảng thời gian này."
+
+#. Name of the plugin
+msgid "WordPress eCommerce Notification"
+msgstr "WordPress eCommerce Notification"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:179
+msgid "WordPress eCommerce Notification Settings"
+msgstr "Cài Đặt WordPress eCommerce Notification"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:402
+msgid "You can use auto detect address or make virtual address of customer."
+msgstr "Có thể tự động tìm kiếm địa chỉ hoặc thêm địa chỉ khách hàng ảo."
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:937
+msgid "zoomIn"
+msgstr "zoomIn"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:939
+msgid "zoomInDown"
+msgstr "zoomInDown"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:941
+msgid "zoomInLeft"
+msgstr "zoomInLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:943
+msgid "zoomInRight"
+msgstr "zoomInRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:945
+msgid "zoomInUp"
+msgstr "zoomInUp"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1029
+msgid "zoomOut"
+msgstr "zoomOut"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1031
+msgid "zoomOutDown"
+msgstr "zoomOutDown"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1033
+msgid "zoomOutLeft"
+msgstr "zoomOutLeft"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1035
+msgid "zoomOutRight"
+msgstr "zoomOutRight"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1037
+msgid "zoomOutUp"
+msgstr "zoomOutUp"

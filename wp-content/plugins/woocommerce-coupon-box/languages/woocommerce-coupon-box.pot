@@ -1,0 +1,2117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Coupon Box Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-10 06:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:531
+msgid " days if the visitor subscribes"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:122
+msgid " lower than threshold 0.5 "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1386
+msgid ""
+" The API key for connecting with your MailChimp account. Get your API key "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1955
+msgid " to show only on cart page"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1972
+msgid " to show only on cart page and checkout page"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1958
+msgid " to show only on checkout page"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1964
+msgid " to show only on WooCommerce shop page"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1967
+msgid " to show only on WooCommerce single product page"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1952
+msgid ""
+"\"Home page\" option above must be disabled to run these conditional tags."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:784
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:813
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:843
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:873
+msgid ")"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1606
+msgid ""
+"**The API key for connecting with your Hubspot account. Get your API key "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1737
+msgid ""
+"**The API key for connecting with your Klaviyo account. Get your API key "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1796
+msgid ""
+"**The API key for connecting with your Sendinblue account. Get your API key "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1548
+msgid ""
+"**This API Key must have full-access permission of API Keys. You can set it "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:158
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:316
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:477
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:636
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:798
+msgid "*Enter your email address"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:392
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:847
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/shortcode.php:190
+msgid "*Invalid email!"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/shortcode.php:608
+msgid "*Invalid email! Please enter a valid email and subscribe."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:83
+msgid "*Invalid google reCAPTCHA secret key!"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:77
+msgid "*Invalid google reCAPTCHA!"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:65
+msgid "*No g_validate_response"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/shortcode.php:194
+msgid "*Please agree with the term and condition."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:846
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/shortcode.php:188
+msgid "*Please enter your email and subscribe."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:114
+msgid "*reCAPTCHA verification failed"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:197
+msgid "*This email already subscribed!"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/shortcode.php:380
+msgid ""
+"*This email already subscribed. Please enter another email and subscribe!"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1547
+msgid ""
+"*This is the API key that's shown only once when your created it, not the "
+"API key ID."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1903
+msgid ""
+"1, Visit <a target=\"_blank\" href=\"http://www.google.com/recaptcha/admin\">"
+"page</a> to sign up for an API key pair with your Gmail account"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1907
+msgid "2, Choose reCAPTCHA v2 checkbox "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1911
+msgid "2, Choose reCAPTCHA v3"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1913
+msgid "3, Fill in authorized domains"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1914
+msgid "4, Accept terms of service and click Register button"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1915
+msgid "5, Copy and paste the site and secret key into the above field"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3263
+msgid ""
+"A small icon to call coupon again after a visitor closes coupon box without "
+"subscribing"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1463
+msgid "Active Campaign"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1477
+msgid "Active Campaign API Key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1487
+msgid "Active Campaign API URL"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1497
+msgid "Active Campaign list"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:341
+msgid "Add New Email Subscribe"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:339
+msgctxt "Add new on Admin bar"
+msgid "Email"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:338
+msgctxt "Admin menu"
+msgid "Woo Coupon Box"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:434
+msgid "After initial time"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1148
+msgid "After subscribe"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:413
+msgid "Ajax"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:404
+msgid "Ajax endpoint"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:688
+msgid "Allow free shipping"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/elementor/shortcode-widget.php:38
+msgid "Always Visible"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:256
+msgid "and "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:253
+msgid "and follow us on "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:351
+msgid "Assign"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1941
+msgid "Assign Page"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1847
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2000
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2196
+msgid "Auto"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1988
+msgid "Auto Update Key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1547
+msgid "Background Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1461
+msgid "Background effect"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/woocommerce-email-template-customizer/viwec-template.php:36
+msgid "Basic"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1147
+msgid "Before subscribe"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:42
+msgid "Birthday"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1875
+msgid "Body"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1931
+msgid "Body Background Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1960
+msgid "Body Background Image"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2017
+msgid "Body Background Image Position"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1976
+msgid "Body Background Image Repeat"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1998
+msgid "Body Background Image Size"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1892
+msgid "Body Font"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1914
+msgid "Body Text Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3292
+msgid "Bottom Left"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3293
+msgid "Bottom Right"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1323
+msgid "Button \"Shop now\" background color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1312
+msgid "Button \"Shop now\" color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1334
+msgid "Button \"Shop now\" font size(px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1243
+msgid "Button \"Shop now\" title"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1277
+msgid "Button \"Shop now\" URL"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3042
+msgid "Button \"SUBSCRIBE\" Rounded Corner (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1352
+msgid "Button 'No, thanks'"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3027
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/elementor/shortcode-widget.php:64
+msgid "Button Background Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1412
+msgid "Button background color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/elementor/shortcode-widget.php:78
+msgid "Button Border Radius"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1484
+msgid "Button Close"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/elementor/shortcode-widget.php:50
+msgid "Button Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:437
+msgid "Button is rendered via shortcode"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2906
+msgid "Button Subscribe & Email field"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3009
+msgid "Button Text Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2994
+msgid "Button Title"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1365
+msgid "Button title"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1395
+msgid "Button title color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:189
+msgid "Campaign"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:826
+msgid "Categories"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2083
+msgid "Center"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:210
+msgid "Choose campaign"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:186
+msgid "Choose type"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1530
+msgid "Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1970
+msgid ""
+"Combining 2 or more conditionals using || to show coupon box if 1 of the "
+"conditionals matched. e.g use "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1849
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2002
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2198
+msgid "Contain"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:342
+msgid "Coupon"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:677
+msgid "Coupon amount"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3262
+msgid "Coupon box icon"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3275
+msgid "Coupon box icon on mobile"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1175
+msgid "Coupon Box Rounded Corner (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:668
+msgid "Coupon code prefix"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:45
+msgid "Coupon value"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1850
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2003
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2199
+msgid "Cover"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:967
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1041
+msgid "Create a new email template"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:596
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:636
+msgid "Custom"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3464
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3479
+msgid "Custom CSS"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3232
+msgid "Custom Fields Background Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3196
+msgid "Custom Fields Rounded Corner (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3215
+msgid "Custom Fields Text Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3056
+msgid "Custom input fields"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1883
+msgid "Dark"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:188
+msgid "Date"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:511
+msgid "Day"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:527
+msgid "Days"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:646
+msgid "Description"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:353
+msgid "Design"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:376
+msgid "Disable for logged-in users"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:655
+msgid "Discount type"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/elementor/shortcode-widget.php:41
+msgid ""
+"Display subscription form everywhere even the user is logged or subscribed"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1566
+msgid "Do not add to any list"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1139
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1158
+msgid "Do not show again"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:597
+msgid "Do not use coupon"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2605
+msgid "Dribbble User Name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:343
+msgid "Edit Email"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2919
+msgid "Emai Input Rounded Corner (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:344
+msgid "Email"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:346
+msgid "Email API"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:38
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:536
+msgid "Email campaign"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1159
+msgid "Email content"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1123
+msgid "Email heading"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2955
+msgid "Email Input Background Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2938
+msgid "Email Input Text Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:603
+msgid "Email restriction"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1087
+msgid "Email subject"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:345
+msgid "Email Subscribe"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:939
+msgid "Email template"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1013
+msgid "Email template for register account"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:362
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:369
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:495
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:924
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:931
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1355
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1371
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1470
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1535
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1595
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1634
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1680
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1724
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1783
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1836
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1934
+msgid "Enable"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:747
+msgid "Enable if the coupon cannot be used in conjunction with other coupons."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:696
+#, php-format
+msgid ""
+"Enable if the coupon grants free shipping. A free shipping method must be "
+"enabled in your shipping zone and be set to require \"a valid free shipping "
+"coupon\" (see the \"%s\" setting)."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:761
+msgid ""
+"Enable if the coupon should not apply to items on sale. Per-item coupons "
+"will only work if the item is not on sale. Per-cart coupons will only work "
+"if there are items in the cart that are not on sale."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:390
+msgid "Enable multi language"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:384
+msgid "Enable to hide coupon box for all logged-in users"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:611
+msgid "Enable to make coupon usable for received email only"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2087
+msgid "End"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:203
+msgid "End Date"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:451
+msgid "Enter min,max to set initial time random between min and max(seconds)."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:362
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:380
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/shortcode.php:590
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:85
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:242
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:403
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:562
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:724
+msgid "Enter this promo code at checkout page."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/shortcode.php:240
+msgid "Enter your email address"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:142
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:302
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:463
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:624
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:788
+msgid "Enter your email address(*)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1946
+msgid "Ex: !is_page(array(123,41,20))"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:856
+msgid "Exclude categories"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:797
+msgid "Exclude products"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:753
+msgid "Exclude sale items"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:595
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:617
+msgid "Existing coupon"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:703
+msgid "Expires after(days)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:46
+msgid "Expiry date"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:163
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:164
+msgid "Export Email"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:175
+msgid "Export email subscribe"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:255
+msgid "Facebook"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2399
+msgid "Facebook User Name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:122
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:283
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:444
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:605
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:769
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:138
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:295
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:456
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:615
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:777
+msgid "Female"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3148
+msgid "Field birthday"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3160
+msgid "Field birthday is required"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3074
+msgid "Field first name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3086
+msgid "Field first name is required"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3172
+msgid "Field gender"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3184
+msgid "Field gender is required"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3099
+msgid "Field last name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3111
+msgid "Field last name is required"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3124
+msgid "Field mobile"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3136
+msgid "Field mobile is required"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:39
+msgid "First name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:660
+msgid "Fixed cart discount"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:661
+msgid "Fixed product discount"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1289
+msgid "Follow Dribbble"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1238
+msgid "Follow Facebook"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1315
+msgid "Follow Google Plus"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1276
+msgid "Follow Instagram"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1341
+msgid "Follow Linkedin"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1263
+msgid "Follow Pinterest"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1302
+msgid "Follow Tumblr"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1250
+msgid "Follow Twitter"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2327
+msgid "Follow Us Text Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1328
+msgid "Follow VK"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:1355
+msgid "Follow Youtube"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1434
+msgid "Footer Text"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1448
+msgid "Footer Text After Subscribing"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:697
+msgid "free shipping method"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1307
+msgid "GDPR checkbox"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1334
+msgid "GDPR message"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:43
+msgid "Gender"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1130
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:339
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/elementor/shortcode-widget.php:31
+msgid "General"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1896
+msgid "Get Google reCAPTCHA V2 Site and Secret key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1900
+msgid "Get Google reCAPTCHA V3 Site and Secret key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:2000
+msgid "Get Key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:44
+msgid "Given coupon"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1980
+msgid "Go to design now"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2707
+msgid "Google Plus ID"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:348
+msgid "Google reCAPTCHA"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1890
+msgid "Guide"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1645
+msgid "Header"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1755
+msgid "Header Background Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1808
+msgid "Header Background Image"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1864
+msgid "Header Background Image Position"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1823
+msgid "Header Background Image Repeat"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1845
+msgid "Header Background Image Size"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1738
+msgid "Header Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1771
+msgid "Header Font Size(px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1789
+msgid "Header Space(px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1688
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1697
+msgid "Header Title"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1722
+msgid "Header Title After Subscribe"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1662
+msgid "Header Title Font"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1772
+msgid "Helpful tip: Set both Header Font size and Space to 0 to hide header."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1591
+msgid ""
+"Helpful tip: Set width to 0 to disable button close. Visitor can still close "
+"Coupon box without subscribing by clicking around or press Esc."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1388
+msgid "here"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1550
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1608
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1739
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1798
+msgid "here."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:473
+msgid "Hide coupon box"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1927
+msgid "Home Page"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:510
+msgid "Hour"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woo-coupon-box/"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1588
+msgid "Hubspot"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1601
+msgid "Hubspot API Key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3369
+msgid "Icon background color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2435
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2487
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2538
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2589
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2640
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2691
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2742
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2793
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2843
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2893
+msgid "Icon Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3341
+msgid "Icon color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3288
+msgid "Icon position"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3323
+msgid "Icon wrap rounded corner(px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2342
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3307
+msgid "Icons size (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:478
+msgid ""
+"If a visitor subscribes when the coupon box is minimized, only field email "
+"is visible and required, all other fields are invisible even if you set them "
+"required fields."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1259
+msgid "If disable, account will be auto register"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1373
+msgid ""
+"If enabled, a confirm subscription email will be sent to each subscriber for "
+"them to confirm that they subscribe to your list."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1163
+msgid ""
+"If you set to give coupons for subscribers, beside sending coupon code via "
+"email address, enable this to print out the coupon code inside the coupon "
+"box after subscribing."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2138
+msgid "Image Column Background Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2156
+msgid "Image Column Background Image"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2213
+msgid "Image Column Background Image Position"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2172
+msgid "Image Column Background Image Repeat"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2194
+msgid "Image Column Background Image Size"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2116
+msgid "Image Column Image"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:739
+msgid "Individual use only"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1848
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2001
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2197
+msgid "Inherit"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1825
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1978
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2174
+msgid "inherit"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:445
+msgid "Initial time"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/elementor/shortcode-widget.php:91
+msgid "Input Border Radius"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2554
+msgid "Instagram User Name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2085
+msgid "Justify"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1716
+msgid "Klaviyo"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1731
+msgid "Klaviyo API Key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1745
+msgid "Klaviyo list"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:40
+msgid "Last name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1082
+msgid "Layout"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1101
+msgid "Layout 1"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1105
+msgid "Layout 2"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1109
+msgid "Layout 3"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1113
+msgid "Layout 4"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1117
+msgid "Layout 5"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2082
+msgid "Left"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1948
+msgid "Let you control on which pages coupon box will appear using "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1884
+msgid "Light"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:897
+msgid "Limit usage to X items"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2828
+msgid "Linkedin User Name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1348
+msgid "Mailchimp"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1380
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1364
+msgid "Mailchimp double optin"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1394
+msgid "Mailchimp lists"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1627
+msgid "MailPoet"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1641
+msgid "MailPoet list"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1673
+msgid "Mailster"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1687
+msgid "Mailster list"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:121
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:282
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:443
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:604
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:768
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:137
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:294
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:455
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:614
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:776
+msgid "Male"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:726
+msgid "Maximum spend"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/system.php:26
+msgid "Memory Limit"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2038
+msgid "Message"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2051
+msgid "Message After Subscribing"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2103
+msgid "Message Color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2063
+msgid "Message Size (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2080
+msgid "Message Text Align (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:475
+msgid "Minimize to bottom bar"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:474
+msgid "Minimize to top bar"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:715
+msgid "Minimum spend"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:509
+msgid "Minute"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:41
+msgid "Mobile"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:236
+msgid "Need help ?"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:91
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:591
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/frontend.php:612
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/shortcode.php:763
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/frontend/shortcode.php:775
+msgid "never expires"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:487
+msgid "Never reminder if click 'No, thanks' button"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1211
+msgid "New account content"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:342
+msgid "New Email"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/elementor/shortcode-widget.php:43
+msgid "No"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:349
+msgid "No Email found in Trash."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:348
+msgid "No Email found."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1826
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1979
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2175
+msgid "no-repeat"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:948
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1022
+msgid "None"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2361
+msgid "Open link in current tab"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2360
+msgid "Open link in new tab"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:966
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1040
+msgid "or"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:123
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:284
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:445
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:606
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:770
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:139
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:296
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:457
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:616
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:778
+msgid "Other"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1225
+msgid "Overlay color"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:347
+msgid "Parent Email:"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:659
+msgid "Percentage discount"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:462
+msgid "Percentage of page height when scroll to show popup"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/system.php:21
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/system.php:17
+msgid "PHP Time Limit"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2503
+msgid "Pinterest User Name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1689
+msgid "Place words in <span></span> to make it display in new line"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:238
+msgid ""
+"Please be one of the special few to support this plugin with a gift or "
+"review. Free download and support 24/7."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:2004
+msgid ""
+"Please fill your key what you get from <a target=\"_blank\" href=\"https:"
+"//villatheme.com/my-download\">https://villatheme.com/my-download</a>. You "
+"can auto update WooCommerce Coupon Box plugin. See <a target=\"_blank\" "
+"href=\"https://villatheme.com/knowledge-base/how-to-use-auto-update-"
+"feature/\">guide</a>"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/woocommerce-coupon-box.php:39
+msgid "Please install and activate WooCommerce to use WooCommerce Coupon Box."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1193
+msgid "Popup Display Type"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3244
+msgid "Popup Icons"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:429
+msgid "Popup trigger"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1865
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2018
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2214
+#, php-format
+msgid "Position of Background Image. Eg: 100% 100%, center..."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1623
+msgid "Position-x (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1635
+msgid "Position-y (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:65
+msgid "Preview emails"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:769
+msgid "Products"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:438
+msgid "Random one of these above"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1852
+msgid "reCAPTCHA v2"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1853
+msgid "reCAPTCHA v3"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:559
+msgid "Register account"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1288
+msgid "Register account message"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1258
+msgid "Register account notice"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:565
+msgid "Register account when customer subscribe"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1827
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1980
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2176
+msgid "repeat"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1828
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1981
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2177
+msgid "repeat-x"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1829
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1982
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2178
+msgid "repeat-y"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:422
+msgid "REST API"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2084
+msgid "Right"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:340
+msgctxt "role"
+msgid "Add New Subscribe"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1830
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1983
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2179
+msgid "round"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1607
+msgid "Rounded Corner (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1377
+msgid "Rounded corner (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:2012
+msgid "Save"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:2016
+msgid "Save & Check Key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:456
+msgid "Scroll amount"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:346
+msgid "Search Email"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:508
+msgid "Second"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1868
+msgid "Secret key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:589
+msgid "Select coupon"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1098
+msgid "Select Layout"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1693
+msgid "Select list"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1647
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1814
+msgid "Select lists"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1398
+msgid "Select Mailchimp list"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1145
+msgid "Select view mode to edit"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1528
+msgid "SendGrid"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1542
+msgid "SendGrid API Key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1557
+msgid "SendGrid list"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1775
+msgid "Sendinblue"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1790
+msgid "Sendinblue API Key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1805
+msgid "Sendinblue list"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1272
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1320
+msgid "Set checkbox state \"checked\" as default"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:254
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:314
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:315
+msgid "Settings"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:440
+msgid "Shortcode for button option: [wcb_open_popup text=\"Subscribe\"]"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1162
+msgid "Show coupon after subscribing."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:530
+msgid "Show subscription form again after "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1859
+msgid "Site key"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1574
+msgid "Size (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2225
+msgid "Social Media"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1831
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1984
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2180
+msgid "space"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2971
+msgid "Space between email field & button SUBSCRIBE"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2086
+msgid "Start"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:196
+msgid "Start Date"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:501
+msgid "Subscription reminder if not subscribe"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:521
+msgid "Subscription reminder if subscribe"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/system.php:13
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/system.php:38
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/system.php:39
+msgid "System Status"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2312
+msgid "Text Follow Social Network"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/woocommerce-email-template-customizer/viwec-template.php:45
+msgid "Thank you for subscribing"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:239
+msgid "Thank you!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The easiest way to share your coupon code and grow your social followers at "
+"the same time. With WooCommerce Coupon Box, your customers will see a popup "
+"that motivates them to follow your social profiles to get coupon code."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1878
+msgid "Theme"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:481
+msgid "This is only used for desktop."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1150
+msgid ""
+"This option is for you to see what it't like before and after visitors "
+"subscribe only"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:515
+msgid "Time to show subscription again if visitor does not subscribe"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1982
+msgid ""
+"To design your WooCommerce Coupon Box in other languages, please switch your "
+"site to respecting language(WPML or Polylang) before going to design or "
+"customize. Switching language during customize mode does not work."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1961
+msgid "to show only on WooCommerce category page"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3290
+msgid "Top Left"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3291
+msgid "Top Right"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2656
+msgid "Tumblr User Name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1936
+msgid "Turn on to show coupon box only on Home page"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1357
+msgid "Turn on to use MailChimp system"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:258
+msgid "Twitter"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2452
+msgid "Twitter User Name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:3276
+msgid "Uncheck this to hide the coupon box icon on mobile"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:594
+msgid "Unique coupon"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:355
+msgid "Update"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:886
+msgid "Usage limit per coupon"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:908
+msgid "Usage limit per user"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1954
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1957
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1960
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1963
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1966
+msgid "Use "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1847
+msgid "Version"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:965
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1039
+msgid "View all Email templates"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/admin.php:344
+msgid "View Email"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/export_email.php:251
+msgid "Visit "
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2758
+msgid "VKontakte User Name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1915
+msgid "wcb_coupon_box_design_body"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2358
+msgid "When click on social icons"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:436
+msgid "When users are about to exit"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:435
+msgid "When users scroll"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:468
+msgid "When visitors close coupon box without subscribing"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1590
+msgid "Width (px)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:328
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/elementor/shortcode-widget.php:15
+msgid "Woo Coupon Box"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:1061
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/woocommerce-email-template-customizer/viwec-template.php:52
+msgid "WooCommerce Coupon Box"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Coupon Box Premium"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1949
+msgid "WP's conditional tags"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/includes/3rd/elementor/shortcode-widget.php:42
+msgid "Yes"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:961
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:1035
+msgid ""
+"You can use <a href=\"https://1.envato.market/BZZv1\" target=\"_blank\">"
+"WooCommerce Email Template Customizer</a> or <a href=\"http://bit.ly/woo-"
+"email-template-customizer\" target=\"_blank\">Email Template Customizer for "
+"WooCommerce</a> to create and customize your own email template. If no email "
+"template is selected, below email will be used."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/settings.php:398
+msgid ""
+"You can use multi language if you are using WPML or Polylang. Make sure you "
+"had translated WooCommerce Coupon Box in all your languages before using "
+"this feature."
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:110
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:111
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:271
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:272
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:432
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:433
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:593
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:594
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:757
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:758
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:126
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:127
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:283
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:284
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:444
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:445
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:603
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:604
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:765
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:766
+msgid "Your birthday"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:110
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:271
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:432
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:593
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:757
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:126
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:283
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:444
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:603
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:765
+msgid "Your birthday(*)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:111
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:272
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:433
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:594
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:758
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:127
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:284
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:445
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:604
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:766
+msgid "Your birthday(*required)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2606
+msgid "Your Dribbble User Name. Eg: villatheme"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2400
+msgid "Your Facebook User Name. Eg: villatheme"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:82
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:83
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:241
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:242
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:403
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:404
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:563
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:564
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:727
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:728
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:98
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:99
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:255
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:256
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:416
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:417
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:575
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:576
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:737
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:738
+msgid "Your first name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:82
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:241
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:403
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:563
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:727
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:98
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:255
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:416
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:575
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:737
+msgid "Your first name(*)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:83
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:242
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:404
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:564
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:728
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:99
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:256
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:417
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:576
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:738
+msgid "Your first name(*required)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:119
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:120
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:280
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:281
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:441
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:442
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:602
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:603
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:766
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:767
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:135
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:136
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:292
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:293
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:453
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:454
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:612
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:613
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:774
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:775
+msgid "Your gender"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:120
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:281
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:442
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:603
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:767
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:136
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:293
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:454
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:613
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:775
+msgid "Your gender(*)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:119
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:280
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:441
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:602
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:766
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:135
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:292
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:453
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:612
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:774
+msgid "Your gender(*required)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2708
+msgid "Your Google Plus ID. Eg: +LarryPage"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2555
+msgid "Your Instagram User Name. Eg: villatheme"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:91
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:92
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:251
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:252
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:413
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:414
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:573
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:574
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:737
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:738
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:107
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:108
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:264
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:265
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:425
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:426
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:584
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:585
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:746
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:747
+msgid "Your last name"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:91
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:251
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:413
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:573
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:737
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:107
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:264
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:425
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:584
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:746
+msgid "Your last name(*)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:92
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:252
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:414
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:574
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:738
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:108
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:265
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:426
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:585
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:747
+msgid "Your last name(*required)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2829
+msgid "Your Linkedin User Name. Eg: villatheme"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:101
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:102
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:262
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:263
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:423
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:424
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:584
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:585
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:748
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:749
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:117
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:118
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:274
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:275
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:435
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:436
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:594
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:595
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:756
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:757
+msgid "Your mobile"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:101
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:262
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:423
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:584
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:748
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:117
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:274
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:435
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:594
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:756
+msgid "Your mobile(*)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:102
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:263
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:424
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:585
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/basic.php:749
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:118
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:275
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:436
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:595
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/templates/customize.php:757
+msgid "Your mobile(*required)"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2504
+msgid "Your Pinterest User Name. Eg: villatheme"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2657
+msgid "Your Tumblr User Name. Eg: villatheme"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2453
+msgid "Your Twitter User Name. Eg: villatheme"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2759
+msgid "Your VKontakte User Name. Eg: villatheme"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2879
+msgid ""
+"Your Youtube full url. Eg: https://www.youtube."
+"com/channel/UCbCfnjbtBZIQfzLvXgNpbKw"
+msgstr ""
+
+#: E:/Git/2019/PREMIUM-VERSION/woocommerce-coupon-box/woocommerce-coupon-box/admin/design.php:2878
+msgid "Youtube URL"
+msgstr ""

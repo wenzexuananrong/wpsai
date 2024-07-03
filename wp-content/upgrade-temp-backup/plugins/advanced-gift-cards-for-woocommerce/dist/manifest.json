@@ -1,0 +1,161 @@
+{
+  "_reactLib-legacy.f03215d2.js": {
+    "file": "common/reactLib-legacy.f03215d2.js"
+  },
+  "_reactLib.28e086c5.js": {
+    "file": "common/reactLib.28e086c5.js"
+  },
+  "_redux-legacy.518b8698.js": {
+    "file": "common/redux-legacy.518b8698.js"
+  },
+  "_redux.4ed993c7.js": {
+    "file": "common/redux.4ed993c7.js"
+  },
+  "packages/agc-admin-app/index-legacy.tsx": {
+    "file": "packages/agc-admin-app/index-legacy.f72733da.js",
+    "imports": [
+      "_reactLib-legacy.f03215d2.js"
+    ],
+    "isEntry": true,
+    "src": "packages/agc-admin-app/index-legacy.tsx"
+  },
+  "packages/agc-admin-app/index.css": {
+    "file": "assets/index-bf89f8bb.css",
+    "src": "packages/agc-admin-app/index.css"
+  },
+  "packages/agc-admin-app/index.tsx": {
+    "css": [
+      "assets/index-bf89f8bb.css"
+    ],
+    "file": "packages/agc-admin-app/index.fc8f222d.js",
+    "imports": [
+      "_reactLib.28e086c5.js"
+    ],
+    "isEntry": true,
+    "src": "packages/agc-admin-app/index.tsx"
+  },
+  "packages/agc-blocks/index-legacy.tsx": {
+    "file": "packages/agc-blocks/index-legacy.c1096374.js",
+    "isEntry": true,
+    "src": "packages/agc-blocks/index-legacy.tsx"
+  },
+  "packages/agc-blocks/index.css": {
+    "file": "assets/index-686becde.css",
+    "src": "packages/agc-blocks/index.css"
+  },
+  "packages/agc-blocks/index.tsx": {
+    "css": [
+      "assets/index-686becde.css"
+    ],
+    "file": "packages/agc-blocks/index.ea3a39a4.js",
+    "isEntry": true,
+    "src": "packages/agc-blocks/index.tsx"
+  },
+  "packages/agc-checkout-block/index-legacy.tsx": {
+    "file": "packages/agc-checkout-block/index-legacy.4bd6c6a9.js",
+    "isEntry": true,
+    "src": "packages/agc-checkout-block/index-legacy.tsx"
+  },
+  "packages/agc-checkout-block/index.css": {
+    "file": "assets/index-da037a17.css",
+    "src": "packages/agc-checkout-block/index.css"
+  },
+  "packages/agc-checkout-block/index.tsx": {
+    "css": [
+      "assets/index-da037a17.css"
+    ],
+    "file": "packages/agc-checkout-block/index.bcfbe03f.js",
+    "isEntry": true,
+    "src": "packages/agc-checkout-block/index.tsx"
+  },
+  "packages/agc-checkout/index-legacy.ts": {
+    "file": "packages/agc-checkout/index-legacy.d10f74a8.js",
+    "isEntry": true,
+    "src": "packages/agc-checkout/index-legacy.ts"
+  },
+  "packages/agc-checkout/index.css": {
+    "file": "assets/index-3ce8f4a5.css",
+    "src": "packages/agc-checkout/index.css"
+  },
+  "packages/agc-checkout/index.ts": {
+    "css": [
+      "assets/index-3ce8f4a5.css"
+    ],
+    "file": "packages/agc-checkout/index.224a9524.js",
+    "isEntry": true,
+    "src": "packages/agc-checkout/index.ts"
+  },
+  "packages/agc-edit-gift-card/index-legacy.ts": {
+    "file": "packages/agc-edit-gift-card/index-legacy.4475d5db.js",
+    "isEntry": true,
+    "src": "packages/agc-edit-gift-card/index-legacy.ts"
+  },
+  "packages/agc-edit-gift-card/index.css": {
+    "file": "assets/index-27ef9b59.css",
+    "src": "packages/agc-edit-gift-card/index.css"
+  },
+  "packages/agc-edit-gift-card/index.ts": {
+    "css": [
+      "assets/index-27ef9b59.css"
+    ],
+    "file": "packages/agc-edit-gift-card/index.617fe9aa.js",
+    "isEntry": true,
+    "src": "packages/agc-edit-gift-card/index.ts"
+  },
+  "packages/agc-redeem-gift-card/index-legacy.ts": {
+    "file": "packages/agc-redeem-gift-card/index-legacy.db18ead9.js",
+    "isEntry": true,
+    "src": "packages/agc-redeem-gift-card/index-legacy.ts"
+  },
+  "packages/agc-redeem-gift-card/index.css": {
+    "file": "assets/index-9ccf5055.css",
+    "src": "packages/agc-redeem-gift-card/index.css"
+  },
+  "packages/agc-redeem-gift-card/index.ts": {
+    "css": [
+      "assets/index-9ccf5055.css"
+    ],
+    "file": "packages/agc-redeem-gift-card/index.5f4aa0c4.js",
+    "isEntry": true,
+    "src": "packages/agc-redeem-gift-card/index.ts"
+  },
+  "packages/agc-single-product/index-legacy.ts": {
+    "file": "packages/agc-single-product/index-legacy.a341f430.js",
+    "isEntry": true,
+    "src": "packages/agc-single-product/index-legacy.ts"
+  },
+  "packages/agc-single-product/index.css": {
+    "file": "assets/index-50abe11a.css",
+    "src": "packages/agc-single-product/index.css"
+  },
+  "packages/agc-single-product/index.ts": {
+    "css": [
+      "assets/index-50abe11a.css"
+    ],
+    "file": "packages/agc-single-product/index.edf7f636.js",
+    "isEntry": true,
+    "src": "packages/agc-single-product/index.ts"
+  },
+  "packages/agc-slmw-license/index-legacy.ts": {
+    "file": "packages/agc-slmw-license/index-legacy.16f2606e.js",
+    "isEntry": true,
+    "src": "packages/agc-slmw-license/index-legacy.ts"
+  },
+  "packages/agc-slmw-license/index.css": {
+    "file": "assets/index-b3c0628f.css",
+    "src": "packages/agc-slmw-license/index.css"
+  },
+  "packages/agc-slmw-license/index.ts": {
+    "css": [
+      "assets/index-b3c0628f.css"
+    ],
+    "file": "packages/agc-slmw-license/index.6860e677.js",
+    "isEntry": true,
+    "src": "packages/agc-slmw-license/index.ts"
+  },
+  "vite/legacy-polyfills-legacy": {
+    "file": "polyfills-legacy.51583ca9.js",
+    "isEntry": true,
+    "src": "vite/legacy-polyfills-legacy"
+  }
+}

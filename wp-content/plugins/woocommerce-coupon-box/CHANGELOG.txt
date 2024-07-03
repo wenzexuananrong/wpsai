@@ -1,0 +1,109 @@
+/**2.1.1 - 2023.10.10**/
+- Update: VillaTheme_Support
+
+/**2.1.0 - 2023.08.08**/
+- Updated: Compatible with High-Performance order storage (COT)
+
+/**2.0.12 - 2023.04.13**/
+- Update: Coupon code(given after a user successfully subscribes) will be copied to clipboard when clicking.
+- Update: Display customer IP Address on email list.
+- Update: Add GetResponse to email API list.
+- Update: Display custom field show_first_name, show_last_name, show_mobile, show_birthday, show_gender, show_additional in shortcode.
+– Fixed: Subscribed title display incorrectly.
+
+/**2.0.11 - 2022.10.17**/
+- Fix: Condition check when recaptcha is not enabled but other recaptcha plugins are running
+
+/**2.0.10 - 2022.10.13**/
+- Fix: Recaptcha not working when using background effect
+- Fix: Existing coupon type shown as ID instead of code in shortcode and emails list
+- Update: Add Mailster to email API list
+- Update: Make Recaptcha also work with shortcode
+
+/**2.0.9 - 2022.03.30**/
+- Update: VillaTheme_Support
+
+/**2.0.8 - 2022.03.23**/
+- Fix: List ids of Sendinblue
+- Update: VillaTheme_Support
+
+/**2.0.7 - 2021.12.22**/
+- Updated: Add mail APIs: Hubspot, MailPoet, Klaviyo, SendinBlue
+
+/**2.0.6 - 2021.11.22**/
+- Updated: Polylang change get current language method
+
+/**2.0.5 - 2020.11.12**/
+- Added: Save email to checkout page
+- Added: Option open email with shortcode button
+- Updated: Sengrid API
+
+/**2.0.4.8 - 2020.12.18**/
+- Added: Filter data to add to Mailchimp - wcb_data_to_mailchimp
+- Added: Compatibility with WooCommerce Email Template Customizer/Email Template Customizer for WooCommerce plugin from VillaTheme
+
+/**2.0.4.7 - 2020.08.15**/
+- Added: Compatibility with WP 5.5 and WC 4.3
+– Fixed: Assign page
+- Fixed: Check update request
+– Updated: Class support
+
+**2.0.4.6 - 2020.05.20**
+– Updated: Class support
+- Added: Enable/disable send mail
+- Updated: compatible with Elementor for Shortcode
+
+**2.0.4.5 - 2019.12.02**
+- Fixed: Settings products and categories
+- Changed: Datetime format of coupon
+- Added: Google reCAPTCHA
+- Added: Change title after subscribing
+- Added: Option to never reminder if click button close 'No, Thanks'
+
+**2.0.4.4 - 2019.11.16**
+- Fixed: jQuery with WP 5.3
+
+**2.0.4.3 - 2019.11.15**
+- Fixed: Cookies not set for Microsoft Edge users
+- Fixed: jQuery with WP 5.3
+- Added: Multilingual support for Mailchimp list
+
+**2.0.4.2 - 2019.05.01**
+- Updated: Auto get key
+- Fixed: Scroll trigger not working when browsing on IOS mobile devices
+
+**2.0.4.1 - 2019.01.17**
+- Updated: Add argument always_visible for shortcode: [wcb_widget always_visible="1"] to always show shortcode
+- Updated: Add multi language support for shortcode [wcb_widget]
+
+**2.0.4 - 2018.12.29**
+- Fixed: Settings usage limit and usage limit x items
+- Updated: Change coupon amount to float
+- Added: More background effects
+- Added: Option to set ajax endpoint: Ajax or REST API
+- Added: Option to enable Multi language(WPML and Polylang)
+- Added: Preview email
+
+**2.0.3.1**
+- Fixed: check SSL
+
+**2.0.3 - 2018.11.10**
+- Added: Input fields color and background color customizer
+
+**2.0.2 - 2018.10.06**
+- Fixed: Some text not translated
+- Fixed: Auto Update Key
+- Fixed: Support class
+- Optimized: Shorten unique coupon code
+- Changed: Separate field name into first name and last name
+- Added: Mailchimp double opt-in
+- Added: SendGrid API
+
+**2.0.1 - 2018.09.06**
+- Optimized: Code and data
+- Added: Fields name, mobile, birthday, gender
+- Added: Option to show a small icon to call coupon box again when visitors do not subscribe
+- Added: Small icon to call coupon box again when visitors do not subscribe
+
+**2.0.0 - 2018.08.23**
+- Uploaded

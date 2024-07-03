@@ -1,0 +1,10 @@
+/*custom fields*/
+.wcb-coupon-box-1 .wcb-custom-input-fields.wcb-input-fields-count-1 .wcb-input-field-item{
+    width: 100%;
+}
+.wcb-coupon-box-1 .wcb-custom-input-fields.wcb-input-fields-count-5 .wcb-input-field-item:nth-child(3),
+.wcb-coupon-box-1 .wcb-custom-input-fields.wcb-input-fields-count-5 .wcb-input-field-item:nth-child(4),
+.wcb-coupon-box-1 .wcb-custom-input-fields.wcb-input-fields-count-5 .wcb-input-field-item:nth-child(5),
+.wcb-coupon-box-1 .wcb-custom-input-fields.wcb-input-fields-count-3 .wcb-input-field-item{
+    width: 32%;
+}

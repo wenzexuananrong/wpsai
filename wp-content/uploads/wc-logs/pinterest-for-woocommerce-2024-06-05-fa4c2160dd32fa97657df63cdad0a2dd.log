@@ -1,0 +1,29 @@
+2024-06-05T03:44:12+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-05T03:44:22+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-05T03:47:47+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-05T03:48:04+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/partners/billing_profiles
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-05T03:48:04+00:00 ERROR cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-05T08:22:09+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/partners/billing_profiles
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-05T08:22:09+00:00 ERROR cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-05T08:22:28+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-05T08:22:38+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds
+2024-06-05T10:28:23+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10000 milliseconds
+2024-06-05T10:28:33+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/549767507380/discounts?active=true
+Status Code: 1
+API response: cURL error 28: Connection timed out after 10001 milliseconds

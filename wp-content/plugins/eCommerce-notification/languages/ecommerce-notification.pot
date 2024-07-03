@@ -1,0 +1,852 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Coupon Box Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-13 02:08+0000\n"
+"POT-Revision-Date: Mon Jun 06 2016 16:44:15 GMT+0700 (SE Asia Standard Time)"
+"\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:382
+msgid "a few seconds"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:373
+msgid "About"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:392
+msgid "Address"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:374
+msgid "ago"
+msgstr ""
+
+#. Author of the plugin
+msgid "Andy Ha (villatheme.com)"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:193
+msgid "Assign"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:397
+msgid "Auto Detect"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:387
+msgid ""
+"Auto get the time of when the customer purchased in this threshold randomly."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:724
+msgid "Background color"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:802
+msgid "Bottom left"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:815
+msgid "Bottom right"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:873
+msgid "bounceIn"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:875
+msgid "bounceInDown"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:877
+msgid "bounceInLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:879
+msgid "bounceInRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:881
+msgid "bounceInUp"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:965
+msgid "bounceOut"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:967
+msgid "bounceOutDown"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:969
+msgid "bounceOutLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:971
+msgid "bounceOutRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:973
+msgid "bounceOutUp"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:74
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:82
+msgid "Click"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:233
+msgid "Clicked"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:204
+msgid "Clicks by date"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:205
+msgid "Clicks by product"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1313
+msgid "Conditional Tags"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1253
+msgid "Custom"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1049
+msgid "Custom CSS"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:674
+msgid "Customer's city"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:678
+msgid "Customer's country"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:670
+msgid "Customer's first name"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:375
+msgid "day"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1356
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:376
+msgid "days"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:187
+msgid "Design"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1188
+msgid "Display time"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1359
+msgid "during this time"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/admin.php:212
+msgid "eCom Notification"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/admin.php:212
+msgid "eCommerce Notification"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:202
+msgid "eCommerce Notification Reporting"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1316
+msgid "eg: !is_page(34,98,73)"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:204
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1212
+msgid "Enable"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:885
+msgid "fadeIn"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:887
+msgid "fadeInDown"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:889
+msgid "fadeInDownBig"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:891
+msgid "fadeInLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:893
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:895
+msgid "fadeInRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:897
+msgid "fadeInRightBig"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:899
+msgid "fadeInUp"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:901
+msgid "fadeInUpBig"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:977
+msgid "fadeOut"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:979
+msgid "fadeOutDown"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:981
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:983
+msgid "fadeOutLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:985
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:987
+msgid "fadeOutRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:989
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:991
+msgid "fadeOutUp"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:993
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:905
+msgid "flipInX"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:907
+msgid "flipInY"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:997
+msgid "flipOutX"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:999
+msgid "flipOutY"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:212
+msgid "From"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:186
+msgid "General"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1386
+msgid "Get Key"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1285
+msgid ""
+"Get the value randomly from Min number to Max number for the shortcode "
+"{number} content"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:701
+msgid "Highlight color"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1348
+msgid "History time"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1298
+msgid "Home page"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:377
+msgid "hour"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:384
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:378
+msgid "hours"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:774
+msgid "Image Position"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:537
+msgid "Image size will get form your WordPress site."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Increase conversion rate by highlighting other customers that have bought "
+"products."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1171
+msgid "Initial delay"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1140
+msgid "Initial time random"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:511
+msgid "Ipfind Auth Key"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:533
+msgid "large"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:780
+msgid "Left"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1321
+msgid "Let you adjust which pages will appear using WP's conditional tags."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:911
+msgid "lightSpeedIn"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1003
+msgid "lightSpeedOut"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:552
+msgid ""
+"Load popup will not use ajax. Your site will be load faster. It creates "
+"cache."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:24
+msgid "Log Directory Writable"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1359
+msgid "Logs will be saved at "
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1098
+msgid "Loop"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1150
+msgid "Make the initial time random."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1277
+msgid "Max number"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:530
+msgid "medium"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:84
+msgid "Memory Limit"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:865
+msgid "Message display effect"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:957
+msgid "Message hidden effect"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:588
+msgid "Message purchased"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1266
+msgid "Min Number"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1155
+msgid "Minimum initial delay time"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:379
+msgid "minute"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:380
+msgid "minutes"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:220
+msgid "Mobile"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1112
+msgid "Next time display"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:542
+msgid "Non Ajax"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:745
+msgid "None"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1128
+msgid "Notification per page"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:575
+msgid ""
+"Notification will only display current product in product detail page that "
+"they are viewing."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:231
+msgid "Notification will show on mobile and responsive."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1135
+msgid "Number of notifications on a page."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:264
+msgid "Page"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:79
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:75
+msgid "PHP Time Limit"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1390
+msgid ""
+"Please fill your key what you get from <a target=\"_blank\" href=\"https:"
+"//villatheme.com/my-download\">Villatheme</a>. You can automatically update "
+"WordPress eCommerce Notification plugin. See guide <a target=\"_blank\" "
+"href=\"https://villatheme.com/knowledge-base/how-to-use-auto-update-"
+"feature/\">here</a>"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:274
+msgid "Please select post_type what you want get product."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:300
+msgid "Please select products"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1240
+msgid "Please select sound. Notification rings when show."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:788
+msgid "Position"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:263
+msgid "Post"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:189
+msgid "Product Detail"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:521
+msgid "Product image size"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:682
+msgid "Product title"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:686
+msgid "Product title with link"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:232
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:188
+msgid "Products"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1373
+msgid "Purchased code"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:273
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:274
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:194
+msgid "Report"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:782
+msgid "Right"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:949
+msgid "rollIn"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1041
+msgid "rollOut"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:915
+msgid "rotateIn"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:917
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:919
+msgid "rotateInDownRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:921
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:923
+msgid "rotateInUpRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1007
+msgid "rotateOut"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1009
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1011
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1013
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1015
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:565
+msgid "Run single product"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1398
+msgid "Save"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1401
+msgid "Save & Check Key"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1334
+msgid "Save Logs"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1120
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1163
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1179
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1196
+msgid "seconds"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/frontend/notify.php:381
+msgid "secs"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:279
+msgid "Select Items"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:245
+msgid "Select Post Type"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/admin.php:160
+msgid "Settings"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:192
+msgid "Short code"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:849
+msgid "Show Close Icon"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:929
+msgid "slideInDown"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:931
+msgid "slideInLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:933
+msgid "slideInRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:927
+msgid "slideInUp"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1021
+msgid "slideOutDown"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1023
+msgid "slideOutLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1025
+msgid "slideOutRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1019
+msgid "slideOutUp"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:191
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1226
+msgid "Sound"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:220
+msgid "SUBMIT"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:19
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:99
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:100
+msgid "System Status"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:735
+msgid "Templates"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:712
+msgid "Text color"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1261
+msgid "This is {custom} shortcode content."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:527
+msgid "thumbnail"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:190
+msgid "Time"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:690
+msgid "Time after purchase"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1123
+msgid "Time to show next notification "
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1166
+msgid "Time will be random from Minimum initial delay time to Initial delay."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1199
+msgid "Time your notification display."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:216
+msgid "To"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/system.php:30
+#, php-format
+msgid ""
+"To allow logging, make <code>%s</code> writable or define a custom <code>"
+"ECOMMERCE_NOTIFICATION_CACHE</code>."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/report.php:229
+msgid "Top Click"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:827
+msgid "Top left"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:839
+msgid "Top right"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1308
+msgid "Turn on is hidden notification on Home page"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:195
+msgid "Update"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:694
+msgid "Use custom shortcode"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:399
+msgid "Virtual"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:407
+msgid "Virtual City"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:453
+msgid ""
+"Virtual city name what will show on notification. Each city name on a line."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:458
+msgid "Virtual Country"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:463
+msgid "Virtual country name what will show on notification."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:325
+msgid "Virtual First Name"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:372
+msgid ""
+"Virtual first name what will show on notification. Each first name on a line."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:377
+msgid "Virtual Time"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:516
+msgid ""
+"When you use detect IP, please enter your auth key. You can get at https:"
+"//ipfind.co"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1182
+msgid "When your site loads, notifications will show after this amount of time"
+msgstr ""
+
+#. Name of the plugin
+msgid "WordPress eCommerce Notification"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:179
+msgid "WordPress eCommerce Notification Settings"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:402
+msgid "You can use auto detect address or make virtual address of customer."
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:937
+msgid "zoomIn"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:939
+msgid "zoomInDown"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:941
+msgid "zoomInLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:943
+msgid "zoomInRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:945
+msgid "zoomInUp"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1029
+msgid "zoomOut"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1031
+msgid "zoomOutDown"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1033
+msgid "zoomOutLeft"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1035
+msgid "zoomOutRight"
+msgstr ""
+
+#: D:/Git/ecommerce-notification/ecommerce-notification/admin/settings.php:1037
+msgid "zoomOutUp"
+msgstr ""

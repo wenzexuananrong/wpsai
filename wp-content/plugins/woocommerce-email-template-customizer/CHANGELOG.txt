@@ -1,0 +1,222 @@
+/**1.2.3 - 2024.01.05**/
+- Updated: Compatible with WC 8.4
+- Fixed: Fixed Dokan verification link
+- Updated: Update new twitter icon
+
+/**1.2.2 - 2023.10.13**/
+- Fixed: Fixed order price rule
+- Updated: Compatible with WC 8.2
+
+/**1.2.1 - 2023.10.10**/
+- Updated: Updated order price rule and payment methods
+
+/**1.2.0 - 2023.07.10**/
+- Fixed: Fixed Product Category and Product Rule
+- Updated: Compatible with HPOS -WC 7.9
+
+/**1.1.20 - 2023.06.20**/
+- Updated: Compatible with WC 7.8
+- Updated: Compatible with Adorn theme By Edge-Theme
+- Updated: Updated column rule name in page email list
+- Fixed: Fixed rule Product Category not translating with WPML
+- Fixed: Fixed rule Language with polylang
+
+/**1.1.19 - 2023.05.04**/
+- Updated: Updated get post and suggest product by language
+- Updated: Updated email rule by products
+- Updated: Compatible with WC 7.6.0
+
+/**1.1.18 - 2023.03.23**/
+- Updated: Compatible with WC 7.5.0 and WP 6.2
+- Updated: Compatible with 'TrackShip for WooCommerce' plugin by TrackShip
+- Updated: Updated separate shortcode subject and content with [wec_order_meta_subject key=""]
+- Updated: Updated filter hook to remove link in billing and shipping detail. 'viwec_remove_billing_phone_link', 'viwec_remove_billing_email_link',  'viwec_remove_shipping_phone_link'
+
+/**1.1.17 - 2023.03.08**/
+- Fixed: Fixed shortcode not working in subject
+- Updated: Compatible with 'Onea' theme by Elated Themes
+- Updated: Add filter hook suggest product image 'viwec_suggest_product_thumb' -  Accepts any registered image size name, or an array of width and height values in pixels (in that order). Default 'woocommerce_thumbnail'
+- Updated: Add filter hook hidden subtotal when empty discount 'viwec_hidden_subtotal_epmty_discount'
+
+/**1.1.16 - 2022.12.24**/
+- Updated: Compatible with plugin Paid Memberships Pro
+- Fixed: Image full width in outlook 2016
+
+/**1.1.15 - 2022.12.21**/
+- Fixed: Fixed with style WooCommerce
+- Updated: Compatible with WooCommerce Order Status Manager
+- Updated: Compatible with plugin Germanized for WooCommerce
+
+/**1.1.14 - 2022.11.18**/
+- Updated: Option priority for rule
+- Updated: Add parameter 'meta_customer_order' for shortcode '[wec_order_meta ]' to get user meta. Allowed value : meta_customer_order='yes'
+- Updated: Compatible with WC 7.1.0
+
+/**1.1.13 - 2022.10.28**/
+- Updated: Add {viwec_download_product_link_style} to style button download product
+- Updated: Add {viwec_download_product_link_text} to set title for button download product
+- Updated: Compatible with WP 6.1.0
+- Fixed: Fixed PHP Notice:  Array to string conversion
+- Fixed: Fixed NONCE_SALT
+
+/**1.1.12 - 2022.10.18**/
+- Updated: Compatible with WC 7.0.0
+- Updated: Compatible with 'SUMO Discount' by Fantastic Plugins
+- Updated: Add {applied_coupon} to coupon code
+- Updated: Add {order_edit_url} for email send to admin
+- Updated: Add {order_number_with_url_edit} for email send to admin
+- Updated: Add {view_order_url} for email send to customer
+
+/**1.1.11 - 2022.09.17**/
+- Updated: Compatible with 'Slider Revolution' by ThemePunch
+- Updated: Compatible with 'Gioia' theme by Elated Themes
+- Updated: Email subject can run shortcode
+- Updated: Compatible with WC 6.9.2
+- Fixed: Shipping/Billing address font size not being recognized on Outlook
+- Fixed: Fixed email template disable setting working not correct
+- Fixed: Fixed email template not working in outlook with AutomateWoo
+
+/**1.1.10 - 2022.08.04**/
+- Update: Filter shortcode by email type
+- Update: Compatible with AutomateWoo
+- Update: Compatible with Dokan pro verification email
+
+/**1.1.9 - 2022.05.28**/
+- Fix: Tik tok icon is missing
+- Fix: Minify html content
+- Update: Remove duplicate product attributes on WooCommerce 6.4
+- Update: Option remove shipping address if same billing address
+- Update: Include both language rules & billing country rules
+
+/**1.1.8 - 2022.03.31**/
+- Fix: class WP_Upgrade not found
+- Fix: shortcode ignore 9mail
+
+/**1.1.7 - 2022.03.30**/
+- Fix: Select type control
+- Updated: Minify email content
+- Updated: tiktok & telegram social icons
+- Updated: VillaTheme_Support
+
+/**1.1.6 - 2022.03.23**/
+- Fix: Change capability_type
+- Updated: Add {set_password_url} to new account email
+- Updated: html tab for text element
+- Updated: VillaTheme_Support
+
+/**1.1.4 - 2021.22.12 **/
+- Updated: Compatible with Dokan pro when generate coupon
+- Fixed: Display font-family on left control panel
+
+/**1.1.3 - 2021.10.25 **/
+- Fixed: Active error
+
+/**1.1.2 - 2021.10.22 **/
+- Fixed: Social distance on mobile view
+- Fixed: Show shipping phone
+
+/**1.1.1 - 2021.10.14 **/
+- Fixed: Display order note to customer
+
+/**1.1.0 - 2021.10.06 **/
+- Fixed: Generate coupon with amount 0
+- Updated: Template blocks
+
+/**1.0.3.1 - 2021.09.21 **/
+- Fixed: Color of link
+
+/**1.0.3 - 2021.09.17 **/
+- Fixed: Send email with wc_mailer
+- Fixed: Style of default template with outlook
+
+/**1.0.2 - 2021.09.09 **/
+- Updated: Add do shortcode
+- Updated: Order detail template overridable
+- Updated: Font-family
+- Updated: Center on mobile option for text element
+- Updated: Fix button on outlook
+- Updated: Show custom css on preview
+- Updated: Remove product link in order detail
+- Updated: Add shortcode {from_email}
+
+/**1.0.1.6 - 2021.06.08 **/
+- Fixed: Remove duplicate heading in default template
+- Updated: Add shortcode {customer_phone_number}
+
+/**1.0.1.5 - 2021.05.03 **/
+- Updated: RTL support
+- Updated: Disable from WC email list
+- Fixed: Remove 3rd argument form subject hook
+
+/**1.0.1.4 - 2021.03.10 **/
+- Fixed: Align image in Text Editor
+- Updated: Width of template
+- Updated: Order detail - Image width of horizontal style
+- Updated: Responsive point
+- Updated: Hide shipping address if shipping method is local pickup
+- Fixed: Keep format of note to customer
+- Updated: Add Attachment files
+- Updated: Order subtotal component option: hide shipping row when shipping is free
+
+/**1.0.1.3 - 2021.02.21 **/
+- Fixed: custom CSSadmin
+- Fixed: cache replace shortcode
+
+/**1.0.1.2 - 2021.02.08 **/
+- Updated: Add custom URL for image element
+- Fixed: Image width in mobile view
+- Fixed: Change priority of wp_new_user_notification_email hook
+- Fixed: Strip html tag in subject
+- Fixed: WPML for new account template
+- Fixed: Search product for coupon
+
+/**1.0.1.1 - 2020.12.26 **/
+- Fixed: Clear Woo style
+
+/**1.0.1 - 2020.12.25 **/
+- Fixed: Display item meta
+- Fixed: Get coupon expire date
+- Updated: Design for default template
+- Updated: Copy, paste element, row feature
+- Updated: Language rule for WPML & Polylang
+
+/**1.0.0.7 - 2020.11.24 **/
+- Fixed: hook woocommerce_email_customer_details
+- Fixed: missing padding when edit on Firefox
+- Fixed: Clear template after render message
+- Updated: Report order & clicked from suggestion product in email
+- Updated: Add more social icons & social icon width
+- Updated: Display product's SKU
+
+/**1.0.0.6 - 2020.10.31 **/
+- Updated: Add hook woocommerce_email_order_meta to WC Hook element
+- Updated: Compatible with Flexible Checkout Fields
+- Updated: Compatible with Order Delivery Date for WooCommerce (Lite version)
+
+/**1.0.0.5 - 2020.10.24 **/
+- Updated: Default template
+- Updated: Admin note
+- Fixed: replace some shortcodes
+- Updated: Compatible with Claudio Sanches - Correios for WooCommerce
+
+/**1.0.0.4 - 2020.10.19 **/
+- Fixed: Activate samples
+
+/**1.0.0.3 - 2020.10.17 **/
+- Updated: Email new_account support Wordpress register form
+- Updated: WC Hook element
+- Updated: Hooks for 3rd party plugin make compatible
+- Updated: Order note element
+- Updated: Add 'add to cart' to suggest products.
+
+/**1.0.0.2 - 2020.10.06 **/
+- Updated: Search elements feature
+- Fixed: Some shortcodes
+
+/**1.0.0.1 - 2020.09.24 **/
+- Fixed: Auto update
+- Added: Language files
+- Updated: Notice compatible with WC 4.5.1, Wordpress 5.5.1
+
+/**1.0.0 - 2020.09.23 **/
+~ The first released.

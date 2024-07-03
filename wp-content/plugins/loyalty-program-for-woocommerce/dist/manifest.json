@@ -1,0 +1,276 @@
+{
+  "_antd-legacy.f8804152.js": {
+    "file": "common/antd-legacy.f8804152.js",
+    "imports": [
+      "_reactLib-legacy.665c3571.js",
+      "_redux-legacy.770ea02d.js"
+    ]
+  },
+  "_antd.60d65ea3.js": {
+    "file": "common/antd.60d65ea3.js",
+    "imports": [
+      "_reactLib.86ff7851.js",
+      "_redux.2659d610.js"
+    ]
+  },
+  "_antdIcons-legacy.c0133bdf.js": {
+    "file": "common/antdIcons-legacy.c0133bdf.js",
+    "imports": [
+      "_reactLib-legacy.665c3571.js",
+      "_redux-legacy.770ea02d.js",
+      "_antd-legacy.f8804152.js"
+    ]
+  },
+  "_antdIcons.a39f2f9c.js": {
+    "file": "common/antdIcons.a39f2f9c.js",
+    "imports": [
+      "_reactLib.86ff7851.js",
+      "_redux.2659d610.js",
+      "_antd.60d65ea3.js"
+    ]
+  },
+  "_index-legacy.bd623a01.js": {
+    "file": "common/index-legacy.bd623a01.js",
+    "imports": [
+      "_reactLib-legacy.665c3571.js"
+    ]
+  },
+  "_index.241b22b8.js": {
+    "file": "common/index.241b22b8.js",
+    "imports": [
+      "_reactLib.86ff7851.js"
+    ]
+  },
+  "_loyalty-point-notice-legacy.9e9498d2.js": {
+    "file": "common/loyalty-point-notice-legacy.9e9498d2.js"
+  },
+  "_loyalty-point-notice.f2314cf9.js": {
+    "file": "common/loyalty-point-notice.f2314cf9.js"
+  },
+  "_reactLib-legacy.665c3571.js": {
+    "file": "common/reactLib-legacy.665c3571.js"
+  },
+  "_reactLib.86ff7851.js": {
+    "file": "common/reactLib.86ff7851.js"
+  },
+  "_redux-legacy.770ea02d.js": {
+    "file": "common/redux-legacy.770ea02d.js",
+    "imports": [
+      "_reactLib-legacy.665c3571.js"
+    ]
+  },
+  "_redux.2659d610.js": {
+    "file": "common/redux.2659d610.js",
+    "imports": [
+      "_reactLib.86ff7851.js"
+    ]
+  },
+  "packages/lpfw-admin-app/index-legacy.tsx": {
+    "file": "packages/lpfw-admin-app/index-legacy.ad7803bc.js",
+    "imports": [
+      "_index-legacy.bd623a01.js",
+      "_reactLib-legacy.665c3571.js"
+    ],
+    "isEntry": true,
+    "src": "packages/lpfw-admin-app/index-legacy.tsx"
+  },
+  "packages/lpfw-admin-app/index.css": {
+    "file": "assets/index-05d6b2e1.css",
+    "src": "packages/lpfw-admin-app/index.css"
+  },
+  "packages/lpfw-admin-app/index.tsx": {
+    "css": [
+      "assets/index-05d6b2e1.css"
+    ],
+    "file": "packages/lpfw-admin-app/index.9ce9257c.js",
+    "imports": [
+      "_index.241b22b8.js",
+      "_reactLib.86ff7851.js"
+    ],
+    "isEntry": true,
+    "src": "packages/lpfw-admin-app/index.tsx"
+  },
+  "packages/lpfw-blocks/index-legacy.tsx": {
+    "file": "packages/lpfw-blocks/index-legacy.8b30dcf1.js",
+    "isEntry": true,
+    "src": "packages/lpfw-blocks/index-legacy.tsx"
+  },
+  "packages/lpfw-blocks/index.css": {
+    "file": "assets/index-60cb2478.css",
+    "src": "packages/lpfw-blocks/index.css"
+  },
+  "packages/lpfw-blocks/index.tsx": {
+    "css": [
+      "assets/index-60cb2478.css"
+    ],
+    "file": "packages/lpfw-blocks/index.bc0fbfa6.js",
+    "isEntry": true,
+    "src": "packages/lpfw-blocks/index.tsx"
+  },
+  "packages/lpfw-cart-block/index-legacy.tsx": {
+    "file": "packages/lpfw-cart-block/index-legacy.6010cd62.js",
+    "imports": [
+      "_loyalty-point-notice-legacy.9e9498d2.js"
+    ],
+    "isEntry": true,
+    "src": "packages/lpfw-cart-block/index-legacy.tsx"
+  },
+  "packages/lpfw-cart-block/index.tsx": {
+    "file": "packages/lpfw-cart-block/index.08f45042.js",
+    "imports": [
+      "_loyalty-point-notice.f2314cf9.js"
+    ],
+    "isEntry": true,
+    "src": "packages/lpfw-cart-block/index.tsx"
+  },
+  "packages/lpfw-checkout-block/index-legacy.tsx": {
+    "file": "packages/lpfw-checkout-block/index-legacy.72d4a3d7.js",
+    "imports": [
+      "_loyalty-point-notice-legacy.9e9498d2.js"
+    ],
+    "isEntry": true,
+    "src": "packages/lpfw-checkout-block/index-legacy.tsx"
+  },
+  "packages/lpfw-checkout-block/index.tsx": {
+    "file": "packages/lpfw-checkout-block/index.ef22b531.js",
+    "imports": [
+      "_loyalty-point-notice.f2314cf9.js"
+    ],
+    "isEntry": true,
+    "src": "packages/lpfw-checkout-block/index.tsx"
+  },
+  "packages/lpfw-checkout-redeem/index-legacy.ts": {
+    "file": "packages/lpfw-checkout-redeem/index-legacy.266ac6ad.js",
+    "isEntry": true,
+    "src": "packages/lpfw-checkout-redeem/index-legacy.ts"
+  },
+  "packages/lpfw-checkout-redeem/index.css": {
+    "file": "assets/index-305f6112.css",
+    "src": "packages/lpfw-checkout-redeem/index.css"
+  },
+  "packages/lpfw-checkout-redeem/index.ts": {
+    "css": [
+      "assets/index-305f6112.css"
+    ],
+    "file": "packages/lpfw-checkout-redeem/index.e24a24a2.js",
+    "isEntry": true,
+    "src": "packages/lpfw-checkout-redeem/index.ts"
+  },
+  "packages/lpfw-edit-product/index-legacy.ts": {
+    "file": "packages/lpfw-edit-product/index-legacy.b0cd0be6.js",
+    "isEntry": true,
+    "src": "packages/lpfw-edit-product/index-legacy.ts"
+  },
+  "packages/lpfw-edit-product/index.css": {
+    "file": "assets/index-2e7a7dcb.css",
+    "src": "packages/lpfw-edit-product/index.css"
+  },
+  "packages/lpfw-edit-product/index.ts": {
+    "css": [
+      "assets/index-2e7a7dcb.css"
+    ],
+    "file": "packages/lpfw-edit-product/index.a8f073af.js",
+    "isEntry": true,
+    "src": "packages/lpfw-edit-product/index.ts"
+  },
+  "packages/lpfw-license-reminder/index-legacy.ts": {
+    "file": "packages/lpfw-license-reminder/index-legacy.da351fae.js",
+    "isEntry": true,
+    "src": "packages/lpfw-license-reminder/index-legacy.ts"
+  },
+  "packages/lpfw-license-reminder/index.ts": {
+    "file": "packages/lpfw-license-reminder/index.a13b578b.js",
+    "isEntry": true,
+    "src": "packages/lpfw-license-reminder/index.ts"
+  },
+  "packages/lpfw-license/index-legacy.ts": {
+    "file": "packages/lpfw-license/index-legacy.13d0a734.js",
+    "isEntry": true,
+    "src": "packages/lpfw-license/index-legacy.ts"
+  },
+  "packages/lpfw-license/index.css": {
+    "file": "assets/index-18ef024d.css",
+    "src": "packages/lpfw-license/index.css"
+  },
+  "packages/lpfw-license/index.ts": {
+    "css": [
+      "assets/index-18ef024d.css"
+    ],
+    "file": "packages/lpfw-license/index.e039f644.js",
+    "isEntry": true,
+    "src": "packages/lpfw-license/index.ts"
+  },
+  "packages/lpfw-mu-license/index-legacy.ts": {
+    "file": "packages/lpfw-mu-license/index-legacy.0c76299a.js",
+    "isEntry": true,
+    "src": "packages/lpfw-mu-license/index-legacy.ts"
+  },
+  "packages/lpfw-mu-license/index.css": {
+    "file": "assets/index-b3c0628f.css",
+    "src": "packages/lpfw-mu-license/index.css"
+  },
+  "packages/lpfw-mu-license/index.ts": {
+    "css": [
+      "assets/index-b3c0628f.css"
+    ],
+    "file": "packages/lpfw-mu-license/index.e9ca10aa.js",
+    "isEntry": true,
+    "src": "packages/lpfw-mu-license/index.ts"
+  },
+  "packages/lpfw-my-points/index-legacy.tsx": {
+    "file": "packages/lpfw-my-points/index-legacy.af6a2e02.js",
+    "imports": [
+      "_reactLib-legacy.665c3571.js",
+      "_redux-legacy.770ea02d.js",
+      "_antd-legacy.f8804152.js",
+      "_index-legacy.bd623a01.js",
+      "_antdIcons-legacy.c0133bdf.js"
+    ],
+    "isEntry": true,
+    "src": "packages/lpfw-my-points/index-legacy.tsx"
+  },
+  "packages/lpfw-my-points/index.css": {
+    "file": "assets/index-cf3c3f08.css",
+    "src": "packages/lpfw-my-points/index.css"
+  },
+  "packages/lpfw-my-points/index.tsx": {
+    "css": [
+      "assets/index-cf3c3f08.css"
+    ],
+    "file": "packages/lpfw-my-points/index.1c9f5afe.js",
+    "imports": [
+      "_reactLib.86ff7851.js",
+      "_redux.2659d610.js",
+      "_antd.60d65ea3.js",
+      "_index.241b22b8.js",
+      "_antdIcons.a39f2f9c.js"
+    ],
+    "isEntry": true,
+    "src": "packages/lpfw-my-points/index.tsx"
+  },
+  "packages/lpfw-product-points-notice/index-legacy.ts": {
+    "file": "packages/lpfw-product-points-notice/index-legacy.366809d6.js",
+    "isEntry": true,
+    "src": "packages/lpfw-product-points-notice/index-legacy.ts"
+  },
+  "packages/lpfw-product-points-notice/index.ts": {
+    "file": "packages/lpfw-product-points-notice/index.b2cbbd4e.js",
+    "isEntry": true,
+    "src": "packages/lpfw-product-points-notice/index.ts"
+  },
+  "packages/lpfw-redeem-points-block/index-legacy.ts": {
+    "file": "packages/lpfw-redeem-points-block/index-legacy.8b33f921.js",
+    "isEntry": true,
+    "src": "packages/lpfw-redeem-points-block/index-legacy.ts"
+  },
+  "packages/lpfw-redeem-points-block/index.ts": {
+    "file": "packages/lpfw-redeem-points-block/index.d30c68b8.js",
+    "isEntry": true,
+    "src": "packages/lpfw-redeem-points-block/index.ts"
+  },
+  "vite/legacy-polyfills-legacy": {
+    "file": "polyfills-legacy.375ecab9.js",
+    "isEntry": true,
+    "src": "vite/legacy-polyfills-legacy"
+  }
+}

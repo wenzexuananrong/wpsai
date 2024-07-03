@@ -1,0 +1,486 @@
+# Copyright (C) 2024 Payoneer
+# This file is distributed under the MPL-2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Payoneer Checkout development\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/en_GB\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: payoneer-checkout\n"
+
+#. Plugin Name of the plugin
+#: payoneer-checkout.php
+#: modules.local/payment-gateway/inc/services.php:205
+#: modules.local/status-report/src/StatusReportModule.php:59
+#: modules/inpsyde/payoneer-payment-gateway/inc/services.php:205
+#: modules/inpsyde/payoneer-status-report/src/StatusReportModule.php:59
+msgid "Payoneer Checkout"
+msgstr ""
+
+#. Description of the plugin
+#: payoneer-checkout.php
+msgid "Payoneer Checkout for WooCommerce"
+msgstr ""
+
+#. Author of the plugin
+#: payoneer-checkout.php
+msgid "Payoneer"
+msgstr ""
+
+#. Author URI of the plugin
+#: payoneer-checkout.php
+msgid "https://www.payoneer.com/"
+msgstr ""
+
+#: inc/error.php:30
+msgid "Payoneer Checkout failed to initialize"
+msgstr ""
+
+#: inc/extensions.php:154
+msgid "The transaction has been aborted"
+msgstr ""
+
+#: inc/extensions.php:155
+msgid "Please try another network"
+msgstr ""
+
+#: inc/extensions.php:156
+msgid "Please try another account"
+msgstr ""
+
+#: inc/extensions.php:157
+msgid "Please attempt the transaction again"
+msgstr ""
+
+#: inc/extensions.php:158
+msgid "Transaction requires verification"
+msgstr ""
+
+#: inc/services.php:124
+msgid "Settings"
+msgstr ""
+
+#: inc/services.php:903
+msgid "live"
+msgstr ""
+
+#: inc/services.php:906
+msgid "sandbox"
+msgstr ""
+
+#: inc/services.php:1934
+msgid "Tax code must contain 2-20 characters. Only latin letters and digits are allowed."
+msgstr ""
+
+#: modules.local/admin-banner/src/AdminBannerRenderer.php:69
+#: modules/inpsyde/payoneer-admin-banner/src/AdminBannerRenderer.php:69
+msgid ""
+"Ready to convert more customers and deliver checkout experiences that build\n"
+"                        loyalty?"
+msgstr ""
+
+#: modules.local/admin-banner/src/AdminBannerRenderer.php:75
+#: modules/inpsyde/payoneer-admin-banner/src/AdminBannerRenderer.php:75
+msgid ""
+"Register for your Payoneer Checkout account and start selling around the\n"
+"                        world."
+msgstr ""
+
+#: modules.local/admin-banner/src/AdminBannerRenderer.php:86
+#: modules/inpsyde/payoneer-admin-banner/src/AdminBannerRenderer.php:86
+msgid "Register for Checkout"
+msgstr ""
+
+#: modules.local/admin-banner/src/AdminBannerRenderer.php:91
+#: modules/inpsyde/payoneer-admin-banner/src/AdminBannerRenderer.php:91
+msgid "Configure Checkout plugin"
+msgstr ""
+
+#: modules.local/analytics/inc/extensions.php:10
+#: modules/inpsyde/payoneer-analytics/inc/extensions.php:10
+msgid "Analytics"
+msgstr ""
+
+#: modules.local/analytics/inc/extensions.php:14
+#: modules/inpsyde/payoneer-analytics/inc/extensions.php:14
+msgid "Enable analytics"
+msgstr ""
+
+#: modules.local/checkout/inc/amex_icon_setting_field.php:10
+#: modules/inpsyde/payoneer-payment-gateway-checkout/inc/amex_icon_setting_field.php:10
+msgid "American Express logo"
+msgstr ""
+
+#: modules.local/checkout/inc/amex_icon_setting_field.php:12
+#: modules/inpsyde/payoneer-payment-gateway-checkout/inc/amex_icon_setting_field.php:12
+msgid "Display American Express logo next to the payment method title on the checkout page."
+msgstr ""
+
+#: modules.local/checkout/inc/appearance_settings_fields.php:11
+#: modules/inpsyde/payoneer-payment-gateway-checkout/inc/appearance_settings_fields.php:11
+msgid "Payment widget appearance"
+msgstr ""
+
+#: modules.local/checkout/inc/general_settings_fields.php:16
+#: modules/inpsyde/payoneer-payment-gateway-checkout/inc/general_settings_fields.php:16
+msgid "Select payment flow"
+msgstr ""
+
+#: modules.local/checkout/inc/jcb_icon_setting_field.php:10
+#: modules/inpsyde/payoneer-payment-gateway-checkout/inc/jcb_icon_setting_field.php:10
+msgid "JCB logo"
+msgstr ""
+
+#: modules.local/checkout/inc/jcb_icon_setting_field.php:12
+#: modules/inpsyde/payoneer-payment-gateway-checkout/inc/jcb_icon_setting_field.php:12
+msgid "Display JCB logo next to the payment method title on the checkout page. Merchants of Record shall not display the logo."
+msgstr ""
+
+#: modules.local/checkout/inc/services.php:331
+#: modules/inpsyde/payoneer-payment-gateway-checkout/inc/services.php:331
+msgid "Select the payment flow for every transaction."
+msgstr ""
+
+#: modules.local/checkout/src/CheckoutModule.php:404
+#: modules/inpsyde/payoneer-payment-gateway-checkout/src/CheckoutModule.php:404
+msgid "Payment has been aborted"
+msgstr ""
+
+#: modules.local/checkout/src/CheckoutModule.php:423
+#: modules/inpsyde/payoneer-payment-gateway-checkout/src/CheckoutModule.php:423
+msgid "Payment failed. Please try again"
+msgstr ""
+
+#: modules.local/checkout/src/CheckoutModule.php:425
+#: modules/inpsyde/payoneer-payment-gateway-checkout/src/CheckoutModule.php:425
+msgid "Payment canceled. Please try again or choose another payment method."
+msgstr ""
+
+#. translators: %1$s, %2$s and %3$s are replaced with the opening and closing 'a' tags
+#: modules.local/checkout/src/CheckoutModule.php:571
+#: modules/inpsyde/payoneer-payment-gateway-checkout/src/CheckoutModule.php:571
+msgid "Enter correct test credentials and save settings to get status notification and unblock live mode. You can %1$srefresh%2$s the page to check if status notification is already received."
+msgstr ""
+
+#: modules.local/checkout/src/PaymentProcessor/AbstractPaymentProcessor.php:130
+#: modules/inpsyde/payoneer-payment-gateway-checkout/src/PaymentProcessor/AbstractPaymentProcessor.php:130
+msgid "API call failed. Please try again or contact the shop admin. Error details can be found in logs."
+msgstr ""
+
+#. translators: Transaction ID supplied by WooCommerce plugin
+#: modules.local/checkout/src/PaymentProcessor/AbstractPaymentProcessor.php:172
+#: modules/inpsyde/payoneer-payment-gateway-checkout/src/PaymentProcessor/AbstractPaymentProcessor.php:172
+msgid "Initiating payment with transaction ID \"%1$s\""
+msgstr ""
+
+#: modules.local/checkout/src/PaymentProcessor/AbstractPaymentProcessor.php:214
+#: modules/inpsyde/payoneer-payment-gateway-checkout/src/PaymentProcessor/AbstractPaymentProcessor.php:214
+msgid "The payment was not processed. Please try again."
+msgstr ""
+
+#: modules.local/checkout/src/PaymentProcessor/AbstractPaymentProcessor.php:259
+#: modules/inpsyde/payoneer-payment-gateway-checkout/src/PaymentProcessor/AbstractPaymentProcessor.php:259
+msgid "Failed to initialize Payoneer session. Payoneer Checkout is not configured properly."
+msgstr ""
+
+#: modules.local/embedded-payment/inc/custom_css_fields.php:16
+#: modules/inpsyde/payoneer-embedded-payment/inc/custom_css_fields.php:16
+msgid "Custom CSS"
+msgstr ""
+
+#: modules.local/embedded-payment/inc/custom_css_fields.php:18
+#: modules/inpsyde/payoneer-embedded-payment/inc/custom_css_fields.php:18
+msgid "Customize the look and feel of the payment widget in embedded payment flow"
+msgstr ""
+
+#: modules.local/embedded-payment/inc/extensions.php:33
+#: modules/inpsyde/payoneer-embedded-payment/inc/extensions.php:33
+msgid "Embedded"
+msgstr ""
+
+#: modules.local/embedded-payment/inc/extensions.php:40
+#: modules/inpsyde/payoneer-embedded-payment/inc/extensions.php:40
+msgid "Embedded (default): customers get a payment page that's embedded in your shop."
+msgstr ""
+
+#: modules.local/embedded-payment/src/ListUrlPaymentRequestValidator.php:49
+#: modules/inpsyde/payoneer-embedded-payment/src/ListUrlPaymentRequestValidator.php:49
+msgid "List URL mismatch. This could mean your payment session has expired. Please try again"
+msgstr ""
+
+#: modules.local/embedded-payment/src/PaymentFieldsRenderer/WidgetPlaceholderFieldRenderer.php:41
+#: modules/inpsyde/payoneer-embedded-payment/src/PaymentFieldsRenderer/WidgetPlaceholderFieldRenderer.php:41
+msgid "Payment will be done on a dedicated payment page"
+msgstr ""
+
+#: modules.local/hosted-payment/inc/extensions.php:22
+#: modules/inpsyde/payoneer-hosted-payment/inc/extensions.php:22
+msgid "Hosted"
+msgstr ""
+
+#: modules.local/hosted-payment/inc/extensions.php:29
+#: modules/inpsyde/payoneer-hosted-payment/inc/extensions.php:29
+msgid "Hosted: customers get redirected to an external payment page."
+msgstr ""
+
+#: modules.local/hosted-payment/src/PaymentProcessor/HostedPaymentProcessor.php:82
+#: modules/inpsyde/payoneer-hosted-payment/src/PaymentProcessor/HostedPaymentProcessor.php:82
+msgid "The customer is being redirected to an external payment page."
+msgstr ""
+
+#: modules.local/hosted-payment/src/PaymentProcessor/HostedPaymentProcessor.php:142
+#: modules/inpsyde/payoneer-hosted-payment/src/PaymentProcessor/HostedPaymentProcessor.php:142
+msgid "An error occurred during payment processing"
+msgstr ""
+
+#: modules.local/list-session/src/Factory/Product/WcCartBasedProductListFactory.php:162
+#: modules/inpsyde/payoneer-list-session/src/Factory/Product/WcCartBasedProductListFactory.php:162
+msgid "Shipping"
+msgstr ""
+
+#: modules.local/list-session/src/ListSessionInitializer.php:84
+#: modules/inpsyde/payoneer-list-session/src/ListSessionInitializer.php:84
+msgid "The selected payment method for your order is not available at the moment. Please select another payment method."
+msgstr ""
+
+#: modules.local/mor/src/MorModule.php:86
+#: modules.local/mor/src/MorModule.php:129
+#: modules/inpsyde/payoneer-mor/src/MorModule.php:86
+#: modules/inpsyde/payoneer-mor/src/MorModule.php:129
+msgid "Tax code to apply on this product"
+msgstr ""
+
+#: modules.local/mor/src/MorModule.php:90
+#: modules/inpsyde/payoneer-mor/src/MorModule.php:90
+msgid "Tax code"
+msgstr ""
+
+#: modules.local/mor/src/MorModule.php:130
+#: modules/inpsyde/payoneer-mor/src/MorModule.php:130
+msgid "Tax Code"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:26
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:26
+msgid "Enable/Disable"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:28
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:28
+msgid "Enable Payoneer Checkout"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:32
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:32
+msgid "Live mode"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:34
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:34
+msgid "Enable live mode"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:39
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:39
+msgid "API username"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:41
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:41
+msgid "Enter your API username here"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:50
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:50
+msgid "Live API token"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:69
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:69
+msgid "Live Store code"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:71
+#: modules.local/payment-gateway/inc/fields.php:103
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:71
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:103
+msgid "Enter your Store code here"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:82
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:82
+msgid "Test API token"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:101
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:101
+msgid "Test Store code"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:110
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:110
+msgid "Title"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:112
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:112
+msgid "The title that the user sees at checkout"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:116
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:116
+msgid "Credit / Debit Card"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:120
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:120
+msgid "Description"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/fields.php:122
+#: modules/inpsyde/payoneer-payment-gateway/inc/fields.php:122
+msgid "The description that the user sees at checkout"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/services.php:153
+#: modules/inpsyde/payoneer-payment-gateway/inc/services.php:153
+msgid "Payoneer Checkout is the next generation of payment processing platforms."
+msgstr ""
+
+#. translators: %1$s, %2$s, %3$s and %4$s are replaced with opening and closing 'a' tags.
+#: modules.local/payment-gateway/inc/services.php:159
+#: modules/inpsyde/payoneer-payment-gateway/inc/services.php:159
+msgid "By using Payoneer Checkout, you agree to the %1$sTerms of Service%2$s and %3$sPrivacy policy%4$s."
+msgstr ""
+
+#. translators: %1$s, %2$s, %3$s, %4$s, %5$s and %6$s is replaced with the opening and closing 'a' tags.
+#: modules.local/payment-gateway/inc/services.php:183
+#: modules/inpsyde/payoneer-payment-gateway/inc/services.php:183
+msgid "Before you begin read How to %1$sConnect WooCommerce%2$s to Payoneer Checkout. Make sure you have a Payoneer Account. If you don't, see %3$sRegister for Checkout%4$s. You can get your %5$sauthentication data%6$s in the Payoneer Account."
+msgstr ""
+
+#. translators: %1$s is replaced with the refund long ID
+#: modules.local/payment-gateway/inc/services.php:221
+#: modules/inpsyde/payoneer-payment-gateway/inc/services.php:221
+msgid " Refunded by Payoneer Checkout - long ID: %1$s"
+msgstr ""
+
+#: modules.local/payment-gateway/inc/services.php:740
+#: modules/inpsyde/payoneer-payment-gateway/inc/services.php:740
+msgid "Are you sure you want to reset this field to its default value?"
+msgstr ""
+
+#: modules.local/payment-gateway/src/Gateway/PaymentGateway.php:178
+#: modules/inpsyde/payoneer-payment-gateway/src/Gateway/PaymentGateway.php:178
+msgid "Test:"
+msgstr ""
+
+#. translators: %1$s is replaced with the actual order ID.
+#: modules.local/payment-gateway/src/Gateway/PaymentGateway.php:363
+#: modules/inpsyde/payoneer-payment-gateway/src/Gateway/PaymentGateway.php:363
+msgid "Failed to process the refund: the order with ID %1$s not found"
+msgstr ""
+
+#: modules.local/payment-gateway/src/Gateway/PaymentGateway.php:380
+#: modules/inpsyde/payoneer-payment-gateway/src/Gateway/PaymentGateway.php:380
+msgid "Cannot refund an amount of 0,00"
+msgstr ""
+
+#: modules.local/payment-gateway/src/Gateway/PaymentGateway.php:399
+#: modules/inpsyde/payoneer-payment-gateway/src/Gateway/PaymentGateway.php:399
+msgid "Failed to refund the order payment"
+msgstr ""
+
+#. translators: Placeholder text if payment fields failed to render
+#: modules.local/payment-gateway/src/Gateway/PaymentGateway.php:422
+#: modules/inpsyde/payoneer-payment-gateway/src/Gateway/PaymentGateway.php:422
+msgid "Payment method not available. Please select another payment method."
+msgstr ""
+
+#. translators: %1$s, %2$s and %3$s are replaced with the opening and closing 'a' tags
+#: modules.local/payment-gateway/src/PaymentGatewayModule.php:221
+#: modules/inpsyde/payoneer-payment-gateway/src/PaymentGatewayModule.php:221
+msgid "%1$sEnable live mode%2$s when you are ready to take live transactions."
+msgstr ""
+
+#: modules.local/payment-gateway/src/PaymentGatewayModule.php:232
+#: modules/inpsyde/payoneer-payment-gateway/src/PaymentGatewayModule.php:232
+msgid "Payoneer Checkout Live mode is disabled"
+msgstr ""
+
+#: modules.local/status-report/inc/services.php:33
+#: modules/inpsyde/payoneer-status-report/inc/services.php:33
+msgid "Shop country code"
+msgstr ""
+
+#: modules.local/status-report/inc/services.php:35
+#: modules/inpsyde/payoneer-status-report/inc/services.php:35
+msgid "Country / State value on Settings / General / Store Address."
+msgstr ""
+
+#: modules.local/status-report/inc/services.php:42
+#: modules/inpsyde/payoneer-status-report/inc/services.php:42
+msgid "Merchant code"
+msgstr ""
+
+#: modules.local/status-report/inc/services.php:47
+#: modules/inpsyde/payoneer-status-report/inc/services.php:47
+msgid "Payment flow"
+msgstr ""
+
+#: modules.local/status-report/inc/services.php:49
+#: modules/inpsyde/payoneer-status-report/inc/services.php:49
+msgid "Displays whether a plugin is using a hosted or an embedded payment flow"
+msgstr ""
+
+#: modules.local/taxes/src/PayForOrderTotalsManager.php:91
+#: modules/inpsyde/payoneer-payment-gateway-taxes/src/PayForOrderTotalsManager.php:91
+msgid "Tax:"
+msgstr ""
+
+#: modules.local/taxes/src/TaxesModule.php:528
+#: modules/inpsyde/payoneer-payment-gateway-taxes/src/TaxesModule.php:528
+msgid "Tax"
+msgstr ""
+
+#: modules.local/third-party-compat/src/ThirdPartyCompatModule.php:119
+#: modules/inpsyde/payoneer-third-party-compat/src/ThirdPartyCompatModule.php:119
+msgid "Pay"
+msgstr ""
+
+#: modules.local/third-party-compat/src/ThirdPartyCompatModule.php:120
+#: modules/inpsyde/payoneer-third-party-compat/src/ThirdPartyCompatModule.php:120
+msgid "Place order"
+msgstr ""
+
+#: modules.local/webhooks/inc/fields.php:13
+#: modules/inpsyde/payoneer-webhooks/inc/fields.php:13
+msgid "Endpoints"
+msgstr ""
+
+#: modules.local/webhooks/inc/fields.php:18
+#: modules/inpsyde/payoneer-webhooks/inc/fields.php:18
+msgid "General endpoint"
+msgstr ""
+
+#: modules.local/webhooks/inc/fields.php:21
+#: modules/inpsyde/payoneer-webhooks/inc/fields.php:21
+msgid "Please make sure the endpoint URL is not blocked by a firewall"
+msgstr ""
+
+#. translators: %1$s is replaced with the actual notification ID.
+#: modules.local/webhooks/src/OrderPaymentWebhookHandler/RefundedPaymentHandler.php:74
+#: modules/inpsyde/payoneer-webhooks/src/OrderPaymentWebhookHandler/RefundedPaymentHandler.php:74
+msgid "Refunded automatically on incoming webhook. Notification id is %1$s."
+msgstr ""
+
+#. translators: %1$s is replaced with the actual error message
+#: modules.local/webhooks/src/OrderPaymentWebhookHandler/RefundedPaymentHandler.php:95
+#: modules/inpsyde/payoneer-webhooks/src/OrderPaymentWebhookHandler/RefundedPaymentHandler.php:95
+msgid "Failed to create an order refund on incoming webhook. Error message: %1$s"
+msgstr ""
